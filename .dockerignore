@@ -1,0 +1,6 @@
+.venv
+__pycache__
+*.pyc
+biologyV3.txt
+build_questions.py
+progress.json
