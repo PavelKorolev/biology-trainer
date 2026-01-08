@@ -1221,7 +1221,8 @@
       "D": "obsahujú enzýmy, schopné štiepiť niektoré látky",
       "E": "sú organelami osmotickej rovnováhy",
       "F": "obsahujú enzýmy syntetizujúce látky vylučované z bunky exocytózou",
-      "G": "sú stálou membránovou organelou eukaryotických živočíšnych buniek h) ich enzýmy rozkladajú niektoré látky prijaté do buniek"
+      "G": "sú stálou membránovou organelou eukaryotických živočíšnych buniek",
+      "H": "ich enzýmy rozkladajú niektoré látky prijaté do buniek"
     },
     "correct": [
       "B",
