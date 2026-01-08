@@ -1717,7 +1717,8 @@
       "D": "koncentračného spádu",
       "E": "koncentračného gradientu",
       "F": "rozdielu koncentrácie danej látky v mitochondriách a chloroplastoch",
-      "G": "rozdielu koncentrácie danej látky v endoplazmatickom retikule a ribozómoch h) rozdielu koncentrácie danej látky na póloch bunky"
+      "G": "rozdielu koncentrácie danej látky v endoplazmatickom retikule a ribozómoch",
+      "H": "rozdielu koncentrácie danej látky na póloch bunky"
     },
     "correct": [
       "A",
@@ -1898,7 +1899,8 @@
     "options": {
       "A": "jav vyplývajúci z konzumovania anabolík",
       "B": "súbor bunkových procesov, pri ktorých prebieha prevažne odbúravanie látok",
-      "C": "súbor bunkových metabolických procesov, pri ktorých prebieha prevažne syntéza látok d) napríklad proteosyntéza",
+      "C": "súbor bunkových metabolických procesov, pri ktorých prebieha prevažne syntéza látok",
+      "D": "napríklad proteosyntéza",
       "E": "jav vyplývajúci z poruchy katabolizmu",
       "F": "súbor bunkových metabolických procesov, pri ktorých prebieha prevažne syntéza látok, napríklad fotosyntéza a proteosyntéza",
       "G": "súbor bunkových metabolických procesov, pri ktorých prebieha prevažne syntéza látok, napríklad dýchanie a trávenie",
