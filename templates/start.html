@@ -12,6 +12,28 @@
             line-height: 1.5;
         }
 
+        /* ---------- вкладки ---------- */
+        .tabs {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .tab {
+            padding: 8px 14px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #333;
+            background: #f0f0f0;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .tab.active {
+            background: #dbeafe;
+            color: #1e3a8a;
+        }
+
         h2 {
             margin-bottom: 10px;
         }
@@ -35,31 +57,50 @@
             font-size: 14px;
             cursor: pointer;
         }
+
+        hr {
+            margin: 25px 0;
+        }
     </style>
 </head>
 
 <body>
 
+<!-- ---------- выбор предмета ---------- -->
+<div class="tabs">
+    <label class="tab active" id="tab-biology">
+        <input type="radio" name="subject" value="biology" checked hidden>
+        🧬 Биология
+    </label>
+
+    <label class="tab" id="tab-chemistry">
+        <input type="radio" name="subject" value="chemistry" hidden>
+        ⚗️ Химия
+    </label>
+</div>
+
 <h2>Выбери режим на сегодня</h2>
 
 <p class="hint">
-    Всего в базе: <strong>1000 вопросов</strong><br>
     Рекомендуется проходить блоками по 100–150 вопросов
 </p>
 
-<form method="post" action="/start">
+<form method="post" action="/start" id="start-form">
+
+    <!-- предмет -->
+    <input type="hidden" name="subject" id="subject-input" value="biology">
 
     <div class="block">
         <label>
             С какого вопроса:
-            <input type="number" name="start" value="1" min="1" max="1000">
+            <input type="number" name="start" value="1" min="1">
         </label>
     </div>
 
     <div class="block">
         <label>
             По какой вопрос:
-            <input type="number" name="end" value="125" min="1" max="1000">
+            <input type="number" name="end" value="125" min="1">
         </label>
     </div>
 
@@ -79,6 +120,24 @@
 
     <button type="submit">Начать</button>
 </form>
+
+<script>
+    const bioTab = document.getElementById("tab-biology");
+    const chemTab = document.getElementById("tab-chemistry");
+    const subjectInput = document.getElementById("subject-input");
+
+    bioTab.onclick = () => {
+        bioTab.classList.add("active");
+        chemTab.classList.remove("active");
+        subjectInput.value = "biology";
+    };
+
+    chemTab.onclick = () => {
+        chemTab.classList.add("active");
+        bioTab.classList.remove("active");
+        subjectInput.value = "chemistry";
+    };
+</script>
 
 </body>
 </html>

@@ -2,16 +2,17 @@ FROM python:3.12-slim
 
 WORKDIR /app
 
-# 1️⃣ Копируем requirements
+# зависимости
 COPY requirements.txt .
-
-# 2️⃣ Устанавливаем зависимости
 RUN pip install --no-cache-dir -r requirements.txt
 
-# 3️⃣ Копируем код и данные
+# код и шаблоны
 COPY script.py .
-COPY questions_all.json .
 COPY templates ./templates
+
+# ВАЖНО: оба файла вопросов
+COPY questions_all.json .
+COPY questions_allChemistry.json .
 
 EXPOSE 8000
 

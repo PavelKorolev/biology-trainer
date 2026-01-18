@@ -14,30 +14,36 @@ app = FastAPI()
 
 app.add_middleware(
     SessionMiddleware,
-    secret_key=os.getenv("SECRET_KEY", "biology-secret")
+    secret_key=os.getenv("SECRET_KEY", "trainer-secret")
 )
 
 templates = Jinja2Templates(directory="templates")
 
 # ================= FILES =================
 
-QUESTIONS_FILE = "questions_all.json"
+QUESTIONS_FILES = {
+    "biology": "questions_all.json",
+    "chemistry": "questions_allChemistry.json",
+}
+
 PROGRESS_FILE = Path("progress.json")
 
 # ================= LOAD QUESTIONS =================
 
-with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
-    QUESTIONS_LIST = json.load(f)
+QUESTIONS = {}
 
-QUESTIONS = {q["id"]: q for q in QUESTIONS_LIST}
-ALL_IDS = sorted(QUESTIONS.keys())
+for subject, filename in QUESTIONS_FILES.items():
+    with open(filename, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        QUESTIONS[subject] = {q["id"]: q for q in data}
 
 # ================= PROGRESS =================
 
 def load_progress():
     if PROGRESS_FILE.exists():
         return json.loads(PROGRESS_FILE.read_text(encoding="utf-8"))
-    return {"days": {}, "questions": {}}
+    return {"subjects": {}}
+
 
 def save_progress(progress):
     PROGRESS_FILE.write_text(
@@ -45,11 +51,18 @@ def save_progress(progress):
         encoding="utf-8"
     )
 
+
+def get_subject_progress(progress, subject):
+    return progress.setdefault("subjects", {}).setdefault(
+        subject,
+        {"days": {}, "questions": {}}
+    )
+
 # ================= HARD QUESTIONS =================
 
-def get_hard_questions(progress):
+def get_hard_questions(subject_progress):
     hard = []
-    qstats = progress.get("questions", {})
+    qstats = subject_progress.get("questions", {})
 
     for qid, stat in qstats.items():
         shown = stat.get("shown", 0)
@@ -62,12 +75,13 @@ def get_hard_questions(progress):
 
 # ================= HELPERS =================
 
-def init_session(session, queue, mode):
+def init_session(session, queue, mode, subject):
     session.clear()
     session["queue"] = queue
     session["index"] = 0
     session["errors"] = []
     session["mode"] = mode
+    session["subject"] = subject
     session.pop("options_order", None)
 
 # ================= ROUTES =================
@@ -80,26 +94,30 @@ def start(request: Request):
 @app.post("/start")
 def start_post(
     request: Request,
+    subject: str = Form("biology"),
     start: int = Form(1),
     end: int = Form(125),
-    mode: str = Form("all")  # all | hard
+    mode: str = Form("all")
 ):
+    if subject not in QUESTIONS:
+        return RedirectResponse("/start", status_code=302)
+
+    all_ids = sorted(QUESTIONS[subject].keys())
     progress = load_progress()
+    subject_progress = get_subject_progress(progress, subject)
 
     if mode == "hard":
-        queue = get_hard_questions(progress)
+        queue = get_hard_questions(subject_progress)
         if not queue:
-            # нет сложных — возвращаем на старт
             return RedirectResponse("/start", status_code=302)
     else:
-        max_q = max(ALL_IDS)
-        start = max(1, start)
-        end = min(max_q, end)
+        start = max(start, 1)
+        end = min(end, max(all_ids))
         if start > end:
             start, end = end, start
-        queue = [qid for qid in ALL_IDS if start <= qid <= end]
+        queue = [qid for qid in all_ids if start <= qid <= end]
 
-    init_session(request.session, queue, mode)
+    init_session(request.session, queue, mode, subject)
     return RedirectResponse("/", status_code=302)
 
 
@@ -109,6 +127,9 @@ def index(request: Request):
 
     if "queue" not in session or not session["queue"]:
         return RedirectResponse("/start", status_code=302)
+
+    subject = session["subject"]
+    questions = QUESTIONS[subject]
 
     if session["index"] >= len(session["queue"]):
         if not session["errors"]:
@@ -122,16 +143,15 @@ def index(request: Request):
         return RedirectResponse("/", status_code=302)
 
     qid = session["queue"][session["index"]]
-    question = QUESTIONS[qid]
+    question = questions[qid]
 
-    # ---- фиксируем показ ----
     progress = load_progress()
-    qstats = progress.setdefault("questions", {})
+    subject_progress = get_subject_progress(progress, subject)
+    qstats = subject_progress.setdefault("questions", {})
     stat = qstats.setdefault(str(qid), {"shown": 0, "wrong": 0})
     stat["shown"] += 1
     save_progress(progress)
 
-    # ---- порядок вариантов ----
     if "options_order" not in session or session["options_order"]["qid"] != qid:
         items = list(question["options"].items())
         random.shuffle(items)
@@ -148,9 +168,10 @@ def index(request: Request):
             "current": session["index"] + 1,
             "total": len(session["queue"]),
             "mode": session["mode"],
+            "subject": subject,
             "result": None,
             "selected": [],
-            "progress": progress,
+            "progress": subject_progress,
             "today": today
         }
     )
@@ -163,26 +184,26 @@ def check(
     selected: list[str] = Form([])
 ):
     session = request.session
-    question = QUESTIONS[id]
+    subject = session["subject"]
+    question = QUESTIONS[subject][id]
 
     correct = set(question["correct"])
     selected_set = set(selected)
     is_correct = selected_set == correct
 
     progress = load_progress()
+    subject_progress = get_subject_progress(progress, subject)
 
-    # ---- дневная статистика ----
     today = date.today().isoformat()
-    days = progress.setdefault("days", {})
+    days = subject_progress.setdefault("days", {})
     day = days.get(today, {"answered": 0, "correct": 0})
     day["answered"] += 1
     if is_correct:
         day["correct"] += 1
     days[today] = day
 
-    # ---- статистика вопроса ----
     if not is_correct:
-        qstats = progress.setdefault("questions", {})
+        qstats = subject_progress.setdefault("questions", {})
         stat = qstats.setdefault(str(id), {"shown": 0, "wrong": 0})
         stat["wrong"] += 1
         if id not in session["errors"]:
@@ -199,9 +220,10 @@ def check(
             "current": session["index"] + 1,
             "total": len(session["queue"]),
             "mode": session["mode"],
+            "subject": subject,
             "result": is_correct,
             "selected": selected,
-            "progress": progress,
+            "progress": subject_progress,
             "today": today
         }
     )

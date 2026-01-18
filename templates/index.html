@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Тренажёр по биологии</title>
+    <title>Тренажёр</title>
 
     <style>
         body {
@@ -12,6 +12,28 @@
             line-height: 1.5;
         }
 
+        /* ---------- вкладки ---------- */
+        .tabs {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .tab {
+            padding: 8px 14px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #333;
+            background: #f0f0f0;
+            font-weight: bold;
+        }
+
+        .tab.active {
+            background: #dbeafe;
+            color: #1e3a8a;
+        }
+
+        /* ---------- заголовки ---------- */
         h2 {
             margin-bottom: 5px;
         }
@@ -21,6 +43,7 @@
             margin-bottom: 10px;
         }
 
+        /* ---------- прогресс ---------- */
         .progress-box {
             background: #f4f7ff;
             padding: 12px;
@@ -40,6 +63,7 @@
             margin-bottom: 4px;
         }
 
+        /* ---------- вопрос ---------- */
         .question {
             font-size: 17px;
             margin-bottom: 15px;
@@ -74,12 +98,6 @@
             font-weight: bold;
         }
 
-        .mode-badge {
-            font-size: 13px;
-            color: #444;
-            margin-bottom: 10px;
-        }
-
         hr {
             margin: 25px 0;
         }
@@ -88,13 +106,29 @@
 
 <body>
 
+<!-- ---------- вкладки предметов ---------- -->
+<div class="tabs">
+    <a href="/start" class="tab {% if subject == 'biology' %}active{% endif %}">
+        🧬 Биология
+    </a>
+    <a href="/start" class="tab {% if subject == 'chemistry' %}active{% endif %}">
+        ⚗️ Химия
+    </a>
+</div>
+
 <h2>
+    {% if subject == "biology" %}
+        🧬 Биология —
+    {% else %}
+        ⚗️ Химия —
+    {% endif %}
+
     {% if mode == "all" %}
         Круг 1 — все вопросы
     {% elif mode == "errors" %}
         Повтор ошибок 💪
     {% else %}
-        🔥 Часто ошибочные вопросы
+        🔥 Часто ошибочные
     {% endif %}
 </h2>
 
@@ -104,7 +138,7 @@
 
 <progress value="{{ current }}" max="{{ total }}"></progress>
 
-<!-- 📊 статистика за сегодня -->
+<!-- ---------- статистика за сегодня ---------- -->
 {% if progress["days"] and today in progress["days"] %}
 <div class="progress-box">
     <strong>📊 Сегодня:</strong>
@@ -113,7 +147,7 @@
 </div>
 {% endif %}
 
-<!-- 📅 календарь прогресса -->
+<!-- ---------- календарь ---------- -->
 {% if progress["days"] %}
 <div class="calendar">
     <strong>📅 Прогресс по дням:</strong>
@@ -131,6 +165,7 @@
 
 <hr>
 
+<!-- ---------- вопрос ---------- -->
 <div class="question">
     <strong>{{ question.question }}</strong>
 </div>
@@ -157,6 +192,7 @@
     {% endif %}
 </form>
 
+<!-- ---------- результат ---------- -->
 {% if result is not none %}
     <hr>
 

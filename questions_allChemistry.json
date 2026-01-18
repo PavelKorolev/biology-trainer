@@ -1,0 +1,2433 @@
+[
+  {
+    "id": 1,
+    "question": "Ak v kadičke rozpustíme NaCl v destilovanej vode, vznikne:",
+    "options": {
+      "A": "bezfarebný roztok",
+      "B": "uzavretá sústava",
+      "C": "pravý roztok",
+      "D": "roztok elektrolytu",
+      "E": "otvorená sústava",
+      "F": "izolovaná sústava",
+      "G": "chemicky čistá látka",
+      "H": "homogénna sústava"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Destilovaná voda sa od pitnej vody líši:",
+    "options": {
+      "A": "chemickým zložením",
+      "B": "obsahom aniónov",
+      "C": "obsahom katiónov",
+      "D": "tým, že destilovaná voda je silný elektrolyt a pitná voda je slabý elektrolyt",
+      "E": "tým, že pitná voda je chemické indivíduum a destilovaná voda nie je chemické indivíduum",
+      "F": "nelíši sa ničím",
+      "G": "tým, že destilovaná voda je chemicky čistá látka a pitná voda je chemické indivíduum",
+      "H": "schopnosťou tvoriť vodíkové väzby"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Pitná voda je:",
+    "options": {
+      "A": "pravý roztok",
+      "B": "zložená len z molekúl H2O",
+      "C": "homogénna zmes",
+      "D": "zmes chemických látok",
+      "E": "nepravý roztok",
+      "F": "suspenzia",
+      "G": "chemické indivíduum",
+      "H": "heterogénna zmes"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Čistá morská voda:",
+    "options": {
+      "A": "nie je pravý roztok",
+      "B": "nie je chemicky čistá látka",
+      "C": "je zložená z viacerých fáz",
+      "D": "je uzatvorená sústava",
+      "E": "má chemické zloženie rovnaké ako pitná voda",
+      "F": "je oproti pitnej vode bohatšia o minerálne látky",
+      "G": "je homogénna zmes",
+      "H": "je heterogénna zmes"
+    },
+    "correct": [
+      "B",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Destilovaná voda je:",
+    "options": {
+      "A": "chemicky čistá látka",
+      "B": "chemické indivíduum",
+      "C": "homogénna látka",
+      "D": "dobré rozpúšťadlo iónových zlúčenín",
+      "E": "dobré rozpúšťadlo nepolárnych látok",
+      "F": "zložená z molekúl H2O",
+      "G": "silný elektrolyt",
+      "H": "látka, ktorá nie je elektrolyt"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Elektróny:",
+    "options": {
+      "A": "rovnakých atómov sa podieľajú na tvorbe nepolárnej kovalentnej väzby (napr. v molekule N2)",
+      "B": "hovoríme o nich, že sú v základnom stave, ak majú najnižšiu energiu",
+      "C": "obsadzujú jednotlivé hladiny v atóme podľa ich klesajúcej energie",
+      "D": "môžu byť odtrhnuté od atómu a vznikajú pri tom anióny",
+      "E": "patria medzi elementárne častice atómu a majú záporný náboj",
+      "F": "ich počet v atóme sa vždy rovná počtu neutrónov",
+      "G": "v atómoch sa nachádzajú v priestoroch, ktoré označujeme ako orbitály",
+      "H": "ktoré sa nachádzajú na poslednej vrstve atómu sa nazývajú valenčné elektróny"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Základnou štruktúrnou jednotkou látky je:",
+    "options": {
+      "A": "protón",
+      "B": "elektrón",
+      "C": "atóm",
+      "D": "nukleón",
+      "E": "hmota",
+      "F": "zlúčenina",
+      "G": "každé chemické indivíduum",
+      "H": "molekula, napr. H2"
+    },
+    "correct": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Chemické indivíduum môže byť:",
+    "options": {
+      "A": "roztok NaCl v destilovanej vode",
+      "B": "len zlúčenina",
+      "C": "Al₂O₃",
+      "D": "elektrón",
+      "E": "pitná voda",
+      "F": "morská voda",
+      "G": "prvok alebo zlúčenina",
+      "H": "len prvok"
+    },
+    "correct": [
+      "C",
+      "G"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Protón je častica:",
+    "options": {
+      "A": "ktorá má jeden elementárny kladný náboj",
+      "B": "ktorá má jeden elementárny záporný náboj",
+      "C": "ktorá nepatrí medzi nukleóny",
+      "D": "ktorá patrí medzi nukleóny",
+      "E": "ktorá vznikne z atómu vodíka pribratím jedného elektrónu",
+      "F": "ktorá vznikne z molekuly vodíka stratou jedného elektrónu",
+      "G": "ktorá vznikne z atómu vodíka stratou jedného elektrónu",
+      "H": "elektroneutrálna"
+    },
+    "correct": [
+      "A",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Nuklidy ¹₁H, ²₁H и ³₁H",
+    "options": {
+      "A": "sú izotopy",
+      "B": "majú rovnaký počet protónov",
+      "C": "majú rovnaký počet neutrónov",
+      "D": "majú rôzny počet nukleónov",
+      "E": "majú rôzny počet elektrónov",
+      "F": "majú rôzny počet neutrónov",
+      "G": "majú rôzny počet protónov",
+      "H": "majú rovnaké protónové číslo"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Nuklidy ¹⁶₈O, ¹⁷₈O и ¹⁸₈O",
+    "options": {
+      "A": "sú v prírode zastúpené v rovnakom množstve",
+      "B": "majú rovnaký počet neutrónov",
+      "C": "majú rovnaký počet nukleónov",
+      "D": "sú izotopy",
+      "E": "majú rovnaký počet elektrónov",
+      "F": "majú rovnaké protónové aj nukleónové číslo",
+      "G": "nelíšia sa od seba elektrónovou konfiguráciou",
+      "H": "všetky majú rovnakú hmotnosť"
+    },
+    "correct": [
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Prócium, deutérium a trícium:",
+    "options": {
+      "A": "sa líšia protónovým číslom",
+      "B": "sa líšia nukleónovým číslom",
+      "C": "sa líšia počtom protónov",
+      "D": "sa líšia počtom neutrónov",
+      "E": "sa líšia počtom elektrónov",
+      "F": "sú izotopy vody",
+      "G": "sú rôzne názvy jedného izotopu",
+      "H": "sa líšia relatívnou atómovou hmotnosťou"
+    },
+    "correct": [
+      "B",
+      "D",
+      "H"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Pre hlavné kvantové číslo platí:",
+    "options": {
+      "A": "ak má hodnotu n = 4, maximálny počet elektrónov v elektrónovej vrstve n je 32",
+      "B": "so vzrastom jeho hodnoty rastie energia elektrónov",
+      "C": "možno ho použiť na výpočet energie elektrónu v danej energetickej hladine",
+      "D": "hlavné kvantové číslo dnes známych prvkov nadobúda hodnoty 1 až 7",
+      "E": "má vplyv na veľkosť hraničnej plochy orbitálov",
+      "F": "ak má hodnotu n = 3, maximálny počet elektrónov v elektrónovej vrstve je 16",
+      "G": "označuje sa písmenom /",
+      "H": "určuje energiu elektrónu v atóme vodíka podľa vzťahu Et = B.n^2"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Pre vedľajšie kvantové číslo platí:",
+    "options": {
+      "A": "vymedzuje hodnoty magnetického kvantového čísla",
+      "B": "má vplyv na tvar hraničnej plochy orbitálov",
+      "C": "charakterizuje tvar orbitálu",
+      "D": "určuje počet elektrónových vrstiev v atóme",
+      "E": "nadobúda hodnoty od -n do +n",
+      "F": "jeho hodnoty sa označujú písmenami s,p, d, f ...",
+      "G": "sa označuje písmenom n",
+      "H": "môže nadobudnúť hodnotu 0 až n-1"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Maximálny počet elektrónov, ktoré sa nachádzajú v elektrónovej vrstve s hlavným kvantovým číslom n = 2, je:",
+    "options": {
+      "A": "2",
+      "B": "8",
+      "C": "18",
+      "D": "32",
+      "E": "možné vypočítať zo vzťahu 2n^2",
+      "F": "6",
+      "G": "12",
+      "H": "16"
+    },
+    "correct": [
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Elektrónová hladina M môže obsahovať:",
+    "options": {
+      "A": "maximálne 16 elektrónov",
+      "B": "len p orbitály",
+      "C": "len s a p orbitály",
+      "D": "s, p, d orbitály",
+      "E": "maximálne 12 elektrónov",
+      "F": "maximálne 18 elektrónov",
+      "G": "maximálne 8 elektrónov",
+      "H": "2n^2 elektrónov, kde n = hlavné kvantové číslo"
+    },
+    "correct": [
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Neutrón:",
+    "options": {
+      "A": "je častica, ktorej hmotnosť sa približne rovná hmotnosti molekuly vodíka",
+      "B": "je častica, ktorá má len jeden elementárny kladný náboj",
+      "C": "nie je elektricky nabitá častica",
+      "D": "má hmotnosť približne rovnakú ako protón",
+      "E": "je jednou zo základných elementárnych častíc elektrónového obalu",
+      "F": "je jednou z dvoch druhov elementárnych častíc atómového jadra",
+      "G": "je základnou štruktúrnou jednotkou látky",
+      "H": "nepatrí medzi nukleóny"
+    },
+    "correct": [
+      "C",
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Elektrón:",
+    "options": {
+      "A": "atómu vodíka má v základnom stave najnižšiu možnú energiu",
+      "B": "nemôže prejsť do niektorého stavu s vyššou hodnotou n ak sa atómu dodá energia",
+      "C": "môže byť odtrhnutý od atómu dodaním dostatočne vysokého množstva energie",
+      "D": "je charakterizovaný kvantovými číslami",
+      "E": "ak je odtrhnutý od atómu vznikne kladne nabitý ión - anión",
+      "F": "čím má nižšiu energiu, tým nižšia energia je potrebná na jeho odtrhnutie z atómu",
+      "G": "atómu sodíka sa ľahko odtrhne a vzniká z neho katión sodíka",
+      "H": "má hmotnosť približne 1830-krát nižšiu ako hmotnosť atómu vodíka"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Podľa Pauliho princípu:",
+    "options": {
+      "A": "v orbitále px môže byť maximálne 1 elektrón",
+      "B": "v orbitále py môžu byť maximálne 2 elektróny",
+      "C": "v orbitále py môže byť maximálne 6 elektrónov",
+      "D": "v orbitále pz môže byť maximálne 10 elektrónov",
+      "E": "v orbitále s môže byť maximálne 1 elektrón",
+      "F": "v orbitále s môžu byť maximálne 2 elektróny",
+      "G": "v orbitáloch d môže byť maximálne 10 elektrónov",
+      "H": "v orbitále môžu byť najviac 2 elektróny s opačným spinom"
+    },
+    "correct": [
+      "B",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Podľa Hundovho pravidla je elektrónová konfigurácia atómu:",
+    "options": {
+      "A": "bóru ¹¹₅B : [He] 2s² 2pₓ¹",
+      "B": "síry ³²₁₆S : 1s² 2s² 2pₓ² 2pᵧ² 2p_z² 3s² 3pₓ² 3pᵧ¹ 3p_z¹",
+      "C": "dusíka ¹⁴₇N : 1s² 2s¹ 2pₓ² 2pᵧ¹ 2p_z¹",
+      "D": "berýlia ⁹₄Be : 1s² 2s¹ 2pₓ¹",
+      "E": "lítia ⁷₃Li : 1s² 2s²",
+      "F": "bóru ¹¹₅B : 1s² 2s² 2pₓ¹",
+      "G": "dusíka ¹⁴₇N : 1s² 2s² 2pₓ¹ 2pᵧ¹ 2p_z¹",
+      "H": "draslíka ³⁹₁₉K : [Ar] 5s¹"
+    },
+    "correct": [
+      "A",
+      "B",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Energia, ktorá sa spotrebuje na rozštiepenie určitej chemickej väzby:",
+    "options": {
+      "A": "je rovnaká ako aktivačná energia",
+      "B": "je rovnaká ako energia, ktorá sa uvoľní pri jej vzniku",
+      "C": "je vyššia ako energia, ktorá sa uvoľní pri jej vzniku",
+      "D": "je rovnaká ako ionizačná energia",
+      "E": "je disociačná energia väzby",
+      "F": "je nazývaná tiež väzbová energia",
+      "G": "udáva sa napr. v jednotkách kJ.mol'1",
+      "H": "je nižšia ako energia, ktorá sa uvoľní pri jej vzniku"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "V molekule peroxidu vodíka:",
+    "options": {
+      "A": "má atóm kyslíka oxidačné číslo -II",
+      "B": "má atóm kyslíka oxidačné číslo -I",
+      "C": "má atóm kyslíka väzbovosť 1",
+      "D": "má atóm vodíka oxidačné číslo -I",
+      "E": "má atóm vodíka oxidačné číslo I",
+      "F": "má atóm vodíka oxidačné číslo II",
+      "G": "má atóm kyslíka väzbovosť 2",
+      "H": "sú atómy kyslíka a vodíka viazané kovalentnou väzbou"
+    },
+    "correct": [
+      "B",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "V molekule acetylénu medzi atómami uhlíka:",
+    "options": {
+      "A": "sú 3 sigma väzby",
+      "B": "je 1 sigma a 2 pí väzby",
+      "C": "sú 2 sigma a 1 pi väzby",
+      "D": "sú kovalentné väzby",
+      "E": "sú vodíkové väzby",
+      "F": "je trojitá väzba",
+      "G": "je dvojitá väzba",
+      "H": "je väzba, ktorá túto zlúčeninu radí medzi alkíny"
+    },
+    "correct": [
+      "B",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Pre iónové zlúčeniny platí:",
+    "options": {
+      "A": "sú väčšinou nerozpustné vo vode",
+      "B": "sú väčšinou rozpustné vo vode",
+      "C": "majú štruktúru, v ktorej sa elektrostatickými silami priťahujú katióny a anióny",
+      "D": "ako taveniny alebo v roztokoch vedú elektrický prúd",
+      "E": "sú tie, pre ktoré je typická kovalentná väzba medzi prvkami",
+      "F": "sú tie, u ktorých je rozdiel elektronegativít zlučovaných prvkov vyšší ako 1,7",
+      "G": "vo vode disociujú na ióny",
+      "H": "ich vodné roztoky sú elektrolyty"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Katióny sú ióny, ktoré:",
+    "options": {
+      "A": "sa pohybujú v jednosmernom elektrickom poli ku katóde",
+      "B": "majú kladný náboj",
+      "C": "sa pohybujú v jednosmernom elektrickom poli k anóde",
+      "D": "nemôžu vznikať z atómov alkalických kovov",
+      "E": "sa ľahko tvoria z prvkov s nízkou elektronegativitou",
+      "F": "majú viac protónov ako elektrónov",
+      "G": "vznikajú z atómov prvkov po odovzdaní 1 alebo viac elektrónov",
+      "H": "sa ľahko tvoria z prvkov s nízkou ionizačnou energiou"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Ak obidva elektróny pri vzniku kovalentnej väzby poskytne len jeden atóm, hovoríme o väzbe:",
+    "options": {
+      "A": "koordinačnej",
+      "B": "donorovo-akceptorovej",
+      "C": "kovovej",
+      "D": "kovalentnej nepolárnej",
+      "E": "vodíkovej",
+      "F": "iónovej",
+      "G": "ktorá sa nachádza aj v NH4+",
+      "H": "ktorá je typická pre iónové zlúčeniny"
+    },
+    "correct": [
+      "A",
+      "B",
+      "G"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "V NH4Cl medzi jednotlivými atómami môžu byť väzby:",
+    "options": {
+      "A": "iónová",
+      "B": "donorovo-akceptorová",
+      "C": "kovalentná",
+      "D": "vodíková",
+      "E": "koordinačná",
+      "F": "kovová",
+      "G": "van der Waalsove",
+      "H": "σ и π"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Nepolárna je molekula:",
+    "options": {
+      "A": "CO",
+      "B": "CO2",
+      "C": "N2",
+      "D": "CH3CH2OH",
+      "E": "O2",
+      "F": "H2O",
+      "G": "Cl2",
+      "H": "HCl"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Jednoduchá kovalentná väzba:",
+    "options": {
+      "A": "je medzi atómami C-C a C-H nasýtených uhľovodíkov",
+      "B": "je v molekule H2",
+      "C": "vzniká, ak rozdiel v hodnote elektronegativít viazaných atómov je vyšší ako 1,7",
+      "D": "je napríklad v molekule NaCl",
+      "E": "je v molekule etánu",
+      "F": "je v molekule etínu medzi atómami uhlíka",
+      "G": "vzniká, ak sa na tvorbe elektrónovej dvojice tejto väzby podieľajú obidva atómy",
+      "H": "je medzi atómami dusíka v molekule N2"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Vodíková väzba:",
+    "options": {
+      "A": "sa volá aj vodíkový mostík",
+      "B": "je silnejšia ako kovalentná väzba",
+      "C": "vzniká medzi molekulami (skupinami), ktoré obsahujú atómy vodíka viazané so silne elektronegatívnymi prvkami (najmä F, O, N)",
+      "D": "vzniká v molekulách bielkovín",
+      "E": "vzniká v molekulách nukleových kyselín",
+      "F": "je prítomná v molekule vody",
+      "G": "medzi molekulami tej istej zlúčeniny je príčinou jej relatívne vyššej teploty varu",
+      "H": "je typická pre molekuly vody v plynnom skupenstve"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "V jednoduchých bielkovinách sa nachádzajú väzby:",
+    "options": {
+      "A": "kovalentné",
+      "B": "poloacetálové",
+      "C": "esterové",
+      "D": "vodíkové",
+      "E": "amidové",
+      "F": "peptidové",
+      "G": "N-glykozidové",
+      "H": "O-glykozidové"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Vodíkové väzby sa tvoria:",
+    "options": {
+      "A": "v molekulách DNA",
+      "B": "medzi molekulami H2O",
+      "C": "medzi molekulami NH3",
+      "D": "medzi molekulami CH4",
+      "E": "medzi molekulami C2H5OH",
+      "F": "medzi molekulami CH3-O-CH2-CH3",
+      "G": "medzi molekulami HF",
+      "H": "v molekulách bielkovín a stabilizujú ich sekundárnu štruktúru"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Van der Waalsove sily:",
+    "options": {
+      "A": "vznikajú medzi aniónmi a katiónmi",
+      "B": "vznikajú na základe vzájomného pôsobenia molekulových dipólov",
+      "C": "sú asi 100-krát slabšie ako kovalentné väzby",
+      "D": "uplatňujú sa medzi centrálnym atómom a ligandmi v komplexoch",
+      "E": "nachádzame v molekulách bielkovín",
+      "F": "patria medzi silné väzby",
+      "G": "zodpovedajú za primárnu štruktúru bielkovín",
+      "H": "sú medzimolekulové väzbové sily"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Molekula:",
+    "options": {
+      "A": "môže sa skladať z dvoch alebo viacerých atómov",
+      "B": "je vždy tvorená len z atómov rovnakého druhu",
+      "C": "je relatívne stále zoskupenie atómov, ktoré sú zviazané chemickými väzbami",
+      "D": "môže byť zložená aj z atómov jedného druhu",
+      "E": "fluoridu boritého má 4 väzbové elektrónové páry",
+      "F": "metánu má atómové jadro uhlíka v strede pravidelného štvorstena",
+      "G": "ak sa skladá z atómov rozdielnej elektronegativity je molekula vždy nepolárna",
+      "H": "zložená z troch atómov môže byť lineárna, alebo lomená"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "K latinským názvom prvkov priraďte ich značky - stibium, stannom, alumínium, magnesium, silicium, selenium:",
+    "options": {
+      "A": "At, Sn, Al, Mn, S, Se",
+      "B": "Sb, Sn, Al, Mg, Si, SI",
+      "C": "Sb, Sn, Am, Mg, Si, Sn",
+      "D": "Sb, Sn, Al, Mn, Si, Se",
+      "E": "Sb, St, Al, Mn, Si, Se",
+      "F": "St, Sn, Au, Mg, Si, Se",
+      "G": "Sb, Sn, Al, Mg, Si, Se",
+      "H": "St, Sn, Au, Mg, Sl, Se"
+    },
+    "correct": [
+      "G"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Aké sú oxidačné čísla atómov prvkov v uvedených oxidoch, ak oxidačné číslo atómu kyslíka je -II: Mn2O7, HgO, Ag2O, P4O6, N2O5, SO3, SiO2:",
+    "options": {
+      "A": "V, I, II, III, V, IV, VI",
+      "B": "VII, II, II, III, V, VI, IV",
+      "C": "VII, II, I, III, V, IV, VI",
+      "D": "VII, I, II, II, V, IV, VI",
+      "E": "V, I, II, III, V, IV, VI",
+      "F": "I, VII, III, IV, VI, IV, IV",
+      "G": "VII, II, I, III, V, VI, IV",
+      "H": "V, II, I, III, V, VI, IV"
+    },
+    "correct": [
+      "G"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Hydroxidy majú všeobecný vzorec M(OH)n, pričom platí, že:",
+    "options": {
+      "A": "M je atóm kovu a n má hodnotu 1-7",
+      "B": "M je atóm kovu a n má hodnotu 1-4",
+      "C": "OH⁻ je hydroxidový ión",
+      "D": "OH⁻ je hydroxonióvý ión",
+      "E": "môžu vznikať reakciou zásadotvorných oxidov s vodou",
+      "F": "podľa Bronstedovej teórie sú donormi protónov",
+      "G": "reakciou s kyselinami tvoria soli",
+      "H": "ich vodné roztoky majú pH > 7"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "O elektrónoch platí:",
+    "options": {
+      "A": "na rôznych elektrónových vrstvách sa líšia predovšetkým obsahom energie",
+      "B": "čím sú ďalej od jadra, tým majú nižšiu energiu",
+      "C": "majú oveľa nižšiu hmotnosť ako nukleóny",
+      "D": "tie ktoré majú rovnakú energiu obsadzujú určitú energetickú hladinu",
+      "E": "ľahko sa odštiepujú z atómov halogénov",
+      "F": "ak prvok odovzdáva elektróny, sám sa redukuje",
+      "G": "ak prvok prijme elektróny, redukuje sa",
+      "H": "sú nositeľom záporného náboja"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Ionizačná energia:",
+    "options": {
+      "A": "je energia potrebná na odtrhnutie elektrónu z atómu v plynnom stave",
+      "B": "informuje nás o tom, ako pevne je elektrón viazaný v atóme",
+      "C": "alkalických kovov (Li, Na, K) je vysoká",
+      "D": "súvisí s energiou elektrónu v atóme tak, že čím je táto energia nižšia, tým vyššia je energia potrebná na odtrhnutie elektrónu z atómu",
+      "E": "sa udáva napr. v jednotkách kJ.mol^-1",
+      "F": "je nízka u kovov, ktoré sa ľahko redukujú",
+      "G": "je nízka u prvkov, ktoré sa ľahko oxidujú",
+      "H": "je tiež mierou na posúdenie, ako ľahko môže z atómu vzniknúť katión"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Elektrónová afinita:",
+    "options": {
+      "A": "alkalických kovov je nízka",
+      "B": "je vysoká pri prvkoch, ktoré ľahko tvoria katióny",
+      "C": "prvkov F, Cl, Br, I je vysoká",
+      "D": "je energia, ktorá sa uvoľní prijatím elektrónu za vzniku aniónu z atómu v plynnom stave",
+      "E": "fluóru je nižšia ako chlóru",
+      "F": "je najvyššia u fluóru",
+      "G": "prvkov v periodickej sústave klesá zľava doprava a zhora dolu",
+      "H": "je vysoká pri prvkoch, ktoré ľahko tvoria anióny"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Elektrónová vrstva s hlavným kvantovým číslom m = 3 môže obsahovať orbitály:",
+    "options": {
+      "A": "s, p",
+      "B": "s",
+      "C": "s, p, d",
+      "D": "s, p, d, f",
+      "E": "len p",
+      "F": "s maximálnym počtom elektrónov 18",
+      "G": "s maximálnym počtom elektrónov 8",
+      "H": "len d"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "V molekulách škrobu sú väzby:",
+    "options": {
+      "A": "a (1-4) glykozidové",
+      "B": "a (1-6) glykozidové",
+      "C": "B (1-4) glykozidové",
+      "D": "N-glykozidové",
+      "E": "O-glykozidové",
+      "F": "amidové",
+      "G": "a (2-6) glykozidové",
+      "H": "rovnaké ako v molekulách glykogénu"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "V molekule CH2 = CH2 sú:",
+    "options": {
+      "A": "2 σ väzby a 2 π väzby",
+      "B": "1 σ väzba a 1 π väzba",
+      "C": "5 σ väzieb a 1 π väzba",
+      "D": "1 σ väzba a 3 π väzby",
+      "E": "5 σ väzieb a 2 π väzby",
+      "F": "1 σ väzba a 5 π väzieb",
+      "G": "2 σ väzby a 3 π väzby",
+      "H": "5 σ väzieb a 3 π väzby"
+    },
+    "correct": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Jednoduchá väzba:",
+    "options": {
+      "A": "je napr. kovalentná väzba v molekulách H2 a F2",
+      "B": "je tvorená z dvoch elektrónových párov",
+      "C": "môže vzniknúť prekrytím dvoch s orbitálov",
+      "D": "môže vzniknúť prekrytím orbitálu s a p",
+      "E": "je typická pre nasýtené uhľovodíky",
+      "F": "je reaktívnejšia ako väzba dvojitá",
+      "G": "je pevnejšia ako väzba trojitá",
+      "H": "medzi atómami je tvorená spoločným elektrónovým párom"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Dvojitá väzba:",
+    "options": {
+      "A": "je tvorená väzbou sigma a pí (σ и π)",
+      "B": "je tvorená jedným elektrónovým párom",
+      "C": "môže sa vyskytovať v molekulách vyšších karboxylových kyselín",
+      "D": "môže byť konjugovaná",
+      "E": "môže sa adíciou zmeniť na jednoduchú väzbu",
+      "F": "môže sa elimináciou zmeniť na trojitú väzbu",
+      "G": "je reaktívnejšia ako väzba jednoduchá",
+      "H": "je v molekule kyseliny ťumárovej"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Peptidová väzba:",
+    "options": {
+      "A": "je amidová väzba v peptidoch",
+      "B": "môže sa štiepiť hydrolázami",
+      "C": "vzniká v procese proteosyntézy",
+      "D": "patrí medzi slabé väzby",
+      "E": "zodpovedá za primárnu štruktúru bielkovín",
+      "F": "je zoskupenie atómov -CO-NH-",
+      "G": "vyskytuje sa napríklad u dipeptidov",
+      "H": "môže byť štiepená amylázou"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Glykozidové väzby:",
+    "options": {
+      "A": "α(1–4) sú aj v molekule škrobu",
+      "B": "vznikajú pri oxidácii sacharidov",
+      "C": "α(1–6) sú aj v molekule glykogénu",
+      "D": "môžu byť O-glykozidové",
+      "E": "sú v molekulách napr. škrobu, glykogénu, nukleotidoch",
+      "F": "poznáme σ a π",
+      "G": "môžu byť N-glykozidové",
+      "H": "nachádzame aj v nukleozidoch"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Podľa Bronstedovej teórie kyseliny sú:",
+    "options": {
+      "A": "látky, ktoré sú schopné odovzdávať protón",
+      "B": "všetky látky, ktoré farbia fenolftaleín na červenofialovo",
+      "C": "látky schopné odštiepiť atóm vodíka",
+      "D": "látky schopné odštiepiť H₂",
+      "E": "donormi protónu",
+      "F": "všetky látky, ktoré sa vo vode ionizujú za vzniku hydroxidových aniónov",
+      "G": "len elektroneutrálne molekuly, ktoré môžu odštiepiť H⁺",
+      "H": "elektroneutrálne molekuly a niektoré ióny (napr. HCO₃⁻, H₂PO₄⁻), ktoré môžu byť donorom H⁺"
+    },
+    "correct": [
+      "A",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Podľa Bronstedovej teórie zásady sú:",
+    "options": {
+      "A": "všetky látky, ktoré vo vodnom roztoku farbia lakmusový papierik na červeno",
+      "B": "akceptormi protónu",
+      "C": "látky schopné prijať protón",
+      "D": "všetky látky, ktoré majú v molekule skupinu –OH",
+      "E": "len látky schopné vo vode odštiepiť anión OH⁻",
+      "F": "len zlúčeniny zásadotvorných oxidov s vodou",
+      "G": "aj anióny viac­sýtnych kyselín, ktoré môžu prijať protón",
+      "H": "napr. NH₃, CH₃COO⁻, Cl⁻, NH₄⁺, C₆H₅NH₃⁺"
+    },
+    "correct": [
+      "B",
+      "C",
+      "G"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Určte konjugované páry protolytickej reakcie HNO₃ + H₂O ⇌ H₃O⁺ + NO₃⁻ :",
+    "options": {
+      "A": "HNO₃ a NO₃⁻",
+      "B": "H₂O a NO₃⁻",
+      "C": "H₃O⁺ a NO₃⁻",
+      "D": "H₂O a H₃O⁺",
+      "E": "HNO₃ a H₂O",
+      "F": "HNO₃ a H₃O⁺",
+      "G": "H₂O a OH⁻",
+      "H": "H₃O⁺ a H₃O⁺"
+    },
+    "correct": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Určte konjugované páry protolytickej reakcie NH₃ + HCl ⇌ NH₄⁺ + Cl⁻ :",
+    "options": {
+      "A": "HCl a NH₄⁺",
+      "B": "NH₃ a Cl⁻",
+      "C": "NH₃ a NH₄⁺",
+      "D": "NH₃ a NH₄Cl",
+      "E": "HCl a Cl⁻",
+      "F": "NH₃ a HCl",
+      "G": "NH₄⁺ a Cl⁻",
+      "H": "HCl a NH₄Cl"
+    },
+    "correct": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Sila kyselín sa znižuje v rade: HC1O4 > HC1O3 > HC1O2> HC1O. Potom v uvedenom poradí:",
+    "options": {
+      "A": "polarita väzieb O-H sa zvyšuje",
+      "B": "hodnota pK kyselín sa zvyšuje",
+      "C": "hodnota ionizačnej (disociačnej) konštanty sa znižuje",
+      "D": "všetky hodnoty ionizačných konštánt (K) sú rovnaké",
+      "E": "hodnota stupňa ionizácie a sa znižuje",
+      "F": "ostáva rovnaká polarita väzieb O-H",
+      "G": "sú rovnaké hodnoty pK kyselín",
+      "H": "hodnota K sa zvyšuje"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Elektrolytická ionizácia (disociácia) je dej, keď:",
+    "options": {
+      "A": "po rozpustení elektrolytu sa zvyšuje počet častíc v objemovej jednotke roztoku oproti pôvodnému počtu molekúl",
+      "B": "po rozpustení elektrolytu sa v roztoku zníži osmotický tlak",
+      "C": "rozpustná soľ sa vo vodnom roztoku rozpadá a vzniknú opačne nabité ióny",
+      "D": "pri rozpúšťaní zostane látka v roztoku v nezmenenej forme",
+      "E": "látka sa v rozpúšťadle rozpadá na katióny a anióny",
+      "F": "v roztoku nastane rozklad kryštálovej mriežky a vznikajú pritom molekuly",
+      "G": "nastane vylučovanie iónov na elektródach",
+      "H": "pri rozpúšťaní sa látka vo forme molekúl rovnomerne rozptýli v celom roztoku"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Silu kyselín a zásad:",
+    "options": {
+      "A": "posudzujeme vždy so zreteľom na rozpúšťadlo, v ktorom sa nachádzajú",
+      "B": "určujeme podľa veľkosti osmotického tlaku n roztoku kyseliny alebo zásady",
+      "C": "určujeme podľa hodnoty ich ionizačnej konštanty",
+      "D": "určujeme podľa hodnoty ich izoelektrického bodu",
+      "E": "určujeme podľa hodnoty pH ich roztokov",
+      "F": "určujeme podľa hodnoty pK",
+      "G": "určujeme podľa hodnoty stupňa ionizácie a",
+      "H": "určujeme podľa ich koncentrácie"
+    },
+    "correct": [
+      "A",
+      "C",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Kyslo reaguje roztok, keď:",
+    "options": {
+      "A": "pH = 4,8",
+      "B": "pOH = 11,9",
+      "C": "pOH > 7",
+      "D": "pH < 6",
+      "E": "pH > 8"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Zásadito reaguje roztok, keď:",
+    "options": {
+      "A": "pOH < 7",
+      "B": "pH < 6",
+      "C": "pOH = 4,5",
+      "D": "pOH > 7",
+      "E": "pH = 5,5",
+      "F": "pOH = 13",
+      "G": "pOH = 7",
+      "H": "pH = 9"
+    },
+    "correct": [
+      "A",
+      "C",
+      "H"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Zásadito reaguje roztok, keď:",
+    "options": {
+      "A": "c(H₃O⁺) = 2·10⁻⁸ mol·l⁻¹",
+      "B": "c(OH⁻) = 7·10⁻¹⁰ mol·l⁻¹",
+      "C": "c(H₃O⁺) = 1·10⁻⁷ mol·l⁻¹",
+      "D": "c(H₃O⁺) = 7·10⁻¹ mol·l⁻¹",
+      "E": "c(H₃O⁺) = 1·10⁻⁶ mol·l⁻¹",
+      "F": "c(OH⁻) = 1·10⁻⁷ mol·l⁻¹",
+      "G": "c(OH⁻) = 7·10⁻³ mol·l⁻¹",
+      "H": "c(H₃O⁺) = 2·10⁻¹² mol·l⁻¹"
+    },
+    "correct": [
+      "A",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Kyslo reaguje roztok, keď:",
+    "options": {
+      "A": "c(OH⁻) = 4·10⁻¹² mol·dm⁻³",
+      "B": "c(H₃O⁺) = 7·10⁻⁵ mol·dm⁻³",
+      "C": "c(OH⁻) = 3·10⁻⁵ mol·dm⁻³",
+      "D": "c(H₃O⁺) = 7·10⁻¹⁰ mol·dm⁻³",
+      "E": "c(OH⁻) = 1·10⁻⁷ mol·dm⁻³",
+      "F": "c(H₃O⁺) = 1·10⁻⁷ mol·dm⁻³",
+      "G": "c(H₃O⁺) = 7·10⁻² mol·dm⁻³",
+      "H": "c(OH⁻) = 8·10⁻⁹ mol·dm⁻³"
+    },
+    "correct": [
+      "A",
+      "B",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Ak ionizačná konštanta kyseliny dusitej je 4,5.10-4, (log 4,5 = 0,65), potom platí, že:",
+    "options": {
+      "A": "kyselina dusitá je slabá kyselina",
+      "B": "kyselina dusitá je silná kyselina",
+      "C": "kyselina dusitá je slabý elektrolyt",
+      "D": "roztok HNO2 bude reagovať len so slabými zásadami",
+      "E": "hodnota pK = 3,35",
+      "F": "hodnota pK = 4,65",
+      "G": "v jej vodnom roztoku budú iba ióny H3O+ a NO2-",
+      "H": "vo vodnom roztoku bude rovnováha medzi molekulami HNO2 a iónmi NO2- a H3O+ daná rovnovážnou konštantou"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Ionizačná konštanta zásady:",
+    "options": {
+      "A": "sa vždy číselne rovná ionizačnej konštante konjugovanej kyseliny",
+      "B": "sa vždy číselne rovná autoprotolytickej konštante vody",
+      "C": "charakterizuje schopnosť viazať protón",
+      "D": "udáva silu zásady",
+      "E": "sa číselne rovná ionizačnému stupňu zásady",
+      "F": "charakterizuje schopnosť odštiepiť protón",
+      "G": "udáva rozpustnosť zásady v danom rozpúšťadle",
+      "H": "udáva množstvo iónov OH\" v roztoku zásady"
+    },
+    "correct": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Kyslosť roztoku, charakterizovaná hodnotou pH alebo pOH, sa zvyšuje v poradí:",
+    "options": {
+      "A": "pH 7 < pH 5 < pH 2 < pH 1",
+      "B": "pH 14 < pH 7 < pH 6 < pH 5",
+      "C": "pOH 13 < pOH 12 < pOH 11 < pOH 10",
+      "D": "pH 12 < pH 11 < pH 10 < pH 9",
+      "E": "pH 7 < pH 9 < pH 11 < pH 13",
+      "F": "pH 1 < pH 5 < pH 9 < pH 12",
+      "G": "pH 4 < pH 3 < pH 2 < pH 1",
+      "H": "pOH 1 < pOH 5 < pOH 7 < pOH 11"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Ak rozpúšťame vo vode (pH vody = 7) soľ:",
+    "options": {
+      "A": "KClO, pH výsledného roztoku bude vyššie ako 7",
+      "B": "mravčan sodný, pH výsledného roztoku bude v kyslej oblasti",
+      "C": "pH roztoku bude závisieť len od koncentrácie soli a nie od jej zloženia",
+      "D": "silnej zásady so slabou kyselinou - pOH roztoku bude nižšie ako 7",
+      "E": "slabej zásady so silnou kyselinou - pH roztoku bude nižšie ako 7",
+      "F": "pH roztoku sa vždy bude rovnať 7",
+      "G": "silnej zásady so slabou kyselinou, nezmení sa pôvodné pH (t.j. pH = 7)",
+      "H": "silnej kyseliny so silnou zásadou - nastane hydrolýza soli a pH roztoku bude vždy nižšie ako 7"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Zásaditú reakciu majú dvojice vodných roztokov solí:",
+    "options": {
+      "A": "CH3COONa, KCN",
+      "B": "NH4C1, CH3COONH4",
+      "C": "Fe2(SO4)3, Na2SO4",
+      "D": "CH3COOK, Na2S",
+      "E": "KC104, Na2CO3",
+      "F": "NaCN, K2SO3",
+      "G": "K2SO4, Na2HPO4",
+      "H": "Mg(HCO3)2, NH4C1"
+    },
+    "correct": [
+      "A",
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Kyslú reakciu majú dvojice vodných roztokov:",
+    "options": {
+      "A": "K2S, Ca(HCO3)2",
+      "B": "CH3COONa, Na3PO4",
+      "C": "(NH4)2SO4, Fe(NO3)3",
+      "D": "KCN, KNO3",
+      "E": "H2CO3, HNO2",
+      "F": "NaNO2, (NH4)2S",
+      "G": "nh4ci, nh4no3",
+      "H": "NaHCO3, KNO2"
+    },
+    "correct": [
+      "C",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Vyberte správne tvrdenie:",
+    "options": {
+      "A": "po rozpustení solí vo vode vždy dostaneme neutrálne roztoky",
+      "B": "hydrolýza je rozklad látok pomocou elektrického prúdu",
+      "C": "hydrolýza soli je formálne opakom neutralizácie",
+      "D": "hydrolýza je reakcia soli s nevodným rozpúšťadlom",
+      "E": "po hydrolýze soli vždy vznikne roztok, ktorého pH > 7",
+      "F": "po hydrolýze soli silnej kyseliny so slabou zásadou, bude pOH jej vodného roztoku vyššie ako 7",
+      "G": "po rozpustení soli silnej zásady so slabou kyselinou, bude pH jej vodného roztoku"
+    },
+    "correct": [
+      "C",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Po rozpustení KCN vo vode (pH vody = 7):",
+    "options": {
+      "A": "nemôže prebiehať čiastková reakcia: CN⁻ + H₂O ⇌ HCN + OH⁻",
+      "B": "v roztoku nastane ionizácia soli",
+      "C": "sa nezmení pôvodná hodnota pH vody",
+      "D": "pOH vzniknutého roztoku bude nižšie ako 7",
+      "E": "budú vo vzniknutom roztoku len molekuly KCN a H2O",
+      "F": "v roztoku nastane hydrolýza soli",
+      "G": "pH vzniknutého roztoku bude v kyslej oblasti",
+      "H": "sa pridaný lakmusový papierik zafarbí na červeno"
+    },
+    "correct": [
+      "B",
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Vo vodných roztokoch hydrolýze takmer nepodliehajú soli:",
+    "options": {
+      "A": "K2SO3, BiCl3",
+      "B": "RbCl, Na2SO4",
+      "C": "NaCN, (NH4)2S",
+      "D": "Li2SO4, NaC104"
+    },
+    "correct": [
+      "B",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Po rozpustení CH3COOK vo vode (pH vody = 7) bude vo vzniknutom roztoku:",
+    "options": {
+      "A": "metylová žltá zafarbená na červeno",
+      "B": "hodnota pOH nižšia ako 7",
+      "C": "hodnota pH rovná 7",
+      "D": "hodnota pH nižšia ako 7",
+      "E": "hodnota pH, ktorá sa so vzrastajúcou koncentráciou soli bude znižovať, až po pH = 4,5",
+      "F": "rovnaká koncentrácia molekúl CH3COOK a iónov K+ a CH3COO-",
+      "G": "prebiehať hydrolýza soli",
+      "H": "CH3COOK prakticky úplne ionizovaný"
+    },
+    "correct": [
+      "B",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Protolytické reakcie:",
+    "options": {
+      "A": "sú také reakcie, pri ktorých kyseliny reagujú s neušľachtilými kovmi za vzniku vodíka",
+      "B": "sú reakcie, pri ktorých zásady aj soli prijímajú -OH skupiny",
+      "C": "pri ktorých molekula kyseliny reaguje s molekulou vody, sú podstatou ionizácie kyseliny",
+      "D": "sú reakcie, pri ktorých zásada odovzdáva protón a kyselina protón prijíma",
+      "E": "sú reakcie, pri ktorých soli v roztoku ionizujú a na elektródach sa vylučujú kovy",
+      "F": "pri ktorých reagujú ióny soli s vodou, sa nazývajú hydrolýza",
+      "G": "sú formálne opakom elektrolýzy",
+      "H": "sú reakcie, pri ktorých kyselina odovzdáva protón a zásada protón prijíma"
+    },
+    "correct": [
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Podľa Brônstedovej teórie kyseliny môžu byť:",
+    "options": {
+      "A": "napr. ióny HCO₃⁻, HSO₄⁻, OH⁻, PO₄³⁻",
+      "B": "len elektroneutrálne molekuly",
+      "C": "len katióny, napr. NH₄⁺",
+      "D": "elektroneutrálne molekuly, katióny a anióny, ktoré môžu odštiepiť H⁺",
+      "E": "len látky s vyšším počtom atómov vodíka v molekule",
+      "F": "látky, ktoré sú donormi protónu",
+      "G": "látky s vyšším počtom atómov kyslíka v molekule",
+      "H": "napr. ióny HSO₃⁻, H₂PO₄⁻, HS⁻"
+    },
+    "correct": [
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Silné a slabé zásady sa líšia:",
+    "options": {
+      "A": "počtom -OH skupín, ktoré môžu prijať od inej molekuly",
+      "B": "rozpustnosťou vo vode",
+      "C": "koncentráciou v nevodných rozpúšťadlách",
+      "D": "počtom -OH skupín v molekule",
+      "E": "ionizačnými konštantami",
+      "F": "schopnosťou prijať protón",
+      "G": "hodnotami stupňa ionizácie",
+      "H": "schopnosťou odovzdať protón"
+    },
+    "correct": [
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Vyberte skupiny látok, ktoré sa vo vodných roztokoch prejavujú ako elektrolyty:",
+    "options": {
+      "A": "CoCl2, Na2CO3, CHC13, HC1, C2H6",
+      "B": "CH4, benzén, KMnO4, CH3COOH, K2SO4",
+      "C": "FeCl3, H2SO4, NaBr, CH3COOK, NH4Br",
+      "D": "CuSO4, Hl, NaNO3, K3[Fe(CN)6]"
+    },
+    "correct": [
+      "C",
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Pri 100-násobnom zriedení roztoku HC1, c = 0,01 mol.l^-1, vodou, hodnota pH vzniknutého roztoku:",
+    "options": {
+      "A": "sa bude rovnať 2",
+      "B": "sa zníži o 2 oproti pôvodnému roztoku",
+      "C": "sa zvýši o 2 oproti pôvodnému roztoku",
+      "D": "sa bude rovnať 4",
+      "E": "sa nezmení oproti pôvodnému roztoku, mení sa iba koncentrácia roztoku",
+      "F": "sa zvýši o 1 oproti pôvodnému roztoku",
+      "G": "sa bude číselne rovnať hodnote pOH vzniknutého roztoku",
+      "H": "sa zníži 100-násobne oproti pôvodnému roztoku"
+    },
+    "correct": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Hodnota súčinu koncentrácií H₃O⁺ a OH⁻ iónov (Kᵥ):",
+    "options": {
+      "A": "súvisí s hodnotou pH a platí: pH + pOH = pKᵥ",
+      "B": "pri danej teplote je vo všetkých vodných roztokoch rovnaká",
+      "C": "sa nemení so zmenou teploty",
+      "D": "sa nazýva aj súčin rozpustnosti",
+      "E": "má pri teplote 25 °C hodnotu Kᵥ = 1·10⁻¹⁴ mol²·l⁻²",
+      "F": "sa tiež nazýva autoprotolytická konštanta vody",
+      "G": "sa dá previesť do logaritmickej stupnice a platí: pKᵥ = −logKᵥ",
+      "H": "sa označuje ako iónový súčin vody"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Pravé roztoky sú:",
+    "options": {
+      "A": "iba roztoky silných elektrolytov",
+      "B": "tie, v ktorých je veľkosť rozpustených častíc vyššia ako 1.10^-9 m",
+      "C": "hrubodisperzné sústavy kvapaliny a tuhej látky",
+      "D": "homogénne zmesi plynu a tuhej látky",
+      "E": "iba vodné roztoky anorganických zlúčenín",
+      "F": "také roztoky, v ktorých veľkosť rozpustených molekúl (častíc) je menšia ako 1 nm",
+      "G": "napr. roztok vaječného bielka alebo roztok škrobu",
+      "H": "napr. roztok fruktózy a fyziologický roztok"
+    },
+    "correct": [
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "V pravých roztokoch je veľkosť rozpustených častíc:",
+    "options": {
+      "A": "1 – 10² mm",
+      "B": "1 – 10 µm",
+      "C": "nižšia ako 1 nm",
+      "D": "10 – 100 nm",
+      "E": "vyššia ako 1 nm",
+      "F": "10 – 100 µm",
+      "G": "nižšia ako 1·10⁻⁹ m",
+      "H": "1·10⁻⁶ – 10·10⁻⁶ m"
+    },
+    "correct": [
+      "C",
+      "G"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Osmotický tlak (π):",
+    "options": {
+      "A": "v roztoku zloženom z NaCl a glukózy závisí len od koncentrácie silného elektrolytu",
+      "B": "závisí od počtu častíc v roztoku",
+      "C": "je nepriamo úmerný koncentrácii rozpustených látok",
+      "D": "je určený koncentráciou všetkých molekúl (iónov) v roztoku"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Osmotický tlak:",
+    "options": {
+      "A": "je tlak, ktorým treba pôsobiť na povrch roztoku, aby sa zabránilo dialýze",
+      "B": "môžeme využiť na stanovenie molárnej hmotnosti rozpustenej látky (najmä pre makromolekulové látky) podľa vzťahu:"
+    },
+    "correct": [
+      "C",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "O osmóze platí:",
+    "options": {
+      "A": "u človeka je dôležitá pri podávaní injekcií do žily",
+      "B": "pomocou osmózy možno z vodného roztoku oddeliť hemoglobín od NaCl",
+      "C": "je to dej, ktorý umožňuje, že samovoľne prechádzajú molekuly bielkovín z vonkajšieho priestoru do bunky",
+      "D": "v dôsledku osmózy sa znižuje koncentrácia látky v koncentrovanejšom roztoku",
+      "E": "ak dáme červené krvinky do roztoku NaCl s koncentráciou c = 0,3 mol.l^-1, ostanú nezmenené",
+      "F": "ak je roztok a rozpúšťadlo oddelené polopriepustnou membránou, rozpúšťadlo preniká do roztoku",
+      "G": "je to dej, pri ktorom sa zvyšuje koncentrácia koncentrovanejšieho roztoku",
+      "H": "nastáva vtedy, ak sú dva roztoky o rôznej látkovej koncentrácii (molekúl, iónov) oddelené semipermeabilnou membránou"
+    },
+    "correct": [
+      "A",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Vodný roztok AgNO3 (Mr = 170) s koncentráciou 0,5 mol.l^-1 obsahuje:",
+    "options": {
+      "A": "0,25 mol AgNO3 v 50 mililitroch roztoku",
+      "B": "1 mol AgNO3 v dvoch litroch vody",
+      "C": "0,5 mmol AgNO3 v jednom mililitri roztoku",
+      "D": "85 mg AgNO3 v jednom cm3 roztoku",
+      "E": "0,25 mol AgNO3 v 0,5 dm3 vody",
+      "F": "2 mol AgNO3 v 4000 ml roztoku",
+      "G": "170 g AgNO3 v 2000 ml roztoku",
+      "H": "170 g AgNO3 v jednom dm3 roztoku"
+    },
+    "correct": [
+      "C",
+      "D",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Vyberte, ktoré tvrdenie o roztokoch je správne:",
+    "options": {
+      "A": "medzi rozpúšťadlom a rozpúšťanou látkou môže prebehnúť chemická reakcia",
+      "B": "pri rozpúšťaní glukózy vo vode prebehne medzi obomi látkami chemická reakcia",
+      "C": "vzájomná rozpustnosť kvapalín závisí od súdržných síl medzi ich molekulami a tiež od teploty",
+      "D": "rozpustnosť sa môže vyjadriť aj graficky, tzv. krivkami rozpustnosti",
+      "E": "molový zlomok látky v roztoku sa vyjadruje v jednotkách mol.l'1",
+      "F": "plynné roztoky vznikajú rozpúšťaním plynov v kvapalinách",
+      "G": "všetky kvapaliny sú navzájom miešateľné v každom pomere",
+      "H": "rozpúšťanie látok môže byť sprevádzané uvoľňovaním alebo pohlcovaním tepla"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "H"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Máme 3 vodné roztoky: A (NiCl2), c = 0,1 mol.l^-1; B (KC1), c = 0,15 mol.l^-1; C (sacharóza), c = 0,3 mol.1^-1. Vyberte, ktoré tvrdenie je správne:",
+    "options": {
+      "A": "najvyšší osmotický tlak má roztok C",
+      "B": "najnižší osmotický tlak má roztok A",
+      "C": "vo všetkých uvedených roztokoch je rovnaký osmotický tlak",
+      "D": "roztok B má vyšší osmotický tlak ako roztok A",
+      "E": "roztok C je hypertonický voči roztoku B",
+      "F": "roztok B je hypertonický voči roztoku A",
+      "G": "roztoky A, B a C sú izotonické",
+      "H": "roztok A je hypotonický voči roztoku C"
+    },
+    "correct": [
+      "C",
+      "G"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Vodný roztok FeCl3 s hmotnostným zlomkom w(FeCl3) = 0,008 obsahuje:",
+    "options": {
+      "A": "0,8 g FeCl3 v 100 g roztoku",
+      "B": "1,6 g FeCl3 a 200 g vody",
+      "C": "0,8 g FeCl3 v 1000 g roztoku",
+      "D": "2 g FeCl3 v 250 g roztoku",
+      "E": "0,008 % FeCl3",
+      "F": "8 % FeCl3",
+      "G": "4 g FeCl3 a 496 g H2O",
+      "H": "800 mg FeCl3 a 99,2 g H2O"
+    },
+    "correct": [
+      "A",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Máme tri vodné roztoky: A (ZnCl2), e = 0,2 mol.l^-1; B (NiSO4), c = 0,3 mol.l^-1 a C (fruktóza), c = 0,3 mol.l^-1. Vyberte správne tvrdenie:",
+    "options": {
+      "A": "vo všetkých roztokoch je rovnaký osmotický tlak",
+      "B": "roztoky A a B sú navzájom izotonické",
+      "C": "roztoky B a C sú navzájom izotonické",
+      "D": "roztok A je hypotonický voči roztoku B",
+      "E": "roztoky A a B sú hypertonické voči roztoku C",
+      "F": "roztok C je hypertonický voči roztoku A",
+      "G": "najnižší osmotický tlak má roztok C",
+      "H": "roztoky B a C sú hypertonické voči roztoku A"
+    },
+    "correct": [
+      "B",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Máme fyziologický roztok NaCl (c = 0,15 mol·l⁻¹). Vyberte, ktoré roztoky sú s roztokom NaCl izotonické:",
+    "options": {
+      "A": "CuSO₄, c = 0,1 mol·l⁻¹",
+      "B": "fruktóza, c = 0,3 mol·l⁻¹",
+      "C": "NiCl₂, c = 0,15 mol·l⁻¹",
+      "D": "CdSO₄, c = 0,15 mol·l⁻¹",
+      "E": "KNO₃, c = 300 mmol·l⁻¹",
+      "F": "FeCl₂, c = 100 mmol·l⁻¹",
+      "G": "sacharóza, c = 0,15 mol·l⁻¹",
+      "H": "FeCl₃, c = 75 mmol·l⁻¹"
+    },
+    "correct": [
+      "B",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Máme roztok Ba(NO3)2 s koncentráciou 0,2 mol.l'1. Vyberte, ktoré roztoky sú voči roztoku Ba(NO3)2 hypertonické:",
+    "options": {
+      "A": "AgNO3, c = 0,5 mol.l'1",
+      "B": "FeSO4, c = 300 mmol.l'1",
+      "C": "Fe2(SO4)3, c = 0,15 mol.l'1",
+      "D": "NíC12, c = 300 mmol.l'1",
+      "E": "KMnO4, c = 0,3 mol.l'1",
+      "F": "Znl2, c = 0,4 mol.l'1",
+      "G": "fruktóza, c = 0,6 mol.l'1",
+      "H": "KIO3, c = 0,25 mol.l'1"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Difúzia:",
+    "options": {
+      "A": "je formálne opakom osmózy",
+      "B": "môže nastať napr. vtedy, keď do kadičky s vodou hodíme kryštál KMnO4",
+      "C": "je prechod rozpúšťadla cez polopriepustnú membránu",
+      "D": "je prechod nízkomolekulových látok cez semipermeabilnú membránu",
+      "E": "je samovoľný prechod častíc látky z miest s vyššou koncentráciou na miesta s nižšou koncentráciou",
+      "F": "je prechod rozpúšťadla z miest s vyššou koncentráciou na miesta s nižšou koncentráciou g) nastáva v sústave dvoch roztokov oddelených polopriepustnou membránou",
+      "H": "je formálne opakom dialýzy"
+    },
+    "correct": [
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Fyziologický roztok je vodný roztok NaCl (Mr = 58) s koncentráciou 0,15 mol.ľ1. Obsahuje:",
+    "options": {
+      "A": "30 mmol NaCl v 200 ml roztoku",
+      "B": "0,15 mol NaCl v jednom litri H2O",
+      "C": "17,4 g NaCl v dvoch litroch roztoku",
+      "D": "4,35 g NaCl v 500 ml H2O",
+      "E": "0,3 mmol NaCl v dvoch mililitroch roztoku",
+      "F": "8,7 g NaCl v jednom litri roztoku",
+      "G": "0,87 mg NaCl v 100 ml roztoku",
+      "H": "150 mmol NaCl v jednom dm3 roztoku"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Koncentrácia látkového množstva c(A) látky A je:",
+    "options": {
+      "A": "určená podielom hmotnosti rozpustenej látky m(A) a objemu roztoku (V): c(A) = m(A) / V"
+    },
+    "correct": [
+      "B",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "V nasýtenom roztoku soli:",
+    "options": {
+      "A": "sa za časovú jednotku rozpustí také množstvo látky, aké sa jej opäť z roztoku vylúči",
+      "B": "je pri určitých definovaných podmienkach to isté zloženie",
+      "C": "sa osmotický tlak počíta podľa vzťahu: π=c⋅R/T​ kde: c = koncentrácia roztoku, R = plynová konštanta, T = teplota v Kelvinoch",
+      "D": "je pri definovaných podmienkach rozpustené maximálne množstvo soli",
+      "E": "sa ustáli dynamická rovnováha medzi nerozpustenou časťou látky a roztokom",
+      "F": "sa ustáli rovnovážny stav, keď za časovú jednotku sa rozpustí látka s takou hmotnosťou, ako je hmotnosť látky, ktorá je už v roztoku rozpustená",
+      "G": "je vždy koncentrácia 1 mol.l^-1",
+      "H": "je vždy koncentrácia 10 % (w %)"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Zmiešavaciu rovnicu:",
+    "options": {
+      "A": "môžeme vyjadriť vzťahom:"
+    },
+    "correct": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Vyberte, ktoré tvrdenie je správne:",
+    "options": {
+      "A": "a) koncentrácia látkového množstva c(A) látky A udáva počet molov látky A v jednom litri roztoku",
+      "B": "koncentrácia látkového množstva c(A) látky A je počet molov látky A v jednom dm³ rozpúšťadla",
+      "C": "hmotnostná koncentrácia látky A je určená podielom hmotnosti m(A) látky A a objemu roztoku V; jednotkou je kg·m⁻³, alebo sa môže použiť aj kg·dm⁻³, g·l⁻¹",
+      "D": "hmotnostný zlomok látky A je počet gramov látky A v 1000 g roztoku",
+      "E": "objemový zlomok látky A je určený podielom objemu V(A) látky A a objemu roztoku V",
+      "F": "objemový zlomok látky A je počet mililitrov látky A v 100 ml H₂O",
+      "G": "keď w(NaCl) = 0,13, roztok obsahuje 13 g NaCl + 100 g H₂O",
+      "H": "roztok s koncentráciou c = 2 mol·l⁻¹ obsahuje dva mol látky v dvoch litroch roztoku"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Osmóza:",
+    "options": {
+      "A": "je dej, ktorý nemôže prebiehať v organizme človeka",
+      "B": "je vlastnosťou systému tvoreného rozpúšťadlom, roztokom a polopriepustnou membránou medzi nimi",
+      "C": "nastane, keď sú dva roztoky NaCl s rôznou koncentráciou oddelené semipermeabilnou membránou",
+      "D": "je samovoľný prechod častíc látky z miest s vyššou koncentráciou na miesta s nižšou koncentráciou",
+      "E": "nemôže nastať, keď do krvi človeka dáme sterilnú destilovanú vodu",
+      "F": "je prechod molekúl rozpúšťadla cez polopriepustnú membránu z roztoku s nižšou koncentráciou do roztoku s vyššou koncentráciou",
+      "G": "pri rovnakej koncentrácii (mol.l’1) je rovnaká v roztokoch elektrolytov aj neelektrolytov",
+      "H": "je opačný pochod ako diťúzia"
+    },
+    "correct": [
+      "B",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Vodný roztok dihydrogenfosforečnanu sodného (Mr = 120) s koncentráciou 0,5 mol.l^-1 pripravíme, keď:",
+    "options": {
+      "A": "k 120 g NaH2PO4 pridáme toľko vody, aby sme dostali 2000 ml roztoku",
+      "B": "k 60 g Na2HPO4 pridáme toľko vody, aby sme dostali jeden dm3 roztoku",
+      "C": "rozpustíme 6 g NaH2PO4 vo vode tak, aby výsledný objem roztoku bol 100 mililitrov",
+      "D": "rozpustíme 60 g NaH2PO4 v 1000 ml vody",
+      "E": "rozpustíme 60 mg Na2HPO4 vo vode tak, aby výsledný objem roztoku bol jeden ml",
+      "F": "rozpustíme 0,25 mol NaH2PO4 vo vode tak, aby výsledný objem roztoku bol 0,5 dm3",
+      "G": "rozpustíme 60 g Na3PO4 vo vode na výsledný objem roztoku 1000 ml",
+      "H": "rozpustíme 120 mg NaH2PO4 vo vode tak, aby výsledný objem roztoku bol 2 ml"
+    },
+    "correct": [
+      "A",
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Oxidácia:",
+    "options": {
+      "A": "je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny prijímajú elektróny",
+      "B": "je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny odovzdávajú elektróny",
+      "C": "je proces, ktorý sa spája so znižovaním kladného oxidačného čísla atómov",
+      "D": "je proces, ktorý sa spája so zvyšovaním kladného oxidačného čísla atómov",
+      "E": "a redukcia prebiehajú vždy spolu a sú len dielčie časti oxidačno-redukčnej reakcie",
+      "F": "v biologických systémoch je základom látkovej premeny",
+      "G": "organických zlúčenín sa spája s ich hydrogenáciou",
+      "H": "je proces, pri ktorom molekula organickej zlúčeniny prijíma dva atómy vodíka"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Redukcia:",
+    "options": {
+      "A": "je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny prijímajú elektróny",
+      "B": "je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny odovzdávajú elektróny",
+      "C": "sa spája so znižovaním kladného oxidačného čísla atómov",
+      "D": "striebra vodíkom prebieha podľa reakcie Ag2S + H2--► 2 Ag + H2S",
+      "E": "je proces, pri ktorom látka prijíma dva vodíkové protóny",
+      "F": "organických zlúčenín sa nazýva dehydrogenácia",
+      "G": "je aj zlučovanie látok s vodíkom",
+      "H": "organických zlúčenín prebieha zvyčajne ako hydrogenácia"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Redukovadlá sú látky, ktoré:",
+    "options": {
+      "A": "sú donormi elektrónov pri chemickej reakcii",
+      "B": "sú akceptormi elektrónov pri chemickej reakcii",
+      "C": "sú donormi protónov pri chemickej reakcii",
+      "D": "sú donormi atómov vodíka pri hydrogenácii látok",
+      "E": "majú schopnosť oxidovať iné látky, pričom sa redukujú f) majú schopnosť redukovať iné látky, pričom sa oxidujú",
+      "G": "pri chemickej reakcii odovzdávajú elektróny",
+      "H": "pri chemickej reakcii prijímajú elektróny"
+    },
+    "correct": [
+      "A",
+      "D",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Oxidovadlá sú látky:",
+    "options": {
+      "A": "ktoré sú akceptormi protónov pri chemickej reakcii",
+      "B": "ktoré sú akceptormi atómov vodíka pri dehydrogenácii látok",
+      "C": "ktoré pri oxidačno-redukčnej reakcii prijímajú elektróny",
+      "D": "ktoré sú donormi elektrónov pri chemickej reakcii",
+      "E": "ktoré sa pri chemickej reakcii redukujú",
+      "F": "medzi ktoré môžeme zaradiť KMnO4, H2O2 a KCl03",
+      "G": "ktoré majú schopnosť oxidovať iné látky, pričom sa redukujú h) ktoré majú schopnosť redukovať iné látky, pričom sa oxidujú"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Dismutácia je reakcia:",
+    "options": {
+      "A": "oxidačno-redukčná",
+      "B": "pri ktorej jedna látka (molekuly tej istej zlúčeniny, rovnaké ióny alebo atómy toho istého prvku) prijíma i odovzdáva elektróny",
+      "C": "pri ktorej rovnaké ióny alebo atómy toho istého prvku podliehajú oxidácii i redukcii",
+      "D": "Cl₂ + H₂O → HClO + HCl",
+      "E": "2 ⌬–CH=O + OH⁻ → ⌬–CH₂OH + ⌬–COO⁻",
+      "F": "2 KMnO₄ + 16 HCl → 5 Cl₂ + 2 MnCl₂ + 2 KCl + 8 H₂O",
+      "G": "3 K₂MnO₄ + 2 H₂O → 2 KMnO₄ + MnO₂ + 4 KOH",
+      "H": "3 HNO₂ → HNO₃ + 2 NO + H₂O24"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Atóm jódu má oxidačné číslo VII v zlúčeninách:",
+    "options": {
+      "A": "NaIO",
+      "B": "I2O7",
+      "C": "PbI2",
+      "D": "NH4I",
+      "E": "HIO3",
+      "F": "KIO4",
+      "G": "H3IO5",
+      "H": "H5IO6"
+    },
+    "correct": [
+      "B",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Atóm chrómu má oxidačné číslo VI v zlúčeninách:",
+    "options": {
+      "A": "Cr2O3",
+      "B": "KCr(SO4)2.12H2O",
+      "C": "Cr(OH)3",
+      "D": "K2CrO4",
+      "E": "K2Cr2O7",
+      "F": "CrO3",
+      "G": "CrCl3",
+      "H": "PbCrO4"
+    },
+    "correct": [
+      "D",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Atóm železa má oxidačné číslo III v zlúčeninách:",
+    "options": {
+      "A": "Fe(SCN)₃",
+      "B": "(NH₄)₂Fe(SO₄)₂·6 H₂O",
+      "C": "Fe(CH₃COO)₃",
+      "D": "NH₄Fe(SO₄)₂·12 H₂O",
+      "E": "K₄[Fe(CN)₆]",
+      "F": "K₃[Fe(CN)₆]",
+      "G": "Fe(HCO₃)₂",
+      "H": "Fe(OH)₂NO₃"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Atóm kyslíka má oxidačné číslo -I v zlúčeninách:",
+    "options": {
+      "A": "Na2O2",
+      "B": "BaO",
+      "C": "K2O2",
+      "D": "BaO2",
+      "E": "Ba(OH)2",
+      "F": "H2O2",
+      "G": "H-O-O-H",
+      "H": "H2O"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Atóm mangánu má oxidačné číslo VII v zlúčeninách:",
+    "options": {
+      "A": "MnSO4",
+      "B": "Ca(MnO4)2",
+      "C": "Mn2O7",
+      "D": "KMnO4",
+      "E": "K2MnO4"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Atóm síry má oxidačné číslo -II v zlúčeninách:",
+    "options": {
+      "A": "H2S",
+      "B": "Co2(SO4)3",
+      "C": "Sb2S5",
+      "D": "Mg(HS)2",
+      "E": "HS-C2H5",
+      "F": "H3C-S-S-CH3",
+      "G": "KHSO4",
+      "H": "CdS"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Atóm fosforu má oxidačné číslo III v zlúčeninách:",
+    "options": {
+      "A": "HPO₃",
+      "B": "Mg(H₂PO₄)₂",
+      "C": "Ca₃(PO₄)₂·CaF₂",
+      "D": "Na₂HPO₄",
+      "E": "H₃PO₃",
+      "F": "P₄O₆",
+      "G": "O = P(OH)₂–O–CH₃",
+      "H": "PI₃"
+    },
+    "correct": [
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Pre chemickú reakciu Mg + NiCl₂ ⇌ MgCl₂ + Ni platí:",
+    "options": {
+      "A": "horčík sa redukuje",
+      "B": "chlór sa redukuje",
+      "C": "nikelnatý katión sa redukuje",
+      "D": "katión Ni²⁺ sa oxiduje",
+      "E": "reakcia prebieha v smere zľava doprava a katión Ni²⁺ je oxidovadlo",
+      "F": "reakcia prebieha v smere sprava doľava, pretože Ni stojí v elektrochemickom rade napätia kovov za Mg a preto môže Mg²⁺ ióny redukovať",
+      "G": "horčík je redukovadlo",
+      "H": "horčík sa oxiduje"
+    },
+    "correct": [
+      "C",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Pre reakciu Zn + CuSO₄ ⇌ ZnSO₄ + Cu platí:",
+    "options": {
+      "A": "meďnatý katión sa redukuje",
+      "B": "katión Cu²⁺ je oxidovadlo",
+      "C": "reakcia je oxidačno-redukčná",
+      "D": "oxidačné čísla prvkov sa nemenia",
+      "E": "meďnatý katión sa oxiduje",
+      "F": "zinok sa redukuje",
+      "G": "prebieha v smere zľava doprava",
+      "H": "zinok je redukovadlo, lebo v elektrochemickom rade napätia kovov stojí pred meďou"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Pre chemickú reakciu Fe + 2 HCl (zried.) → FeCl₂ + H₂ platí:",
+    "options": {
+      "A": "Fe sa oxiduje",
+      "B": "Fe sa redukuje",
+      "C": "reakcia je oxidačno-redukčná",
+      "D": "chloridový anión sa oxiduje",
+      "E": "reakcia prebieha a Fe je redukovadlo",
+      "F": "reakcia neprebieha",
+      "G": "katión H⁺ je oxidovadlo",
+      "H": "katión H⁺ sa redukuje"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Pre chemickú reakciu Zn + H₂SO₄ (zried.) → ZnSO₄ + H₂ platí:",
+    "options": {
+      "A": "katióny vodíka sa redukujú",
+      "B": "zinok sa redukuje",
+      "C": "reakcia je oxidačno-redukčná",
+      "D": "síra sa redukuje",
+      "E": "katióny vodíka sa oxidujú",
+      "F": "reakcia prebieha a zinok je redukovadlo",
+      "G": "reakcia neprebieha",
+      "H": "zinok sa oxiduje"
+    },
+    "correct": [
+      "A",
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Ak do roztoku železnatej a zinočnatej soli ponoríme kúsky železa a zinku, prebieha reakcia:",
+    "options": {
+      "A": "Fe + Zn²⁺ → Zn + Fe²⁺",
+      "B": "Fe²⁺ + Zn → Zn²⁺ + Fe",
+      "C": "2 Fe + 3 Zn²⁺ → 2 Fe³⁺ + 3 Zn",
+      "D": "redukcie katiónu železa účinkom kovového zinku",
+      "E": "pri ktorej sa oxiduje elementárne železo",
+      "F": "pri ktorej sa oxiduje kovový zinok",
+      "G": "oxidačno-redukčná",
+      "H": "v ktorej vystupuje kovový zinok ako redukovadlo"
+    },
+    "correct": [
+      "B",
+      "D",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne: Cu + HNO₃ → Cu(NO₃)₂ + NO₂ + H₂O :",
+    "options": {
+      "A": "Nᵛ + 3 e⁻ → N²⁻",
+      "B": "Cu⁰ + 2 e⁻ → Cu²⁺",
+      "C": "Cu⁰ − 2 e⁻ → Cu²⁺",
+      "D": "Cu⁰ − 1 e⁻ → Cu¹⁺",
+      "E": "N³⁺ + 1 e⁻ → N²⁺",
+      "F": "Nᵛ + 1 e⁻ → N⁴⁺",
+      "G": "Cu¹⁺ − 1 e⁻ → Cu²⁺",
+      "H": "1 + 4 → 1 + 2 + 2"
+    },
+    "correct": [
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne: H₂O₂ + KMnO₄ + H₂SO₄ → O₂ + MnSO₄ + K₂SO₄ + H₂O :",
+    "options": {
+      "A": "Mn⁷⁺ + 5 e⁻ → Mn²⁺",
+      "B": "Mn⁶⁺ + 4 e⁻ → Mn²⁺",
+      "C": "S⁶⁺ + 2 e⁻ → S⁴⁺",
+      "D": "2 O⁻¹ − 2 e⁻ → O₂⁰",
+      "E": "Mn⁶⁺ − 4 e⁻ → Mn²⁺",
+      "F": "Mn⁷⁺ + 3 e⁻ → Mn⁴⁺",
+      "G": "O⁻¹ + 1 e⁻ → O⁻²",
+      "H": "5 + 2 + 3 → 5 + 2 + 1 + 8"
+    },
+    "correct": [
+      "A",
+      "D",
+      "H"
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Cl₂ + NaOH → NaCl + NaClO + H₂O :",
+    "options": {
+      "A": "Cl⁰ − 2 e⁻ → Cl²⁺",
+      "B": "Cl²⁺ + 1 e⁻ → Cl¹⁺",
+      "C": "Cl⁰ + 1 e⁻ → Cl⁻",
+      "D": "Na¹⁺ − 1 e⁻ → Na⁰",
+      "E": "Cl⁰ − 1 e⁻ → Cl¹⁺",
+      "F": "O⁻¹ + 1 e⁻ → O⁻²",
+      "G": "H⁻¹ − 1 e⁻ → H¹",
+      "H": "1 + 2 → 1 + 1 + 1"
+    },
+    "correct": [
+      "C",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne KMnO₄ + Na₂SO₃ + H₂O → Na₂SO₄ + MnO₂ + KOH :",
+    "options": {
+      "A": "Mn⁷⁺ + 5 e⁻ → Mn²⁺",
+      "B": "Mn⁷⁺ + 3 e⁻ → Mn⁴⁺",
+      "C": "S⁶⁺ + 2 e⁻ → S⁴⁺",
+      "D": "H¹ + 2 e⁻ → H⁻¹",
+      "E": "K¹⁺ − 1 e⁻ → K¹",
+      "F": "S⁴⁺ − 2 e⁻ → S⁶⁺",
+      "G": "Mn⁶⁺ + 2 e⁻ → Mn⁴⁺",
+      "H": "2 + 3 + 1 → 3 + 2 + 4"
+    },
+    "correct": [
+      "B",
+      "F"
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H₂O₂ → H₂O + O₂ :",
+    "options": {
+      "A": "2 H⁻¹ − 2 e⁻ → H₂⁰",
+      "B": "2 O⁻¹ + 2 e⁻ → 2 O⁻²",
+      "C": "2 O⁻¹ − 2 e⁻ → O₂⁰",
+      "D": "2 O⁻² − 4 e⁻ → O₂⁰",
+      "E": "2 O⁻² − 2 e⁻ → 2 O⁻¹",
+      "F": "2 H¹ + 2 e⁻ → H₂⁰",
+      "G": "2 → 2 + 1",
+      "H": "3 → 2 + 1"
+    },
+    "correct": [
+      "B",
+      "C",
+      "G"
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne SO₂ + H₂S → S + H₂O :",
+    "options": {
+      "A": "S⁻² − 2 e⁻ → S⁰",
+      "B": "S²⁺ − 2 e⁻ → S⁰",
+      "C": "O⁻² − 1 e⁻ → O⁻¹",
+      "D": "S⁴⁺ + 4 e⁻ → S⁰",
+      "E": "S⁶⁺ + 6 e⁻ → S⁰",
+      "F": "S⁻¹ − 1 e⁻ → S⁰",
+      "G": "H⁻¹ − 2 e⁻ → H¹",
+      "H": "1 + 2 → 3 + 2"
+    },
+    "correct": [
+      "A",
+      "D",
+      "H"
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Na₂Cr₂O₇ + HCl → NaCl + CrCl₃ + Cl₂ + H₂O :",
+    "options": {
+      "A": "2 Cl⁻ − 2 e⁻ → Cl₂⁰",
+      "B": "2 Cl⁻ − 2 e⁻ → Cr³⁺",
+      "C": "Cr⁶⁺ + 3 e⁻ → Cr³⁺",
+      "D": "Cl⁰ + 2 e⁻ → Cl⁻",
+      "E": "Na⁺ + 1 e⁻ → Na⁰",
+      "F": "Cr⁷⁺ + 4 e⁻ → Cr³⁺",
+      "G": "O⁻¹ + 1 e⁻ → O⁻²",
+      "H": "1 + 14 → 2 + 2 + 3 + 7"
+    },
+    "correct": [
+      "A",
+      "C",
+      "H"
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Jód sa oxiduje v reakciách:",
+    "options": {
+      "A": "Cl₂ + 2 KI → I₂ + 2 KCl",
+      "B": "2 KI + O₃ + H₂O → I₂ + 2 KOH + O₂",
+      "C": "3 I₂ + 10 HNO₃ → 6 HIO₃ + 10 NO + 2 H₂O",
+      "D": "NaIO₃ + NaClO → NaIO₄ + NaCl",
+      "E": "Pb(NO₃)₂ + 2 KI → PbI₂ + 2 KNO₃",
+      "F": "I₂ + H₂S → 2 HI + S",
+      "G": "I₂ + 5 Cl₂ + 6 H₂O → 2 HIO₃ + 10 HCl",
+      "H": "Na₃AsO₃ + I₂ + H₂O → Na₃AsO₄ + 2 HI"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Síra sa oxiduje v reakcii:",
+    "options": {
+      "A": "Fe₂S₃ + 4 HCl → 2 FeCl₂ + 2 H₂ + 3 S",
+      "B": "2 Cr + 6 H₂SO₄ → Cr₂(SO₄)₃ + 3 SO₂ + 6 H₂O",
+      "C": "I₂ + H₂S → 2 HI + S",
+      "D": "NaOH + SO₂ → NaHSO₃",
+      "E": "2 FeCl₃ + H₂S → 2 FeCl₂ + S + 2 HCl",
+      "F": "K₂Cr₂O₇ + S → Cr₂O₃ + K₂SO₄",
+      "G": "Cl₂ + SO₂ + 2 H₂O → 2 HCl + H₂SO₄",
+      "H": "4 FeS₂ + 11 O₂ → 2 Fe₂O₃ + 8 SO₂"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Vyberte reakcie, v ktorých je H2O2 oxidovadlo:",
+    "options": {
+      "A": "H₂O₂ + 2 FeSO₄ + H₂SO₄ → Fe₂(SO₄)₃ + 2 H₂O",
+      "B": "5 H₂O₂ + 2 KMnO₄ + 3 H₂SO₄ → 5 O₂ + 2 MnSO₄ + K₂SO₄ + 8 H₂O",
+      "C": "H₂O₂ + PbO₂ + 2 HNO₃ → Pb(NO₃)₂ + O₂ + 2 H₂O",
+      "D": "H₂O₂ + 2 KI + H₂SO₄ → I₂ + K₂SO₄ + 2 H₂O",
+      "E": "Mn²⁺ + H₂O₂ + 2 OH⁻ → MnO₂ + 2 H₂O",
+      "F": "H₂O₂ + H₂S → 2 H₂O + S",
+      "G": "Ag₂O + H₂O₂ → 2 Ag + H₂O + O₂",
+      "H": "H₂O₂ + Fe²⁺ → Fe³⁺ + OH⁻ + OH•"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Rýchlosť chemickej reakcie:",
+    "options": {
+      "A": "u plynov závisí od tlaku",
+      "B": "závisí od koncentrácie reagujúcich látok",
+      "C": "je ovplyvnená prítomnosťou katalyzátorov",
+      "D": "je priamo úmerná súčinu molárnych koncentrácií reagujúcich látok"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Rovnovážny stav reakcie:",
+    "options": {
+      "A": "je stav, pri ktorom reakcia prebieha rovnakou rýchlosťou v oboch smeroch",
+      "B": "je stav, keď sa reaktanty úplne premenili na produkty",
+      "C": "vyjadruje rovnovážna konštanta",
+      "D": "je stav, keď sa v reakčnej zmesi koncentrácie reaktantov rovnajú koncentráciám produktov",
+      "E": "závisí od aktivačnej energie",
+      "F": "možno ovplyvniť zmenou teploty reakčnej zmesi",
+      "G": "možno ovplyvniť zmenou koncentrácie produktov",
+      "H": "možno ovplyvniť prítomnosťou katalyzátorov"
+    },
+    "correct": [
+      "A",
+      "C",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Chemická rovnováha reakcie 2 HBr ⇌ H₂ + Br₂, s hodnotou reakčného tepla Qₘ = +70 kJ·mol⁻¹, sa posunie na stranu reaktantov:",
+    "options": {
+      "A": "zvýšením teploty",
+      "B": "znížením teploty",
+      "C": "odstraňovaním H₂ z reakčnej zmesi",
+      "D": "pridaním Br₂ do reakčnej zmesi",
+      "E": "pridaním katalyzátora",
+      "F": "pridaním HBr do reakčnej zmesi",
+      "G": "odstraňovaním HBr z reakčnej zmesi",
+      "H": "pridaním H₂ do reakčnej zmesi"
+    },
+    "correct": [
+      "B",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Rovnováha reakcie 2 NO + O₂ ⇌ 2 NO₂, s hodnotou reakčného tepla Qₘ = −117 kJ·mol⁻¹, sa posúva na stranu reaktantov:",
+    "options": {
+      "A": "znížením teploty",
+      "B": "zvýšením teploty",
+      "C": "odstraňovaním NO₂ z reakčnej zmesi",
+      "D": "pridaním O₂ do reakčnej zmesi",
+      "E": "zvýšením tlaku v reakčnej zmesi (ide o reakciu v plynnej fáze)",
+      "F": "znížením tlaku v reakčnej zmesi",
+      "G": "pridaním NO do reakčnej zmesi",
+      "H": "pridaním NO₂ do reakčnej zmesi"
+    },
+    "correct": [
+      "B",
+      "F",
+      "H"
+    ]
+  }
+]

@@ -1138,8 +1138,14 @@ f)	rôzny
 g)	diploidný
 h)	haploidný
 124.	Ako sa nazývajú bunky s jednou chromozómovou sadou?
-a) diploidné b) haploidné c) somatické d) gaméty e) zygoty f) monoploidné g) oogónie
-h) spermiogónie
+a) 	diploidné 
+b) 	haploidné 
+c) 	somatické 
+d) 	gaméty 
+e) 	zygoty 
+f) 	monoploidné 
+g) 	oogónie
+h) 	spermiogónie
 125.	Bunkový cyklus je:
 a)	proces bunkového delenia, ktorý sa vo vhodných podmienkach opakuje
 b)	proces delenia bunkových štruktúr
