@@ -1,27 +1,29 @@
 #!/bin/zsh
+set -e
 
-echo "🚀 Запуск тренажёра..."
+IMAGE=trainer
+CONTAINER=trainer
+PORT=8000
 
 cd "$(dirname "$0")"
 
-echo "🔄 Обновление проекта"
+echo "== Pull latest code =="
 git pull
 
-echo "🛑 Останавливаю старый контейнер"
-docker stop trainer 2>/dev/null
-docker rm trainer 2>/dev/null
+echo "== Ensure local progress.json exists =="
+test -f progress.json || echo "{}" > progress.json
 
-echo "🐳 Сборка Docker"
-docker build -t trainer .
+echo "== Stop/remove old container =="
+docker stop $CONTAINER 2>/dev/null || true
+docker rm $CONTAINER 2>/dev/null || true
 
-echo "▶️ Запуск контейнера"
-docker run -d \
-  -p 8000:8000 \
+echo "== Build image (no cache) =="
+docker build --no-cache -t $IMAGE .
+
+echo "== Run container =="
+docker run -d -p ${PORT}:8000 --name $CONTAINER \
   -v "$(pwd)/progress.json:/app/progress.json" \
-  --name trainer \
-  trainer
+  $IMAGE
 
-sleep 2
-
-echo "🌍 Открываю браузер"
-explorer.exe http://localhost:8000/start
+echo "== Open in browser =="
+open http://localhost:${PORT}/start

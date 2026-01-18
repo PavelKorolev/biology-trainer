@@ -2,5 +2,8 @@
 __pycache__
 *.pyc
 biologyV3.txt
+chemistryV2.txt
 build_questions.py
+build_questionsChemistry.py
+find_bad_questions.py
 progress.json

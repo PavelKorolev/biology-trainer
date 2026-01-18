@@ -7,7 +7,7 @@ INPUT_FILE = "chemistryV2.txt"
 OUTPUT_FILE = "questions_allChemistry.json"
 
 MIN_Q = 1
-MAX_Q = 125
+MAX_Q = 126
 
 # ============================================
 
