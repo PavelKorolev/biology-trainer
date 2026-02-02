@@ -2429,5 +2429,1466 @@
       "F",
       "H"
     ]
+  },
+  {
+    "id": 126,
+    "question": "Vyberte správny vzťah pre rovnovážnu konštantu reakcie N2 + 3 H2 ⇌ 2 NH3 :",
+    "options": {
+      "A": "K = [NH3] / ([H2]^3 · [N2])",
+      "B": "K = [NH3]^2 / ([H2]^3 · [N2])",
+      "C": "K = ([N2] · [H2]^3) / [NH3]^2",
+      "D": "K = [N2] · [H2]^3",
+      "E": "K = [NH3]^2 / ([H2]^3 + [N2])",
+      "F": "K = ([N2] + [H2]^3) / [NH3]^2",
+      "G": "K = ([N2] · [H2] · [NH3]) / 3",
+      "H": "K = ([N2] + [H2] + [NH3]) / 3"
+    },
+    "correct": [
+      "B"
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Vyberte správny vzťah pre rovnovážnu konštantu reakcie 4 KClO3 ⇌ KCl + 3 KClO4 :",
+    "options": {
+      "A": "K = ([KCl] · [KClO4]) / [KClO3]^4",
+      "B": "K = ([KCl] · [KClO4]^2) / [KClO3]^3",
+      "C": "K = [KClO3]^4 / ([KCl] · [KClO4]^3)",
+      "D": "K = ([KCl] · [KClO4]^3) / [KClO3]^4",
+      "E": "K = ([KCl] + [KClO4]^3) / [KClO3]^4",
+      "F": "K = [KClO3]^4 / ([KCl] + [KClO4]^3)",
+      "G": "K = ([KClO3] · [KCl] · [KClO4]) / 3",
+      "H": "K = ([KClO3] + [KCl] + [KClO4]) / 3"
+    },
+    "correct": [
+      "D"
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Ktoré z uvedených rovníc vyjadrujú exotermický dej:",
+    "options": {
+      "A": "2 SO3 → 2 SO2 + O2; Qm = +195 kJ·mol⁻¹",
+      "B": "CO + 1/2 O2 → CO2; Qm = −283 kJ·mol⁻¹",
+      "C": "4 NH3 + 5 O2 → 4 NO + 6 H2O; Qm = −906 kJ·mol⁻¹",
+      "D": "N2 + 3 H2 → 2 NH3; Qm = −93 kJ·mol⁻¹",
+      "E": "2 H2 + O2 → 2 H2O; Qm = −452 kJ·mol⁻¹",
+      "F": "2 H2O → 2 H2 + O2; Qm = +452 kJ·mol⁻¹",
+      "G": "C + O2 → CO2; Qm = −394 kJ·mol⁻¹",
+      "H": "CH4 + 2 O2 → CO2 + 2 H2O; Qm = −804 kJ·mol⁻¹"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Aktivačná energia reakcie:",
+    "options": {
+      "A": "sa uplatňuje len pri exotermických chemických dejoch",
+      "B": "sa uplatňuje pri exotermických i endotermických chemických dejoch",
+      "C": "má vzťah k rýchlosti chemickej reakcie",
+      "D": "je ovplyvnená prítomnosťou katalyzátora",
+      "E": "Je vyjadrená rovnovážnou konštantou",
+      "F": "je vyjadrená reakčným teplom",
+      "G": "závisí od reakčného tepla",
+      "H": "závisí od rovnovážnej konštanty"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Pre reakciu 2 NO₂ ⇌ N₂O₄; Qm = −57 kJ·mol⁻¹ platí:",
+    "options": {
+      "A": "zvýšením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov",
+      "B": "v smere tvorby N₂O₄ je endotermická",
+      "C": "zvýšením teploty sa posúva rovnovážny stav reakcie na stranu produktov",
+      "D": "v smere tvorby N₂O₄ je exotermická",
+      "E": "ide o oxidačno-redukčný dej",
+      "F": "znížením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov",
+      "G": "zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov",
+      "H": "znížením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov"
+    },
+    "correct": [
+      "A",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 131,
+    "question": "Pre reakciu 2 SO₃ ⇌ 2 SO₂ + O₂; Qm = +195 kJ·mol⁻¹ platí:",
+    "options": {
+      "A": "v smere tvorby SO₃ je exotermická",
+      "B": "znížením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov",
+      "C": "zvýšením teploty sa posúva rovnovážny stav reakcie na stranu produktov",
+      "D": "v smere rozkladu SO₃ je exotermická",
+      "E": "ide o oxidačno-redukčný dej",
+      "F": "zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu reaktantov",
+      "G": "zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov",
+      "H": "v smere tvorby SO₂ je exotermická"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Podľa Hessovho zákona hodnota reakčného tepla Qm danej reakcie:",
+    "options": {
+      "A": "závisí od spôsobu, akým reakcia prebehla",
+      "B": "závisí od počtu medzistupňov, ktorými sa reakcia uskutočnila",
+      "C": "sa s rastúcim počtom medzistupňov reakcie znižuje",
+      "D": "je určená rozdielom potenciálnych energií produktov a východiskových látok",
+      "E": "je úmerná rýchlosti reakcie",
+      "F": "je ovplyvnená prítomnosťou katalyzátora",
+      "G": "závisí od rovnovážnej konštanty reakcie",
+      "H": "sa s rastúcim počtom medzistupňov reakcie zvyšuje"
+    },
+    "correct": [
+      "D"
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Pre exotermické reakcie platí:",
+    "options": {
+      "A": "reakčná sústava teplo pohlcuje",
+      "B": "reakčná sústava teplo uvoľňuje",
+      "C": "potenciálna energia produktov je nižšia ako potenciálna energia reaktantov",
+      "D": "sú zdrojom energie",
+      "E": "nemôžu mať charakter redoxných dejov",
+      "F": "nemôžu mať charakter protolytických dejov",
+      "G": "majú charakter len redoxných dejov",
+      "H": "nemôžu prebiehať v živých systémoch"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Pre endotermické reakcie platí:",
+    "options": {
+      "A": "reakčná sústava teplo pohlcuje",
+      "B": "reakčná sústava teplo uvoľňuje",
+      "C": "potenciálna energia produktov je vyššia ako potenciálna energia reaktantov",
+      "D": "sú zdrojom energie",
+      "E": "všetky majú charakter redoxných dejov",
+      "F": "všetky majú charakter protolytických reakcií",
+      "G": "že hodnota Qm má kladné znamienko",
+      "H": "že hodnota Qm má záporné znamienko"
+    },
+    "correct": [
+      "A",
+      "C",
+      "G"
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Zvýšenie koncentrácie reaktantov pri exotermickej reakcii:",
+    "options": {
+      "A": "spôsobí posun rovnováhy reakcie v smere endotermickej reakcie",
+      "B": "spôsobí posun rovnováhy reakcie v smere exotermickej reakcie",
+      "C": "ovplyvní iba priebeh oxidačno-redukčných reakcií",
+      "D": "nemá vplyv na priebeh reakcie",
+      "E": "spôsobí zvýšenie množstva uvoľneného reakčného tepla",
+      "F": "nezmení koncentráciu produktov",
+      "G": "neovplyvňuje smer reakcie",
+      "H": "spôsobí zníženie množstva uvoľneného reakčného tepla"
+    },
+    "correct": [
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Energetickou bilanciou chemickej reakcie sa zistí:",
+    "options": {
+      "A": "rozdiel molových väzbových energií vznikajúcich väzieb a väzieb zanikajúcich",
+      "B": "len hodnota molových väzbových energií reaktantov",
+      "C": "len hodnota molových väzbových energií produktov",
+      "D": "hodnota reakčného tepla Qm",
+      "E": "hodnota rýchlostnej konštanty",
+      "F": "hodnota aktivačnej energie",
+      "G": "či je daná reakcia exotermická alebo endotermická",
+      "H": "typ alebo mechanizmus reakcie"
+    },
+    "correct": [
+      "A",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Molekulový vodík je reaktívnejší ako molekulový dusík, lebo:",
+    "options": {
+      "A": "pri vzniku molekuly H2 z atómov vodíka sa uvoľní nižšie množstvo energie ako pri vzniku molekuly N2",
+      "B": "pri vzniku molekuly N2 z atómov dusíka sa uvoľní vyššie množstvo energie ako pri vzniku molekuly H2",
+      "C": "väzbová energia v molekule N2 je vyššia ako v molekule H2",
+      "D": "väzbová energia v molekule H2 je nižšia ako v molekule N2",
+      "E": "reakčné teplo Qm vzniku molekuly H2 z atómov vodíka je nižšie ako pri vzniku molekuly N2",
+      "F": "molekulový vodík je menej stabilný ako molekulový dusík",
+      "G": "dusík má vyššiu teplotu varu ako vodík",
+      "H": "H2 má nižšiu relatívnu molekulovú hmotnosť ako N2"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Reakčné teplo Qm je teplo:",
+    "options": {
+      "A": "ktoré reakčné systémy pri chemickej reakcii len uvoľňujú",
+      "B": "ktoré reakčné systémy pri chemickej reakcii vymieňajú s okolím",
+      "C": "ktoré sa pri chemických reakciách spotrebuje alebo uvoľňuje",
+      "D": "ktoré môže mať len kladné znamienko",
+      "E": "ktorého hodnotu ovplyvňuje prítomnosť katalyzátora v reakčnej zmesi",
+      "F": "ktorého hodnota nezávisí od prítomnosti katalyzátora v reakčnej zmesi",
+      "G": "ktoré vyjadruje rýchlosť chemickej reakcie",
+      "H": "ktoré môže mať v reakciách kladné alebo záporné znamienko"
+    },
+    "correct": [
+      "B",
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Reakčné teplo Qm reakcie C(s) + 1/2 O2(g) → CO(g) vypočítané z reakčných tepiel reakcií: C(s) + O2(g) → CO2(g); Qm = −393 kJ·mol⁻¹ CO(g) + 1/2 O2(g) → CO2(g); Qm = −283 kJ·mol⁻¹ bude mať v zmysle Hessovho zákona hodnotu:",
+    "options": {
+      "A": "−676 kJ·mol⁻¹",
+      "B": "−110 kJ·mol⁻¹",
+      "C": "+110 kJ·mol⁻¹",
+      "D": "+676 kJ·mol⁻¹",
+      "E": "rovná súčtu reakčných tepiel tvorby CO2 z elementárneho uhlíka a z CO",
+      "F": "rovná rozdielu reakčných tepiel tvorby CO2 z elementárneho uhlíka a z CO",
+      "G": "príslušajúcu exotermickému deje",
+      "H": "príslušajúcu endotermickému deje"
+    },
+    "correct": [
+      "B",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 140,
+    "question": "O aktivačnej energii Ea platí, že:",
+    "options": {
+      "A": "čím je jej hodnota nižšia, tým je rýchlosť chemickej reakcie vyššia",
+      "B": "jej hodnotu ovplyvňuje prítomnosť katalyzátora",
+      "C": "jej hodnotu určuje rozdiel potenciálnej energie aktivovaného komplexu reakcie a potenciálnej energie produktov reakcie",
+      "D": "čím je jej hodnota vyššia, tým je rýchlosť chemickej reakcie nižšia",
+      "E": "ovplyvňuje hodnotu rovnovážnej konštanty reakcie",
+      "F": "neovplyvňuje rýchlosť chemickej reakcie",
+      "G": "sa uplatňuje pri exotermických aj endotermických reakciách",
+      "H": "sa uplatňuje len pri endotermických reakciách"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 141,
+    "question": "Hodnotu reakčného tepla Qm chemickej reakcie určuje:",
+    "options": {
+      "A": "prítomnosť katalyzátorov",
+      "B": "reakčná rýchlosť",
+      "C": "hodnota rovnovážnej konštanty",
+      "D": "hodnota aktivačnej energie",
+      "E": "rozdiel relatívnych atómových alebo molekulových hmotností reaktantov a produktov reakcie",
+      "F": "množstvo uvoľnenej alebo spotrebovanej energie pri reakcii",
+      "G": "množstvo energie, ktoré reakčná sústava vymieňa s okolím",
+      "H": "pH reakčného prostredia"
+    },
+    "correct": [
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 142,
+    "question": "O izotopoch vodíka platí:",
+    "options": {
+      "A": "majú rovnaké ťyzikálne vlastnosti",
+      "B": "líšia sa počtom neutrónov v jadre",
+      "C": "líšia sa počtom protónov v jadre",
+      "D": "líšia sa počtom elektrónov v elektrónovom obale",
+      "E": "majú rovnaké nukleónové číslo",
+      "F": "v organických zlúčeninách sa z izotopov vodíka najčastejšie vyskytuje deutérium",
+      "G": "majú rovnaké protónové číslo",
+      "H": "deutérium má jadro deuterón, zložené z jedného protónu a jedného neutrónu"
+    },
+    "correct": [
+      "B",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Hydridový anión:",
+    "options": {
+      "A": "vzniká z atómu vodíka prijatím valenčného elektrónu od atómu s nízkou hodnotou elektronegativity",
+      "B": "vzniká z atómu vodíka odovzdaním elektrónu atómu iného prvku",
+      "C": "vzniká reakciou protónu a jedného elektrónu",
+      "D": "sa označuje H-",
+      "E": "sa označuje H+",
+      "F": "vzniká odobratím dvoch elektrónov z molekuly H2",
+      "G": "vytvára s katiónmi alkalických kovov hydridy",
+      "H": "vzniká reakciou protónu a atómu vodíka"
+    },
+    "correct": [
+      "A",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Označte, ktoré tvrdenie o vodíku je správne:",
+    "options": {
+      "A": "v zlúčeninách s fluórom, kyslíkom a dusíkom sa môže jeho atóm viazať so susednými molekulami kovalentnou väzbou",
+      "B": "je prvým členom periodickej sústavy prvkov",
+      "C": "s dusíkom sa nemôže zlučovať priamo, reakcia: N2 + 3 H2--► 2 NH3 neprebieha ani pri vyššej teplote a ani za použitia katalyzátorov",
+      "D": "vodík môže redukovať aj sulfidy, napr. Ag2S + H2--► 2 Ag + H2S",
+      "E": "tvorí ternárne (trojprvkové) zlúčeniny - hydridy - so všetkými prvkami periodickej sústavy prvkov",
+      "F": "atómy vodíka majú najjednoduchšiu elektrónovú konfiguráciu k1",
+      "G": "rýchle difunduje pórovitými stenami pevných látok",
+      "H": "pri nízkych teplotách (- 253 °C) kondenzuje na bezfarebnú kvapalinu"
+    },
+    "correct": [
+      "B",
+      "D",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Protón:",
+    "options": {
+      "A": "má silné redukčné účinky",
+      "B": "sa môže uplatniť ako akceptor elektrónového páru",
+      "C": "sa označuje H+",
+      "D": "s vodou vytvára katión H3O+",
+      "E": "sa viaže s katiónom H+ a vzniká molekula vodíka"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 146,
+    "question": "Atómy vodíka:",
+    "options": {
+      "A": "majú vlastnosti veľmi podobné ako atómy ostatných prvkov v I.A (1.) skupine periodickej sústavy prvkov",
+      "B": "sú reaktívnej šie ako molekuly vodíka",
+      "C": "môžu prijať alebo odovzdať elektróny a takto vždy vytvoriť protóny",
+      "D": "vytvorením chemickej väzby (napr. v molekule H2) nadobúdajú stabilnejšiu elektrónovú konfiguráciu",
+      "E": "vznikajú rozštiepením molekuly vodíka dodaním potrebnej energie",
+      "F": "sú príčinou prevažne oxidačných vlastností vodíka",
+      "G": "sú príčinou redukčných vlastností vodíka (vo väčšine reakcií)",
+      "H": "sú menej reaktívne ako molekuly vodíka"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 147,
+    "question": "Označte, ktoré reakcie binárnych zlúčenín vodíka s vodou môžu prebiehať:",
+    "options": {
+      "A": "HBr + H2O → H3O+ + Br−",
+      "B": "KH + H2O → H2 + KOH",
+      "C": "CaH2 + 2 H2O → 2 H2 + Ca(OH)2",
+      "D": "PH3 + 4 H2O → 4 H2 + H3PO4",
+      "E": "BaH2 + 2 H2O → 2 H2 + Ba(OH)2",
+      "F": "C2H6 + 2 H2O → 5 H2 + 2 CO2",
+      "G": "AsH3 + 3 H2O → H3AsO3 + 3 H2",
+      "H": "NaH + H2O → H2 + NaOH"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Zlúčenina SrH2:",
+    "options": {
+      "A": "môže vzniknúť reakciou prvkov stroncia a vodíka",
+      "B": "sa nazýva hydrid strontnatý",
+      "C": "má atómy vodíka s oxidačným číslom I",
+      "D": "má atómy vodíka s oxidačným číslom -I",
+      "E": "má v štruktúre hydridový anión H-",
+      "F": "nemôže reagovať s vodou",
+      "G": "má atóm stroncia s oxidačným číslom II",
+      "H": "sa nazýva peroxid strontnatý"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 149,
+    "question": "O binárnych zlúčeninách vodíka platí:",
+    "options": {
+      "A": "hydridy obsahujú katión H+",
+      "B": "hydridy sú napr. NaH a CaH2",
+      "C": "v prípade H2S, HC1, NH3 sú atómy vodíka viazané s príslušným prvkom kovalentnými väzbami",
+      "D": "hydridy sú ternárne zlúčeniny vodíka s inými prvkami",
+      "E": "zlúčeniny s nepolárnymi kovalentnými väzbami nereagujú s vodou",
+      "F": "hydridy obsahujú anióny H\" viazané s prvkami, ktoré majú najnižšie hodnoty elektronegativity (alkalické kovy a kovy alkalických zemín)",
+      "G": "hydridy reagujú s vodou podľa rovnice: H2O + H- ---► OH- + H2",
+      "H": "ich vlastnosti závisia hlavne od polarity väzby medzi atómom vodíka a atómom druhého prvku - podľa toho ich možno rozdeliť na iónové a kovalentné"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Deutérium:",
+    "options": {
+      "A": "má jadro zložené z jedného protónu a jedného neutrónu",
+      "B": "podobne ako trícium má jadro zložené z jedného protónu a dvoch neutrónov",
+      "C": "je izotop vodíka",
+      "D": "je nuklid ľahkého vodíka",
+      "E": "má značku D",
+      "F": "sa môže použiť na sledovanie mechanizmu reakcií a reakčnej kinetiky",
+      "G": "je ťažká voda",
+      "H": "s kyslíkom tvorí oxid deutérny D2O"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 151,
+    "question": "V prírode, hlavne vo vode a v organických zlúčeninách, sa z uvedených izotopov vodíka (prócium, deutérium a trícium):",
+    "options": {
+      "A": "v najnižšom množstve vyskytuje trícium",
+      "B": "vyskytujú v rovnakom pomere všetky uvedené izotopy",
+      "C": "najčastejšie vyskytuje deutérium viazané v ťažkej vode",
+      "D": "v najnižšom množstve vyskytuje prócium",
+      "E": "vyskytujú najmä deutérium a trícium",
+      "F": "najčastejšie vyskytuje voľné deutérium",
+      "G": "v najvyššom množstve vyskytuje prócium",
+      "H": "najčastejšie vyskytuje izotop ¹₁H"
+    },
+    "correct": [
+      "A",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 152,
+    "question": "Vodík:",
+    "options": {
+      "A": "sa pri bežných podmienkach na Zemi nevyskytuje ako atómový vodík",
+      "B": "môžeme pripraviť reakciou vodnej pary s rozžeraveným koksom podľa rovnice: C + H₂O → CO + H₂",
+      "C": "má chemické vlastnosti veľmi podobné ako ostatné prvky I.A skupiny",
+      "D": "v laboratóriu možno pripraviť elektrolýzou vody",
+      "E": "patrí medzi s² prvky",
+      "F": "sa vo vesmíre vyskytuje v plynnom obale Slnka, stálic a v hmlovinách",
+      "G": "je po héliu druhý najľahší prvok v sústave prvkov",
+      "H": "môže reagovať s chlórom podľa rovnice: H₂ + Cl₂ → 2 HCl"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Katión H+:",
+    "options": {
+      "A": "sa tiež nazýva prócium",
+      "B": "vzniká odovzdaním elektrónu z atómu vodíka",
+      "C": "s vodou tvorí hydroxidový ión",
+      "D": "s vodou tvorí oxóniový katión",
+      "E": "vzniká z atómu vodíka po prijatí elektrónu od atómu iného prvku",
+      "F": "sa môže spojiť s protónom a vytvoriť tak molekulu H2",
+      "G": "môže byť donor elektrónového páru",
+      "H": "je nestály a viaže sa s látkou, ktorá má voľný elektrónový pár"
+    },
+    "correct": [
+      "B",
+      "D",
+      "H"
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Kyslík:",
+    "options": {
+      "A": "sa nachádza v atmosfére v množstve asi 21 % (obj.)",
+      "B": "má dva izotopy",
+      "C": "v zlúčeninách (okrem zlúčenín s fluórom) môže mať oxidačné číslo -II a -I",
+      "D": "v zlúčeninách má oxidačné číslo len -II",
+      "E": "v oxidoch získava oktetovú konfiguráciu predchádzajúceho vzácneho plynu hélia",
+      "F": "v peroxidoch získava konfiguráciu vzácneho plynu argónu",
+      "G": "môžeme pripraviť elektrolýzou vody",
+      "H": "sa nachádza v atmosfére v množstve asi 78 % (obj.)"
+    },
+    "correct": [
+      "A",
+      "C",
+      "G"
+    ]
+  },
+  {
+    "id": 155,
+    "question": "O vlastnostiach kyslíka platí tvrdenie:",
+    "options": {
+      "A": "prítomnosť dvoch nespárených elektrónov vo valenčnej vrstve atómu kyslíka predurčuje predovšetkým jeho dvojväzbovosť",
+      "B": "kyslík má vysokú hodnotu elektronegativity",
+      "C": "kyslík má nízku hodnotu elektronegativity a preto je silným redukovadlom",
+      "D": "atómy kyslíka sa môžu spájať do dlhších reťazcov",
+      "E": "atóm kyslíka má tri nespárené elektróny",
+      "F": "reakcie kyslíka s inými prvkami sú väčšinou exotermické",
+      "G": "čistý kyslík je pri štandardných podmienkach v kvapalnom skupenstve",
+      "H": "kyslík zvyčajne oxiduje iné prvky"
+    },
+    "correct": [
+      "A",
+      "B",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 156,
+    "question": "Ak prijme atóm kyslíka dva elektróny, vznikne:",
+    "options": {
+      "A": "oktetová konfigurácia predchádzajúceho vzácneho plynu hélia",
+      "B": "anión O₂⁻",
+      "C": "oxidový anión O²⁻",
+      "D": "oxidový katión O²⁺",
+      "E": "peroxid O₂²⁻",
+      "F": "molekula O₂, ktorá má dva nespárené elektróny",
+      "G": "jednomocný dvojatómový katión O₂⁺",
+      "H": "atóm kyslíka s oxidačným číslom −II"
+    },
+    "correct": [
+      "C",
+      "H"
+    ]
+  },
+  {
+    "id": 157,
+    "question": "Kyslík:",
+    "options": {
+      "A": "molekulový (O2) je stálejší ako atómový kyslík",
+      "B": "rozpustený vo vode má význam pre život vodných živočíchov",
+      "C": "je pri štandardných podmienkach bezfarebný plyn",
+      "D": "s vodou tvorí oxóniové katióny",
+      "E": "môžeme získať rozkladom H2O2 za katalytického účinku MnO2",
+      "F": "molekulový vznikne z dvoch atómov kyslíka a získa tak stabilnejšiu elektrónovú konfiguráciu (neónu)",
+      "G": "molekulový je stálejší ako ozón",
+      "H": "sa nedá pripraviť tepelným rozkladom KMnO4"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Ozón:",
+    "options": {
+      "A": "je izotop kyslíka",
+      "B": "vzniká z molekuly a atómu kyslíka a má vzorec O₃",
+      "C": "vzniká v atmosfére pri búrkach",
+      "D": "sa pripravuje frakčnou destiláciou skvapalneného vzduchu",
+      "E": "vzniká reakciou: O + O₂ → O₃",
+      "F": "má redukčné účinky",
+      "G": "ľahko uvoľňuje atómový kyslík, preto má oxidačné účinky",
+      "H": "má rovnakú molárnu hmotnosť ako molekulový kyslík (O₂)"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Oxidy:",
+    "options": {
+      "A": "sú zlúčeniny, v ktorých atóm kyslíka má nižšiu hodnotu elektronegativity ako atóm druhého prvku zlúčeniny (okrem fluóru)",
+      "B": "iónové vytvárajú prevažne alkalické kovy a kovy alkalických zemín",
+      "C": "amfotérnych prvkov majú atóm kyslíka s oxidačným číslom I",
+      "D": "sa vôbec nedajú pripraviť priamym zlučovaním prvkov s kyslíkom",
+      "E": "sú binárne zlúčeniny prvkov s kyslíkom"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Kyselinotvorné oxidy:",
+    "options": {
+      "A": "sú mnohé molekulové oxidy, napr. CO₂, SO₃",
+      "B": "sú najmä oxidy iónového charakteru",
+      "C": "reagujú s vodou podľa reakcie: O²⁻ + H₂O → 2 OH⁻",
+      "D": "sú oxidy kovových prvkov s oxidačným číslom vyšším ako V",
+      "E": "reagujú s vodou za vzniku kyselín",
+      "F": "ktoré sú nerozpustné vo vode, sa rozpúšťajú v roztokoch hydroxidov za vzniku solí",
+      "G": "sú oxidy prvkov I.A a II.A (1. a 2.) skupiny periodickej sústavy prvkov",
+      "H": "vôbec priamo nereagujú s vodou"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Zásadotvorné oxidy:",
+    "options": {
+      "A": "sú napr. iónové oxidy, ktoré reagujú s vodou podľa rovnice: O²⁻ + H₂O → 2 OH⁻",
+      "B": "sú oxidy kovových prvkov s oxidačným číslom nižším ako IV",
+      "C": "ktoré sú nerozpustné vo vode, reagujú s kyselinami za vzniku solí",
+      "D": "sa zlučujú s vodou za tvorby solí",
+      "E": "sú oxidy alkalických kovov a kovov alkalických zemín",
+      "F": "sú oxidy kovových prvkov s oxidačným číslom vyšším ako V",
+      "G": "sú oxidy nekovových prvkov, ktoré sú umiestnené v V.A až VII.A (15. až 17.) skupine periodickej sústavy prvkov",
+      "H": "vôbec nereagujú s vodou"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Atóm kyslíka:",
+    "options": {
+      "A": "získava v zlúčenom stave oktetovú konfiguráciu najbližšieho vzácneho plynu (Ne)",
+      "B": "je pri bežných podmienkach stály",
+      "C": "reakciou s ďalším atómom kyslíka získava stabilnejšiu elektrónovú konfiguráciu predchádzajúceho vzácneho plynu",
+      "D": "môže v zlúčeninách vytvárať dve jednoduché väzby, alebo jednu dvojitú väzbu",
+      "E": "má vo valenčnej vrstve dva nespárené elektróny",
+      "F": "môže vytvárať dlhšie reťazce, ako napr. atóm uhlíka",
+      "G": "je v zlúčeninách väčšinou dvoj väzbový",
+      "H": "po prijatí dvoch elektrónov vytvára anión s oxidačným číslom -II"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Oxidácia látok kyslíkom:",
+    "options": {
+      "A": "môže prebiehať reťazovým mechanizmom",
+      "B": "nespôsobí zmenu oxidačného čísla atómu kyslíka",
+      "C": "väčšinou patrí medzi endotermické reakcie",
+      "D": "prebieha najrýchlejšie pri teplotách do 5 °C",
+      "E": "napr. v reakcii: 4 Li + O₂ → 2 Li₂O vedie k zmene oxidačného čísla atómu kyslíka z 0 na −I",
+      "F": "je napr. reakcia: 2 H₂ + O₂ → 2 H₂O",
+      "G": "pri ktorej vzniká tepelné a svetelné žiarenie, sa nazýva horenie",
+      "H": "môže prebiehať aj vo vodnom prostredí"
+    },
+    "correct": [
+      "A",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 164,
+    "question": "O vode platí:",
+    "options": {
+      "A": "je kvantitatívne najviac zastúpenou zlúčeninou v tele novorodenca",
+      "B": "minerálna voda je chemické indivíduum",
+      "C": "voda má vo všetkých skupenstvách rovnakú kryštálovú štruktúru",
+      "D": "voda je rozpúšťadlo iónových zlúčenín",
+      "E": "pri premene kvapalnej vody na ľad vzniká pravidelná priestorová štruktúra",
+      "F": "voda je dobré rozpúšťadlo nepolárnych zlúčenín",
+      "G": "voda nachádzajúca sa v prírode je chemicky čistá látka",
+      "H": "môže sa uplatniť ako ligand v koordinačných zlúčeninách"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Jednotlivé atómy v molekule vody:",
+    "options": {
+      "A": "vôbec neobsahujú voľné elektrónové páry",
+      "B": "neležia na priamke, ale zvierajú uhol 104,5° (v kvapalnom skupenstve)",
+      "C": "sú viazané kovalentnou väzbou",
+      "D": "sú viazané vodíkovou väzbou",
+      "E": "sú viazané iónovou väzbou, a preto je voda dobrým rozpúšťadlom iónových aj kovalentných zlúčenín",
+      "F": "sú viazané van der Waalsovými silami",
+      "G": "sú umiestnené v jednej priamke",
+      "H": "majú štruktúrne usporiadanie H-H-0"
+    },
+    "correct": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 166,
+    "question": "Označte pri akej teplote má voda najvyššiu hustotu:",
+    "options": {
+      "A": "0 °C",
+      "B": "273,15 K",
+      "C": "4 °C",
+      "D": "373,15 K",
+      "E": "377,15 K",
+      "F": "0 K",
+      "G": "277,15 K",
+      "H": "100 °C"
+    },
+    "correct": [
+      "C",
+      "G"
+    ]
+  },
+  {
+    "id": 167,
+    "question": "Relatívne vysoká teplota varu vody je spôsobená:",
+    "options": {
+      "A": "tým, že v molekule vody jednotlivé atómy prvkov poskytujú na väzby s aj p elektróny",
+      "B": "tým, že väzba medzi atómami kyslíka a vodíka je koordinačná",
+      "C": "iónovým typom väzby medzi atómami kyslíka a vodíka",
+      "D": "tým, že jednotlivé molekuly vody v kvapalnom skupenstve sú viazané vodíkovými väzbami",
+      "E": "tým, že molekuly vody sa viažu kyslíkovým mostíkom",
+      "F": "tým, že atómy kyslíka a vodíka majú rovnaké hodnoty elektronegativity",
+      "G": "tým, že na štiepenie väzby H–O v molekule vody treba dodať energiu",
+      "H": "jej relatívne nízkou molekulovou hmotnosťou"
+    },
+    "correct": [
+      "D"
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Označte, ktoré tvrdenie platí:",
+    "options": {
+      "A": "zloženie a štruktúra molekúl vody nemá vplyv na jej fyzikálne a chemické vlastnosti",
+      "B": "ak molekuly vody obalia v roztoku ióny rozpustenej látky, hovoríme o hydratácii",
+      "C": "nezávadná pitná voda sa získava sterilizáciou chlórom alebo ozónom",
+      "D": "voda je v chémii najdôležitejším rozpúšťadlom",
+      "E": "voda v prírode vždy obsahuje určité množstvo rozpustených látok",
+      "F": "voda je silný elektrolyt",
+      "G": "prítomnosť voľných elektrónových párov na atóme kyslíka v molekule vody má vplyv na fyzikálne a chemické vlastnosti vody",
+      "H": "voda je v roztokoch prítomná len vo forme iónov H3O+ a OH-"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 169,
+    "question": "O roztoku H₂O₂ platí:",
+    "options": {
+      "A": "môže vystupovať ako oxidovadlo v reakcii: S²⁻ + 4 H₂O₂ → SO₄²⁻ + 4 H₂O",
+      "B": "môže reagovať so silnými hydroxidmi a vytvárať soli hydroperoxidy M¹HO₂ a peroxidy M¹₂O₂",
+      "C": "používa sa ako bieliaci prostriedok a na dezinfekciu v medicíne (3 %-ný vodný roztok)",
+      "D": "používa sa na neutralizáciu slabých kyselín",
+      "E": "v kyslom prostredí môže redukovať Mn⁷⁺ na Mn²⁺",
+      "F": "koncentráciu peroxidu vodíka môžeme stanoviť na základe objemu kyslíka uvoľneného pri rozklade H₂O₂ (katalyzátor MnO₂)",
+      "G": "že sa správa ako slabá zásada",
+      "H": "že má hodnotu pH v rozpätí 7 – 9"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 170,
+    "question": "V molekule peroxidu vodíka:",
+    "options": {
+      "A": "je takáto štruktúra (konštitúcia) atómov: H-O-O-H",
+      "B": "sú atómy kyslíka navzájom viazané kovalentnou väzbou",
+      "C": "má atóm kyslíka oxidačné číslo -II",
+      "D": "sú jednotlivé atómy viazané vodíkovou väzbou",
+      "E": "má atóm kyslíka oxidačné číslo -I",
+      "F": "je takéto usporiadanie atómov: O-H-H-O",
+      "G": "sú atómy vodíka navzájom viazané kovalentnou väzbou",
+      "H": "má atóm vodíka oxidačné číslo I"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Hydrogenperoxid draselný, peroxid strontnatý a peroxid sodný majú vzorce:",
+    "options": {
+      "A": "KHO₂, SrO₂, Na(O₂)₂",
+      "B": "K₂O₂, SrHO₂, Na₂O₂",
+      "C": "KO₂, Sr(O₂)₂, NaHO₂",
+      "D": "KHO₂, SrO₂, Na₂O₂",
+      "E": "KHO, Sr₂O, NaHO₂",
+      "F": "K(O₂)₂, SrH(O₂)₂, Na₂O₂",
+      "G": "(KH)₂O₂, Sr₂O₂, NaO₂",
+      "H": "K₂HO₂, Sr₂O, Na₂O₂"
+    },
+    "correct": [
+      "D"
+    ]
+  },
+  {
+    "id": 172,
+    "question": "Trvalá tvrdosť vody:",
+    "options": {
+      "A": "možno odstrániť varom podľa rovnice: CaCO₃ + H₂O + CO₂ ⇌ Ca(HCO₃)₂",
+      "B": "spôsobuje najmä síran vápenatý a síran horečnatý",
+      "C": "možno odstrániť podľa reakcie: Ca(HSO₄)₂ → CaSO₄ + H₂O + SO₃",
+      "D": "spôsobujú hlavne CaSO₄ a MgSO₄",
+      "E": "nemožno odstrániť varom",
+      "F": "možno odstrániť pridaním Na₂CO₃ – vznikne CaCO₃ a MgCO₃",
+      "G": "možno odstrániť pridaním CaCO₃",
+      "H": "spôsobujú hlavne CaCO₃ a MgCO₃"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Prechodná tvrdosť vody:",
+    "options": {
+      "A": "spôsobuje CaSO₄ rozpustený v pramenitých vodách",
+      "B": "možno odstrániť rozkladom solí, ktoré ju spôsobujú, t. j. NaHCO₃ a KHCO₃, podľa rovnice: 2 NaHCO₃ → Na₂CO₃ + H₂CO₃",
+      "C": "spôsobujú Ca(HCO₃)₂ a Mg(HCO₃)₂",
+      "D": "nemožno odstrániť varom",
+      "E": "spôsobujú hlavne hydrogenuhličitan horečnatý a hydrogenuhličitan vápenatý",
+      "F": "možno odstrániť varom podľa reakcie: Ca(HCO₃)₂ → CaCO₃ + H₂O + CO₂",
+      "G": "spôsobujú najmä CaHPO₄ a MgHPO₄"
+    },
+    "correct": [
+      "C",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Ako p prvky označujeme:",
+    "options": {
+      "A": "napr. vzácne plyny (okrem He)",
+      "B": "prvky, ktorých atómy majú vo valenčnom orbitále s dva elektróny a v orbitáloch p jeden až šesť elektrónov (okrem He)",
+      "C": "všetky prvky, ktoré sa nachádzajú v 4., 5. a 6. perióde",
+      "D": "prvky umiestnené v III.A až VIII.A (13. až 18.) skupine periodickej sústavy prvkov (okrem He)",
+      "E": "prechodné prvky",
+      "F": "prvky umiestnené v III.B až VIII.B (3. až 10.) skupine periodickej sústavy prvkov",
+      "G": "napr. prvky Fe, Co, Ni",
+      "H": "prvky umiestnené v I.A a II.A (1. a 2.) skupine periodickej sústavy prvkov"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 175,
+    "question": "Vzácne plyny:",
+    "options": {
+      "A": "sú prvky: He, Ne, Ag, Kr, Zn, Rh",
+      "B": "majú atómy, v ktorých sú s a p orbitály valenčnej vrstvy úplne obsadené elektrónmi za tvorby oktetu (okrem He)",
+      "C": "valenčné orbitály s majú obsadené a postupne od He po Rn si dopĺňajú p orbitály jedným až šiestimi elektrónmi",
+      "D": "vo valenčnej vrstve majú dva elektróny s a osem elektrónov p (okrem He, ktorý má len dva s elektróny)",
+      "E": "sú prvky VIII.A (18.) skupiny periodickej sústavy prvkov",
+      "F": "sú prvky: He, Ne, Ar, Kr, Xe, Rn",
+      "G": "majú neúplne obsadené valenčné orbitály",
+      "H": "sú reaktívne prvky"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Pri bežných podmienkach prvky VIII.A (18.) skupiny:",
+    "options": {
+      "A": "sa nachádzajú v nízkom množstve v atmosfére",
+      "B": "sú veľmi stabilné",
+      "C": "sú kvapaliny",
+      "D": "sa vyskytujú ako nezlúčené atómy",
+      "E": "vo valenčnej vrstve majú elektrónovú konfiguráciu s2p6 (okrem He)",
+      "F": "vyskytujú sa ako dvojatómové molekuly",
+      "G": "sú plyny",
+      "H": "sú v tuhom skupenstve"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Elektrónovú konfiguráciu najbližšieho nasledujúceho vzácneho plynu môžu atómy halogénov získať:",
+    "options": {
+      "A": "iba pri vytvorení molekuly z dvoch rovnakých atómov (Br + Br → Br₂)",
+      "B": "pri vzniku katiónu, napr. Cl³⁺, Br⁵⁺",
+      "C": "po prijatí jedného elektrónu",
+      "D": "vznikom halogenidového aniónu X⁻ v iónových zlúčeninách",
+      "E": "pri reakcii s alkalickými kovmi",
+      "F": "po odovzdaní jedného elektrónu",
+      "G": "v kovalentných zlúčeninách vytvorením jednej sigma a jednej pi väzby",
+      "H": "vytvorením aniónu X²⁻ v iónových zlúčeninách"
+    },
+    "correct": [
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 178,
+    "question": "С12О а С12О7 sú anhydridy kyselín: а)\tНС104\tа\tНС102",
+    "options": {
+      "B": "НСЮ\tа\tНС103"
+    },
+    "correct": [
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Halogén s vyššou hodnotou elektronegativity:",
+    "options": {
+      "A": "má väčšiu schopnosť tvoriť halogenidový ión X⁻ ako halogén s nižšou hodnotou elektronegativity",
+      "B": "môže reagovať s halogénom s nižšou hodnotou elektronegativity podľa rovnice: F₂ + 2 NaBr → 2 NaF + Br₂",
+      "C": "spôsobuje dismutáciu molekuly halogénu s nižšou hodnotou elektronegativity",
+      "D": "má v zlúčenine s vodíkom (H–X) polárnejšiu väzbu ako halogén s nižšou hodnotou elektronegativity",
+      "E": "nereaguje s halogénom, ktorý má nižšiu hodnotu elektronegativity",
+      "F": "spôsobuje disproporcionáciu molekuly halogénu s nižšou hodnotou elektronegativity",
+      "G": "redukuje halogén s nižšou hodnotou elektronegativity",
+      "H": "oxiduje halogén s nižšou hodnotou elektronegativity"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "H"
+    ]
+  },
+  {
+    "id": 180,
+    "question": "Pre halogény platí:",
+    "options": {
+      "A": "do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu chýba ich atómom jeden elektrón",
+      "B": "zlučovanie halogénov s organickými látkami sa nazýva halogenácia",
+      "C": "z halogénov môže sublimovať jód",
+      "D": "z halogénov môže sublimovať bróm",
+      "E": "pri izbovej teplote je v kvapalnom skupenstve jód",
+      "F": "v chemických reakciách sa prejavujú ako reaktívne prvky",
+      "G": "pri izbovej teplote je v kvapalnom skupenstve bróm",
+      "H": "pri bežných podmienkach je jód tuhá látka"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Jódová tinktúra je:",
+    "options": {
+      "A": "5 % (w %) roztok jódu v metanole",
+      "B": "5 % (w %) roztok jódu v etanole",
+      "C": "5 % (w %) roztok jódu v dietyléteri a používa sa na čistenie okolia rán",
+      "D": "3 % (w %) roztok j odidu draselného vo vode",
+      "E": "dezinfekčný prostriedok na čistenie okolia rán",
+      "F": "5 % (w %) roztok jódu v C2H5OH",
+      "G": "3 % (w %) roztok KI v etanole",
+      "H": "5 % (w %) roztok jódu v chloroforme"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Halogény:",
+    "options": {
+      "A": "majú vo valenčnej vrstve elektrónovú konfiguráciu ns²np⁵",
+      "B": "pre svoju reaktivitu sa v prírode nevyskytujú voľné, ale len viazané v zlúčeninách",
+      "C": "nachádzajú sa v VII.B (7.) skupine periodickej sústavy prvkov",
+      "D": "po odovzdaní jedného elektrónu získajú konfiguráciu najbližšieho nasledujúceho vzácneho plynu",
+      "E": "sú prvky F, Cl, Br, I, At",
+      "F": "sa nachádzajú v VIII.A (18.) skupine periodickej sústavy prvkov",
+      "G": "sú pri bežných podmienkach v kvapalnom skupenstve",
+      "H": "s kyslíkom tvoria oxidy, ktoré všetky sú anhydridy príslušných kyselín"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": 183,
+    "question": "Halogenidy:",
+    "options": {
+      "A": "kovov sú vo vode väčšinou dobre rozpustné",
+      "B": "sú zlúčeniny halogénov s prvkami, ktoré majú vyššiu hodnotu elektronegativity ako halogén",
+      "C": "sú soli bezkyslíkatých kyselín halogénov",
+      "D": "podľa štruktúry môžeme deliť na iónové, molekulové a s atómovou štruktúrou",
+      "E": "sú zlúčeniny halogénov s vodíkom",
+      "F": "sa nedajú pripraviť priamym zlučovaním prvkov",
+      "G": "sú všetky bez výnimky jedom pre organizmus človeka",
+      "H": "iónové sú tie, v ktorých sa halogén viaže s kovom, ktorý má nízku hodnotu elektronegativity"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "H"
+    ]
+  },
+  {
+    "id": 184,
+    "question": "Určte vzorec alebo názov soli, ktorá vznikne z oxokyseliny chlóru, v ktorej má atóm chlóru oxidačné číslo VII a hydroxidu železa, v ktorom má atóm železa oxidačné číslo II:",
+    "options": {
+      "A": "Fe(ClO4)2",
+      "B": "chloristan železitý",
+      "C": "Fe(C103)2",
+      "D": "Fe(ClO2)3",
+      "E": "chlorečnan železnatý",
+      "F": "Fe(ClO4)3",
+      "G": "Fe(C103)3",
+      "H": "chloristan železnatý"
+    },
+    "correct": [
+      "A",
+      "H"
+    ]
+  },
+  {
+    "id": 185,
+    "question": "O halogenovodíkoch platí:",
+    "options": {
+      "A": "v ich molekulách je medzi atómami vodíková väzba",
+      "B": "v ich molekulách je polárna kovalentná väzba",
+      "C": "vodný roztok HC1 je zložkou žalúdkovej šťavy",
+      "D": "ich vodné roztoky sa nazývajú halogenidy",
+      "E": "sú to plyny a ich vodné roztoky sú kyseliny halogenovodíkové",
+      "F": "vodný roztok HBr je kyselina brómová",
+      "G": "ich vodné roztoky, okrem HF, sú silné kyseliny",
+      "H": "nedajú sa pripraviť priamou syntézou z prvkov"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 186,
+    "question": "Dezinfekčný prostriedok chlórové vápno je zmes:",
+    "options": {
+      "A": "Ca(Cl0)2 + Ca(Cl02)2",
+      "B": "chlorečnanu sodného a chlórnanu vápenatého",
+      "C": "CaCl2 a Ca(Cl0)2",
+      "D": "chlórnanu sodného a chlorečnanu vápenatého",
+      "E": "chlórnanu vápenatého a chloridu vápenatého",
+      "F": "chloridu sodného a chlórnanu sodného",
+      "G": "chloridu horečnatého a chloridu vápenatého",
+      "H": "chlorečnanu vápenatého a chlórnanu vápenatého"
+    },
+    "correct": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 187,
+    "question": "Posúďte elektronegativitu halogénov:",
+    "options": {
+      "A": "jód je elektronegatívnejší ako bróm",
+      "B": "najvyššiu hodnotu elektronegativity má fluór",
+      "C": "všetky halogény majú rovnakú hodnotu elektronegativity",
+      "D": "bróm je elektronegatívnejší ako chlór",
+      "E": "hodnota elektronegativity sa znižuje od fluóru k jódu",
+      "F": "chlór je elektronegatívnejší ako jód",
+      "G": "hodnota elektronegativity sa zvyšuje od fluóru k jódu",
+      "H": "halogén s vyššou hodnotou elektronegativity môže oxidovať halogén s nižšou hodnotou elektronegativity"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Medzi chalkogény patria:",
+    "options": {
+      "A": "prvky VI.A (16.) skupiny periodickej sústavy prvkov",
+      "B": "prvky VI. periódy periodickej sústavy prvkov",
+      "C": "prvky, ktorých elektrónová konfigurácia valenčnej vrstvy (n) je ns²np⁶",
+      "D": "prvky O, S, Se, Te, Po",
+      "E": "prvky, ktoré majú vo valenčnej vrstve štyri p elektróny",
+      "F": "prvky, ktoré majú vo valenčnej vrstve šesť elektrónov",
+      "G": "prvky p⁵",
+      "H": "prvky, ktorým chýbajú do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu dva elektróny"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 189,
+    "question": "O síre platí:",
+    "options": {
+      "A": "nepatrí medzi biogénne prvky",
+      "B": "vyskytuje sa vo viacerých kryštalických modifikáciách (tzv. alotropia)",
+      "C": "nachádza sa v nukleových kyselinách",
+      "D": "atóm síry má vo valenčnej vrstve šesť elektrónov a maximálne kladné oxidačné číslo má šesť",
+      "E": "dobre sa rozpúšťa v CS2",
+      "F": "používa sa pri výrobe prostriedkov proti rastlinným škodcom",
+      "G": "vôbec sa nenachádza v aminokyselinách",
+      "H": "kryštalická síra sa nerozpúšťa vo vode"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 190,
+    "question": "Sulfán:",
+    "options": {
+      "A": "má v reakciách redukčné účinky, pričom väčšinou vzniká síra",
+      "B": "má vzorec CS2",
+      "C": "je prudko jedovatý plyn",
+      "D": "je soľ kyseliny sírovodíkovej",
+      "E": "je soľ kyseliny sulfánovej",
+      "F": "je vo vode čiastočne rozpustný a tvorí sulfánovú vodu (kyselinu sulfánovú)",
+      "G": "má vzorec H2S",
+      "H": "možno pripraviť reakciou vodíka so sírou"
+    },
+    "correct": [
+      "A",
+      "C",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Od kyseliny sulfánovej odvodzujeme soli:",
+    "options": {
+      "A": "ktoré sú dobre rozpustné vo vode, ale nehydrolyzujú",
+      "B": "sulfidy a hydrogensulfidy",
+      "C": "sulfáty a hydrogensulfáty",
+      "D": "sulfity a hydrogensulfity",
+      "E": "v ktorých sú anióny HS⁻ alebo S²⁻",
+      "F": "sulfidy, ktoré keď sú rozpustné vo vode, ľahko hydrolyzujú",
+      "G": "v ktorých sú anióny HSO₃⁻ alebo SO₃²⁻",
+      "H": "ktoré majú anión SCN⁻ a nazývajú sa aj sulfokyanatany (rodanidy)"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Oxid siričitý:",
+    "options": {
+      "A": "má oxidačné aj redukčné účinky",
+      "B": "má atómy síry a kyslíka spojené iónovou väzbou",
+      "C": "má len oxidačné vlastnosti",
+      "D": "možno priamo oxidovať na SO3",
+      "E": "má vzorec SO2",
+      "F": "sa priemyselne vyrába spaľovaním síry na vzduchu",
+      "G": "sa rozpúšťa vo vode, pričom vzniká H2SO3",
+      "H": "je plyn, ktorý je nežiadúcou zložkou ovzdušia"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 193,
+    "question": "Určte vzorec alebo názov soli, získanej reakciou oxokyseliny, v ktorej má atóm síry oxidačné číslo VI, s hydroxidom železa, v ktorom má atóm železa oxidačné číslo II:",
+    "options": {
+      "A": "FeSO3",
+      "B": "Fe2S3",
+      "C": "FeSO4",
+      "D": "Fe2(SO4)3",
+      "E": "siričitan železnatý",
+      "F": "síran železnatý",
+      "G": "síran železitý",
+      "H": "sulfid železnatý"
+    },
+    "correct": [
+      "C",
+      "F"
+    ]
+  },
+  {
+    "id": 194,
+    "question": "Kamenec draselno-chromitý má vzorec:",
+    "options": {
+      "A": "KCr(SO₃)₂·12 H₂O",
+      "B": "K₂Cr(SO₃)₂·12 H₂O",
+      "C": "KCr(SO₄)₂·12 H₂O",
+      "D": "K₂SO₃ · CrSO₄ · 12 H₂O",
+      "E": "KCrS₂O₇·12 H₂O",
+      "F": "KCr(S₂O₄)₂·12 H₂O",
+      "G": "K[Cr(SO₃)₄]·12 H₂O",
+      "H": "K₂S₂O₄ · CrS₂O₆ · 12 H₂O"
+    },
+    "correct": [
+      "C"
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Pre kyselinu sírovú platí tvrdenie:",
+    "options": {
+      "A": "pri rozpúšťaní H₂SO₄ vo vode sa uvoľňuje veľké množstvo tepla",
+      "B": "s vodou sa mieša v každom pomere",
+      "C": "v zriedenom roztoku stráca svoje kyslé vlastnosti a zvyšuje svoje oxidačné vlastnosti",
+      "D": "vzniká reakciou SO₃ s vodou",
+      "E": "tvorí soli hydrogensírany a sírany",
+      "F": "vzniká reakciou: SO₂ + H₂O → H₂SO₄",
+      "G": "pri riedení lejeme vodu do H₂SO₄",
+      "H": "koncentrovaná má silné oxidačné a dehydratačné účinky"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Elektrónová konfigurácia valenčnej vrstvy chalkogénov je:",
+    "options": {
+      "A": "taká, že týmto prvkom do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu chýbajú dva elektróny",
+      "B": "ns²np³",
+      "C": "ns²np⁴",
+      "D": "ns²np²",
+      "E": "ns¹np⁵",
+      "F": "ns¹np⁴",
+      "G": "rovnaká ako vo valenčnej vrstve halogénov",
+      "H": "ns²npₓ²npᵧ¹np_z¹"
+    },
+    "correct": [
+      "A",
+      "C",
+      "H"
+    ]
+  },
+  {
+    "id": 197,
+    "question": "Elektrónová konfigurácia atómu dusíka (Z = 7) je:",
+    "options": {
+      "A": "[Ne] 2s² 2p³",
+      "B": "[He] 2s² 2pₓ¹ 2pᵧ¹ 2p_z¹",
+      "C": "rovnaká ako atómu fosforu (Z = 15)",
+      "D": "1s² 2s² 2p³",
+      "E": "[He] 3s² 3p³",
+      "F": "rovnaká ako atómu arzénu",
+      "G": "taká, že atóm dusíka má tri nespárené elektróny",
+      "H": "[He] 2s² 2p³"
+    },
+    "correct": [
+      "B",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Prvky V.A (15.) skupiny periodickej sústavy prvkov:",
+    "options": {
+      "A": "patria medzi p³ prvky",
+      "B": "dusík a fosfor patria medzi základné biogénne prvky",
+      "C": "majú vo valenčnej vrstve päť elektrónov",
+      "D": "sú: N, P, V, Nb, Ta",
+      "E": "majú elektróny rozložené vo vrstvách K, L a M",
+      "F": "majú vo valenčnej vrstve elektrónovú konfiguráciu ns²np³",
+      "G": "sa všetky nachádzajú v prírode len v zlúčeninách",
+      "H": "sú: dusík, fosfor, arzén, antimón a bizmut"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 199,
+    "question": "Molekuly dusíka:",
+    "options": {
+      "A": "sú veľmi stabilné, pretože energia väzby N=N je veľmi vysoká (946 kJ.mol'1)",
+      "B": "majú atómy dusíka spojené polárnymi kovalentnými väzbami",
+      "C": "majú elektrónový štruktúrny vzorec |N=N|",
+      "D": "sú súčasťou atmosféry v množstve asi 78 % (obj.)",
+      "E": "sú pri bežných podmienkach v plynnom skupenstve",
+      "F": "sú v atmosfére zastúpené v množstve asi 21 % (obj.)",
+      "G": "majú dva atómy dusíka spojené trojitou väzbou",
+      "H": "sú nestále, ľahko sa rozkladajú na atómy"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 200,
+    "question": "O amoniaku platí:",
+    "options": {
+      "A": "je zložka amminkomplexov",
+      "B": "pri laboratórnych podmienkach je bezfarebný plyn",
+      "C": "nerozpúšťa sa vo vode",
+      "D": "najčastejšie sa správa ako kyselina, môže odovzdať protón iným látkam",
+      "E": "je zlúčenina, ktorej molekuly sa navzájom spájajú vodíkovými väzbami",
+      "F": "môže sa pripraviť reakciou dusíka s vodíkom",
+      "G": "s vodou reaguje ako Brônstedova zásada",
+      "H": "jeho vodný roztok farbí kongočerveň na modro fialovo"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "F",
+      "G"
+    ]
   }
 ]

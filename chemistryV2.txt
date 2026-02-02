@@ -1187,55 +1187,33 @@ e) 	zvýšením tlaku v reakčnej zmesi (ide o reakciu v plynnej fáze)
 f) 	znížením tlaku v reakčnej zmesi
 g) 	pridaním NO do reakčnej zmesi
 h) 	pridaním NO₂ do reakčnej zmesi
-126.	Vyberte správny vzťah pre rovnovážnu konštantu reakcie N2 + 3 H2 -*-► 2 NH3 :
-a)
-K =
-b)
-c)
-d)K =
-e) K =
-[NH3]
-[H2]3.[N2]
-[NH3]2 [H2]3.[N2]
-[N2] [H2]3 [NH3]2
-[N2] • [H2]3 [NH3]2
-[H2]3+[N2]
-30
-f)K =
-g) K=
-[NJW [NH3]2
-. [N2].[H2].[NH3]
-h) k =
-[N2]+[H2]+[NH3]
-127. Vyberte správny vzťah pre rovnovážnu konštantu reakcie
-4 KC1O3 <----► KC1 + 3 KC1O4:
-K_ [KC1].[KC1O4]
-[KC1O3]4
-K_ [KC1].[KC1O4]2
-[KC1O3]3
-K [KC1O3]4
-[KC1].[KC1O4]3
-K_[KC1].[KC1O4]3
-[KC1O3]4
-K_[KC1]+[KC1O4]3
-[KC1O3]4
-K [KC1O3]4
-[KC1]+[KC1O4]3
-g) K =
-[KC1O3].[KC1].[KC1O4]
-h) K =
-[KC1O3]+[KC1]+[KC1O4]
+126. 	Vyberte správny vzťah pre rovnovážnu konštantu reakcie N2 + 3 H2 ⇌ 2 NH3 :
+a) 	K = [NH3] / ([H2]^3 · [N2])
+b) 	K = [NH3]^2 / ([H2]^3 · [N2])
+c)	K = ([N2] · [H2]^3) / [NH3]^2
+d) 	K = [N2] · [H2]^3
+e) 	K = [NH3]^2 / ([H2]^3 + [N2])
+f) 	K = ([N2] + [H2]^3) / [NH3]^2
+g) 	K = ([N2] · [H2] · [NH3]) / 3
+h) 	K = ([N2] + [H2] + [NH3]) / 3
+127. Vyberte správny vzťah pre rovnovážnu konštantu reakcie 4 KClO3 ⇌ KCl + 3 KClO4 :
+a) 	K = ([KCl] · [KClO4]) / [KClO3]^4
+b) 	K = ([KCl] · [KClO4]^2) / [KClO3]^3
+c) 	K = [KClO3]^4 / ([KCl] · [KClO4]^3)
+d) 	K = ([KCl] · [KClO4]^3) / [KClO3]^4
+e) 	K = ([KCl] + [KClO4]^3) / [KClO3]^4
+f) 	K = [KClO3]^4 / ([KCl] + [KClO4]^3)
+g) 	K = ([KClO3] · [KCl] · [KClO4]) / 3
+h) 	K = ([KClO3] + [KCl] + [KClO4]) / 3
 128.	Ktoré z uvedených rovníc vyjadrujú exotermický dej:
-a)	2 SO3------* 2 SO2 + O2; Qm = +195 kJ.moľ1
-b)	CO + 1/2 O2----► CO2; Qm = -283 kJ.mol-'
-c) 4 NH3 + 5 0.
-4 NO + 6 H2O; Qm = -906 kJ.mol-1
-d) N2 + 3 H2--------- 2 NH3; Qm = -93 kJ.mol-1
-e) 2 H2 + O2--------- 2 H2O; Qm= -452 kJ.mol'1
-f) 2 H2O
-2 H2 + O2; Qm = + 452 kJ.mol'1
-g) C + O2--------- CO2 ; Qm = -394 kJ.mol'1
-h) CH4 + 2 O2--------* CO2 + 2 H2O; Qm = -804 kJ.mol'1
+a) 	2 SO3 → 2 SO2 + O2; Qm = +195 kJ·mol⁻¹
+b) 	CO + 1/2 O2 → CO2; Qm = −283 kJ·mol⁻¹
+c) 	4 NH3 + 5 O2 → 4 NO + 6 H2O; Qm = −906 kJ·mol⁻¹
+d) 	N2 + 3 H2 → 2 NH3; Qm = −93 kJ·mol⁻¹
+e) 	2 H2 + O2 → 2 H2O; Qm = −452 kJ·mol⁻¹
+f) 	2 H2O → 2 H2 + O2; Qm = +452 kJ·mol⁻¹
+g) 	C + O2 → CO2; Qm = −394 kJ·mol⁻¹
+h) 	CH4 + 2 O2 → CO2 + 2 H2O; Qm = −804 kJ·mol⁻¹
 31
 129.	Aktivačná energia reakcie:
 a)	sa uplatňuje len pri exotermických chemických dejoch
@@ -1246,24 +1224,24 @@ e)	Je vyjadrená rovnovážnou konštantou
 f)	je vyjadrená reakčným teplom
 g)	závisí od reakčného tepla
 h)	závisí od rovnovážnej konštanty
-130.	Pre reakciu 2 NO2 -*--► N2O4; Qm = -57 kJ.mol'1 platí:
-a)	zvýšením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov
-b)	v smere tvorby N2O4 je endotermická
-c)	zvýšením teploty sa posúva rovnovážny stav reakcie na stranu produktov
-d)	v smere tvorby N2O4 je exotermická
-e)	ide o oxidačno-redukčný dej
-f)	znížením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov
-g)	zvýšením tlaku (pri reakcii v plynnej ťáze) sa rovnovážny stav reakcie posúva na stranu produktov
-h)	znížením tlaku (pri reakcii v plynnej ťáze) sa rovnovážny stav reakcie posúva na stranu produktov
-131.	Pre reakciu 2 SO3 ■*--► 2 SO2 + O2; Qm = +195 kJ.mol'1 platí:
-a)	v smere tvorby SO3 je exotermická
-b)	znížením teploty sa posúva rovnovážny stav reakcie na stranu reaktantu
-c)	zvýšením teploty sa posúva rovnovážny stav reakcie na stranu produktov
-d)	v smere rozkladu SO3 je exotermická
-e)	ide o oxidačno-redukčný dej
-f)	zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu reaktantov
-g)	zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov
-h)	v smere tvorby SO2 je exotermická
+130.	Pre reakciu 2 NO₂ ⇌ N₂O₄; Qm = −57 kJ·mol⁻¹ platí:
+a) 	zvýšením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov
+b) 	v smere tvorby N₂O₄ je endotermická
+c) 	zvýšením teploty sa posúva rovnovážny stav reakcie na stranu produktov
+d) 	v smere tvorby N₂O₄ je exotermická
+e) 	ide o oxidačno-redukčný dej
+f) 	znížením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov
+g) 	zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov
+h) 	znížením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov
+131.	Pre reakciu 2 SO₃ ⇌ 2 SO₂ + O₂; Qm = +195 kJ·mol⁻¹ platí:
+a) 	v smere tvorby SO₃ je exotermická
+b) 	znížením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov
+c) 	zvýšením teploty sa posúva rovnovážny stav reakcie na stranu produktov
+d) 	v smere rozkladu SO₃ je exotermická
+e) 	ide o oxidačno-redukčný dej
+f) 	zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu reaktantov
+g) 	zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov
+h) 	v smere tvorby SO₂ je exotermická
 132.	Podľa Hessovho zákona hodnota reakčného tepla Qm danej reakcie:
 a)	závisí od spôsobu, akým reakcia prebehla
 b)	závisí od počtu medzistupňov, ktorými sa reakcia uskutočnila
@@ -1329,23 +1307,19 @@ e)	ktorého hodnotu ovplyvňuje prítomnosť katalyzátora v reakčnej zmesi
 f)	ktorého hodnota nezávisí od prítomnosti katalyzátora v reakčnej zmesi
 g)	ktoré vyjadruje rýchlosť chemickej reakcie
 h)	ktoré môže mať v reakciách kladné alebo záporné znamienko
-139.	Reakčné teplo Qm reakcie C(s) + 1/2 O2(g)----► CO(g) vypočítané z reakčných
-tepiel reakcií: C(s) + O2(g)------► CO2(g); Qm = -393 kJ.mol'1
-CO(g) + 1/2 O2(g)---------► CO2(g); Qm = -283 kJ.mol'1 bude mať v zmysle Hessovho
-zákona hodnotu:
-a)	-676 kJ.mol'1
-b)	-110 kJ.mol'1
-c)	+110 kJ.mol'1
-d)	+676 kJ.mol'1
-e)	rovnú súčtu reakčných tepiel tvorby CO2 z elementárneho uhlíka a z CO
-f)	rovnú rozdielu reakčných tepiel tvorby CO2 z elementárneho uhlíka a z CO
-g)	prislúchajúcu exotermickému deju
-h)	prislúchajúcu endotermickému deju
+139.	Reakčné teplo Qm reakcie C(s) + 1/2 O2(g) → CO(g) vypočítané z reakčných tepiel reakcií: C(s) + O2(g) → CO2(g); Qm = −393 kJ·mol⁻¹ CO(g) + 1/2 O2(g) → CO2(g); Qm = −283 kJ·mol⁻¹ bude mať v zmysle Hessovho zákona hodnotu:
+a) 	−676 kJ·mol⁻¹
+b) 	−110 kJ·mol⁻¹
+c) 	+110 kJ·mol⁻¹
+d)	 +676 kJ·mol⁻¹
+e)	 rovná súčtu reakčných tepiel tvorby CO2 z elementárneho uhlíka a z CO
+f) 	rovná rozdielu reakčných tepiel tvorby CO2 z elementárneho uhlíka a z CO
+g) 	príslušajúcu exotermickému deje
+h)	 príslušajúcu endotermickému deje
 140.	O aktivačnej energii Ea platí, že:
 a)	čím je jej hodnota nižšia, tým je rýchlosť chemickej reakcie vyššia
 b)	jej hodnotu ovplyvňuje prítomnosť katalyzátora
-c)	jej hodnotu určuje rozdiel potenciálnej energie aktivovaného komplexu reakcie
-a potenciálnej energie produktov reakcie
+c)	jej hodnotu určuje rozdiel potenciálnej energie aktivovaného komplexu reakcie a potenciálnej energie produktov reakcie
 d)	čím je jej hodnota vyššia, tým je rýchlosť chemickej reakcie nižšia
 e)	ovplyvňuje hodnotu rovnovážnej konštanty reakcie
 f)	neovplyvňuje rýchlosť chemickej reakcie
@@ -1374,7 +1348,7 @@ h)	deutérium má jadro deuterón, zložené z jedného protónu a jedného neut
 a)	vzniká z atómu vodíka prijatím valenčného elektrónu od atómu s nízkou hodnotou elektronegativity
 b)	vzniká z atómu vodíka odovzdaním elektrónu atómu iného prvku
 c)	vzniká reakciou protónu a jedného elektrónu
-d)	sa označuje H’
+d)	sa označuje H-
 e)	sa označuje H+
 f)	vzniká odobratím dvoch elektrónov z molekuly H2
 g)	vytvára s katiónmi alkalických kovov hydridy
@@ -1408,20 +1382,20 @@ f)	sú príčinou prevažne oxidačných vlastností vodíka
 g)	sú príčinou redukčných vlastností vodíka (vo väčšine reakcií)
 h)	sú menej reaktívne ako molekuly vodíka
 147.	Označte, ktoré reakcie binárnych zlúčenín vodíka s vodou môžu prebiehať:
-a)	HBr + H2O-------- H3O+ + Br
-b)	KH + H2O-------- H2 + KOH
-c)	CaH2 + 2 H2O------* 2 H2 + Ca(OH)2
-d)	PH3 + 4 H2O----* 4 H2 + H3PO4
-e)	BaH2 + 2 H2O------* 2 H2 + Ba(OH)2
-f)	C2H6 + 2 H2O------- 5 H2 + 2 CO2
-g)	AsH3 + 3 H2O------> H3AsO3 + 3 H2
-h)	NaH + H2O------— H2 + NaOH
+a) 	HBr + H2O → H3O+ + Br−
+b) 	KH + H2O → H2 + KOH
+c) 	CaH2 + 2 H2O → 2 H2 + Ca(OH)2
+d) 	PH3 + 4 H2O → 4 H2 + H3PO4
+e) 	BaH2 + 2 H2O → 2 H2 + Ba(OH)2
+f) 	C2H6 + 2 H2O → 5 H2 + 2 CO2
+g) 	AsH3 + 3 H2O → H3AsO3 + 3 H2
+h) 	NaH + H2O → H2 + NaOH
 148.	Zlúčenina SrH2:
 a)	môže vzniknúť reakciou prvkov stroncia a vodíka
 b)	sa nazýva hydrid strontnatý
 c)	má atómy vodíka s oxidačným číslom I
 d)	má atómy vodíka s oxidačným číslom -I
-e)	má v štruktúre hydridový anión H'
+e)	má v štruktúre hydridový anión H-
 f)	nemôže reagovať s vodou
 g)	má atóm stroncia s oxidačným číslom II
 h)	sa nazýva peroxid strontnatý
@@ -1432,7 +1406,7 @@ c)	v prípade H2S, HC1, NH3 sú atómy vodíka viazané s príslušným prvkom k
 d)	hydridy sú ternárne zlúčeniny vodíka s inými prvkami
 e)	zlúčeniny s nepolárnymi kovalentnými väzbami nereagujú s vodou
 f)	hydridy obsahujú anióny H" viazané s prvkami, ktoré majú najnižšie hodnoty elektronegativity (alkalické kovy a kovy alkalických zemín)
-g)	hydridy reagujú s vodou podľa rovnice: H2O + H----► OH + H2
+g)	hydridy reagujú s vodou podľa rovnice: H2O + H- ---► OH- + H2
 h)	ich vlastnosti závisia hlavne od polarity väzby medzi atómom vodíka a atómom druhého prvku - podľa toho ich možno rozdeliť na iónové a kovalentné
 36
 150.	Deutérium:
@@ -1452,17 +1426,16 @@ d)	v najnižšom množstve vyskytuje prócium
 e)	vyskytujú najmä deutérium a trícium
 f)	najčastejšie vyskytuje voľné deutérium
 g)	v najvyššom množstve vyskytuje prócium
-h)	najčastejšie vyskytuje izotop }H
+h)	najčastejšie vyskytuje izotop ¹₁H
 152.	Vodík:
-a)	sa pri bežných podmienkach na Zemi nevyskytuje ako atómový vodík
-b)	môžeme pripraviť reakciou vodnej pary s rozžeraveným koksom podľa rovnice:
-C + H2O----------► CO + H2
-c)	má chemické vlastnosti veľmi podobné ako ostatné prvky LA skupiny
-d)	v laboratóriu možno pripraviť elektrolýzou vody
-e)	patrí medzi s2 prvky
-f)	sa vo vesmíre vyskytuje v plynnom obale Slnka, stálic a v hmlovinách
-g)	je po héliu druhý najľahší prvok v sústave prvkov
-h)	môže reagovať s chlórom podľa rovnice: H2 + Cl2---► 2 HC1
+a) 	sa pri bežných podmienkach na Zemi nevyskytuje ako atómový vodík
+b) 	môžeme pripraviť reakciou vodnej pary s rozžeraveným koksom podľa rovnice: C + H₂O → CO + H₂
+c) 	má chemické vlastnosti veľmi podobné ako ostatné prvky I.A skupiny
+d) 	v laboratóriu možno pripraviť elektrolýzou vody
+e) 	patrí medzi s² prvky
+f) 	sa vo vesmíre vyskytuje v plynnom obale Slnka, stálic a v hmlovinách
+g) 	je po héliu druhý najľahší prvok v sústave prvkov
+h) 	môže reagovať s chlórom podľa rovnice: H₂ + Cl₂ → 2 HCl
 153.	Katión H+:
 a)	sa tiež nazýva prócium
 b)	vzniká odovzdaním elektrónu z atómu vodíka
@@ -1492,14 +1465,14 @@ f)	reakcie kyslíka s inými prvkami sú väčšinou exotermické
 g)	čistý kyslík je pri štandardných podmienkach v kvapalnom skupenstve
 h)	kyslík zvyčajne oxiduje iné prvky
 156.	Ak prijme atóm kyslíka dva elektróny, vznikne:
-a)	oktetová konfigurácia predchádzajúceho vzácneho plynu hélia
-b)	anión O2"
-c)	oxidový anión O2'
-d)	oxidový katión O2+
-e)	peroxid O22-
-f)	molekula O2, ktorá má dva nespárené elektróny
-g)	jednomocný dvojatómový katión O2+
-h)	atóm kyslíka s oxidačným číslom -II
+a) 	oktetová konfigurácia predchádzajúceho vzácneho plynu hélia
+b) 	anión O₂⁻
+c) 	oxidový anión O²⁻
+d) 	oxidový katión O²⁺
+e) 	peroxid O₂²⁻
+f) 	molekula O₂, ktorá má dva nespárené elektróny
+g) 	jednomocný dvojatómový katión O₂⁺
+h) 	atóm kyslíka s oxidačným číslom −II
 157.	Kyslík:
 a)	molekulový (O2) je stálejší ako atómový kyslík
 b)	rozpustený vo vode má význam pre život vodných živočíchov
@@ -1510,14 +1483,14 @@ f)	molekulový vznikne z dvoch atómov kyslíka a získa tak stabilnejšiu elekt
 g)	molekulový je stálejší ako ozón
 h)	sa nedá pripraviť tepelným rozkladom KMnO4
 158.	Ozón:
-a)	je izotop kyslíka
-b)	vzniká z molekuly a atómu kyslíka a má vzorec O3
-c)	vzniká v atmosfére pri búrkach
-d)	sa pripravuje frakčnou destiláciou skvapalneného vzduchu
-e)	vzniká reakciou: O + O2----► O3
-f)	má redukčné účinky
-g)	ľahko uvoľňuje atómový kyslík, preto má oxidačné účinky
-h)	má rovnakú molárnu hmotnosť ako molekulový kyslík (O2)
+a) 	je izotop kyslíka
+b) 	vzniká z molekuly a atómu kyslíka a má vzorec O₃
+c) 	vzniká v atmosfére pri búrkach
+d) 	sa pripravuje frakčnou destiláciou skvapalneného vzduchu
+e) 	vzniká reakciou: O + O₂ → O₃
+f) 	má redukčné účinky
+g) 	ľahko uvoľňuje atómový kyslík, preto má oxidačné účinky
+h) 	má rovnakú molárnu hmotnosť ako molekulový kyslík (O₂)
 159.	Oxidy:
 a)	sú zlúčeniny, v ktorých atóm kyslíka má nižšiu hodnotu elektronegativity ako atóm druhého prvku zlúčeniny (okrem fluóru)
 b)	iónové vytvárajú prevažne alkalické kovy a kovy alkalických zemín
@@ -1529,23 +1502,23 @@ f)	podľa priestorovej štruktúry a vlastností môžeme deliť na iónové, mo
 g)	s polymérnou štruktúrou majú atómy viazané prevažne kovalentnými väzbami
 h)	sú zlúčeniny, v ktorých má atóm kyslíka vyššiu hodnotu elektronegativity ako atóm druhého prvku zlúčeniny (okrem fluóru)
 160.	Kyselinotvorné oxidy:
-a)	sú mnohé molekulové oxidy, napr. CO2, SO3
-b)	sú najmä oxidy iónového charakteru
-c)	reagujú s vodou podľa reakcie: O2' + H2O---► 2 OH'
-d)	sú oxidy kovových prvkov s oxidačným číslom vyšším ako V
-e)	reagujú s vodou za vzniku kyselín
-f)	ktoré sú nerozpustné vo vode, sa rozpúšťajú v roztokoch hydroxidov za vzniku solí
-g)	sú oxidy prvkov I.A a II.A (1. a 2.) skupiny periodickej sústavy prvkov
-h)	vôbec priamo nereagujú s vodou
-161.	Zásadotvorné oxidy:
-a)	sú napr. iónové oxidy, ktoré reagujú s vodou podľa rovnice: O2' + H2O-► 2 OH'
-b)	sú oxidy kovových prvkov s oxidačným číslom nižším ako IV
-c)	ktoré sú nerozpustné vo vode, reagujú s kyselinami za vzniku solí
-d)	sa zlučujú s vodou za tvorby solí
-e)	sú oxidy alkalických kovov a kovov alkalických zemín
-f)	sú oxidy kovových prvkov s oxidačným číslom vyšším ako V
-g)	sú oxidy nekovových prvkov, ktoré sú umiestnené v V.A až VILA (15. až 17.) skupine periodickej sústavy prvkov
-h)	vôbec nereagujú s vodou
+a) 	sú mnohé molekulové oxidy, napr. CO₂, SO₃
+b) 	sú najmä oxidy iónového charakteru
+c) 	reagujú s vodou podľa reakcie: O²⁻ + H₂O → 2 OH⁻
+d) 	sú oxidy kovových prvkov s oxidačným číslom vyšším ako V
+e) 	reagujú s vodou za vzniku kyselín
+f) 	ktoré sú nerozpustné vo vode, sa rozpúšťajú v roztokoch hydroxidov za vzniku solí
+g) 	sú oxidy prvkov I.A a II.A (1. a 2.) skupiny periodickej sústavy prvkov
+h) 	vôbec priamo nereagujú s vodou
+161.	Zásadotvorné oxidy: 
+a) 	sú napr. iónové oxidy, ktoré reagujú s vodou podľa rovnice: O²⁻ + H₂O → 2 OH⁻
+b) 	sú oxidy kovových prvkov s oxidačným číslom nižším ako IV
+c) 	ktoré sú nerozpustné vo vode, reagujú s kyselinami za vzniku solí
+d) 	sa zlučujú s vodou za tvorby solí
+e) 	sú oxidy alkalických kovov a kovov alkalických zemín
+f) 	sú oxidy kovových prvkov s oxidačným číslom vyšším ako V
+g) 	sú oxidy nekovových prvkov, ktoré sú umiestnené v V.A až VII.A (15. až 17.) skupine periodickej sústavy prvkov
+h) 	vôbec nereagujú s vodou
 162.	Atóm kyslíka:
 a)	získava v zlúčenom stave oktetovú konfiguráciu najbližšieho vzácneho plynu (Ne)
 b)	je pri bežných podmienkach stály
@@ -1556,14 +1529,14 @@ f)	môže vytvárať dlhšie reťazce, ako napr. atóm uhlíka
 g)	je v zlúčeninách väčšinou dvoj väzbový
 h)	po prijatí dvoch elektrónov vytvára anión s oxidačným číslom -II
 163.	Oxidácia látok kyslíkom:
-a)	môže prebiehať reťazovým mechanizmom
-b)	nespôsobí zmenu oxidačného čísla atómu kyslíka
-c)	väčšinou patrí medzi endotermické reakcie
-d)	prebieha najrýchlejšie pri teplotách do 5 °C
-e)	napr. v reakcii: 4 Li + O2--► 2 Li2O vedie k zmene oxidačného čísla atómu kyslíka z 0 na -I
-f)	je napr. reakcia: 2 H2 + O2--► 2 H2O
-g)	pri ktorej vzniká tepelné a svetelné žiarenie, sa nazýva horenie
-h)	môže prebiehať aj vo vodnom prostredí
+a) 	môže prebiehať reťazovým mechanizmom
+b) 	nespôsobí zmenu oxidačného čísla atómu kyslíka
+c) 	väčšinou patrí medzi endotermické reakcie
+d) 	prebieha najrýchlejšie pri teplotách do 5 °C
+e) 	napr. v reakcii: 4 Li + O₂ → 2 Li₂O vedie k zmene oxidačného čísla atómu kyslíka z 0 na −I
+f) 	je napr. reakcia: 2 H₂ + O₂ → 2 H₂O
+g) 	pri ktorej vzniká tepelné a svetelné žiarenie, sa nazýva horenie
+h) 	môže prebiehať aj vo vodnom prostredí
 39
 164.	O vode platí:
 a)	je kvantitatívne najviac zastúpenou zlúčeninou v tele novorodenca
@@ -1584,23 +1557,23 @@ f)	sú viazané van der Waalsovými silami
 g)	sú umiestnené v jednej priamke
 h)	majú štruktúrne usporiadanie H-H-0
 166.	Označte pri akej teplote má voda najvyššiu hustotu:
-a)0°C
-b)	273,15 K
-c)4°C
-d)	373,15 K
-e)	377,15 K
-f)	0 K
-g)	277,15 K
-h)	100 °C
+a) 	0 °C
+b) 	273,15 K
+c) 	4 °C
+d) 	373,15 K
+e) 	377,15 K
+f) 	0 K
+g) 	277,15 K
+h) 	100 °C
 167.	Relatívne vysoká teplota varu vody je spôsobená:
-a)	tým, že v molekule vody jednotlivé atómy prvkov poskytujú na väzby 5 aj /? elektróny
-b)	tým, že väzba medzi atómami kyslíka a vodíka je koordinačná
-c)	iónovým typom väzby medzi atómami kyslíka a vodíka
-d)	tým, že jednotlivé molekuly vody v kvapalnom skupenstve sú viazané vodíkovými väzbami
-e)	tým, že molekuly vody sa viažu kyslíkovým mostíkom
-f)	tým, že atómy kyslíka a vodíka majú rovnaké hodnoty elektronegativity
-g)	tým, že na štiepenie väzby H-0 v molekule vody treba dodať energiu
-h)	jej relatívne nízkou molekulovou hmotnosťou
+a) 	tým, že v molekule vody jednotlivé atómy prvkov poskytujú na väzby s aj p elektróny
+b) 	tým, že väzba medzi atómami kyslíka a vodíka je koordinačná
+c) 	iónovým typom väzby medzi atómami kyslíka a vodíka
+d) 	tým, že jednotlivé molekuly vody v kvapalnom skupenstve sú viazané vodíkovými väzbami
+e) 	tým, že molekuly vody sa viažu kyslíkovým mostíkom
+f) 	tým, že atómy kyslíka a vodíka majú rovnaké hodnoty elektronegativity
+g) 	tým, že na štiepenie väzby H–O v molekule vody treba dodať energiu
+h) 	jej relatívne nízkou molekulovou hmotnosťou
 168.	Označte, ktoré tvrdenie platí:
 a)	zloženie a štruktúra molekúl vody nemá vplyv na jej fyzikálne a chemické vlastnosti
 b)	ak molekuly vody obalia v roztoku ióny rozpustenej látky, hovoríme o hydratácii
@@ -1609,17 +1582,17 @@ d)	voda je v chémii najdôležitejším rozpúšťadlom
 e)	voda v prírode vždy obsahuje určité množstvo rozpustených látok
 f)	voda je silný elektrolyt
 g)	prítomnosť voľných elektrónových párov na atóme kyslíka v molekule vody má vplyv na fyzikálne a chemické vlastnosti vody
-h)	voda je v roztokoch prítomná len vo forme iónov H3O+ a OH"
+h)	voda je v roztokoch prítomná len vo forme iónov H3O+ a OH-
 40
-169.	O roztoku H2O2 platí:
-a)	môže vystupovať ako oxidovadlo v reakcii: S2' + 4 H2O2---► SO42' + 4 H2O
-b)	môže reagovať so silnými hydroxidmi a vytvárať soli hydrogenperoxidy MIHO2 a peroxidy M2TO2
-c)	používa sa ako bieliaci prostriedok a na dezinfekciu v medicíne (3 %-ný vodný roztok)
-d)	používa sa na neutralizáciu slabých kyselín
-e)	v kyslom prostredí môže redukovať Mnvn na Mn11
-f)	koncentráciu peroxidu vodíka môžeme stanoviť na základe objemu kyslíka uvoľneného pri rozklade H2O2 (katalyzátor MnO2)
+169.	O roztoku H₂O₂ platí:
+a) 	môže vystupovať ako oxidovadlo v reakcii: S²⁻ + 4 H₂O₂ → SO₄²⁻ + 4 H₂O
+b) 	môže reagovať so silnými hydroxidmi a vytvárať soli hydroperoxidy M¹HO₂ a peroxidy M¹₂O₂
+c) 	používa sa ako bieliaci prostriedok a na dezinfekciu v medicíne (3 %-ný vodný roztok)
+d) 	používa sa na neutralizáciu slabých kyselín
+e) 	v kyslom prostredí môže redukovať Mn⁷⁺ na Mn²⁺
+f) 	koncentráciu peroxidu vodíka môžeme stanoviť na základe objemu kyslíka uvoľneného pri rozklade H₂O₂ (katalyzátor MnO₂)
 g)	že sa správa ako slabá zásada
-h)	že má hodnotu pH v rozpätí 7-9
+h) 	že má hodnotu pH v rozpätí 7 – 9
 170.	V molekule peroxidu vodíka:
 a)	je takáto štruktúra (konštitúcia) atómov: H-O-O-H
 b)	sú atómy kyslíka navzájom viazané kovalentnou väzbou
@@ -1630,63 +1603,67 @@ f)	je takéto usporiadanie atómov: O-H-H-O
 g)	sú atómy vodíka navzájom viazané kovalentnou väzbou
 h)	má atóm vodíka oxidačné číslo I
 171. Hydrogenperoxid draselný, peroxid strontnatý a peroxid sodný majú vzorce:
-a) KHO2, b) K2O2, c) KO2, d) KHO2, e) KHO, Í) K(O2)2, g) (KH)2O2, h) K2HO,	SrO2,	Na(O2)2 SrHO2,	Na2O2 Sr(O2)2,	NaHO2 SrO2,	Na2O2 Sr2O,	NaHO2 SrH(O2)2,	Na2O2 Sr2O2,	NaO2 Sr2O,	Na2O2
-172.	Trvalú tvrdosť vody:
-a)	možno odstrániť varom podľa rovnice: CaCO3 + H2O + CO2 •*-----► Ca(HCO3)2
-b)	spôsobuje najmä síran vápenatý a síran horečnatý
-c)	možno odstrániť podľa reakcie: Ca(HSO4)2------► CaSO4 + H2O + SO3
-d)	spôsobuje hlavne CaSO4 a MgSO4
-e)	nemožno odstrániť varom
-f)	možno odstrániť pridaním Na2CO3 - vznikne CaCO3 a MgCO3
-g)	možno odstrániť pridaním CaCO3
-h)	spôsobujú hlavne CaCO3 a MgCO3
-173.	Prechodnú tvrdosť vody:
-a)	spôsobuje CaSO4 rozpustený v pramenitých vodách
-b)	možno odstrániť rozkladom solí, ktoré ju spôsobujú, t.j. NaHCO3 a KHCO3, podľa rovnice:
-2 NaHCO3----------- Na2CO3 + H2CO3
-c)	spôsobujú Ca(HCO3)2 a Mg(HCO3)2
-d)	nemožno odstrániť varom
-41
-e)	spôsobujú hlavne hydrogenuhličitan horečnatý a hydrogenuhličitan vápenatý
-f)	možno odstrániť varom podľa reakcie: Ca(HCO3)2------► CaCO3 + H2O + CO2
-g)	spôsobujú najmä CaHPO4 a MgHPO4
-h)	spôsobujú hydrogenuhličitany alkalických kovov a kovov alkalických zemín
+a) 	KHO₂, SrO₂, Na(O₂)₂
+b) 	K₂O₂, SrHO₂, Na₂O₂
+c) 	KO₂, Sr(O₂)₂, NaHO₂
+d) 	KHO₂, SrO₂, Na₂O₂
+e) 	KHO, Sr₂O, NaHO₂
+f) 	K(O₂)₂, SrH(O₂)₂, Na₂O₂
+g) 	(KH)₂O₂, Sr₂O₂, NaO₂
+h) 	K₂HO₂, Sr₂O, Na₂O₂
+172.	Trvalá tvrdosť vody:
+a) 	možno odstrániť varom podľa rovnice: CaCO₃ + H₂O + CO₂ ⇌ Ca(HCO₃)₂
+b) 	spôsobuje najmä síran vápenatý a síran horečnatý
+c)	 možno odstrániť podľa reakcie: Ca(HSO₄)₂ → CaSO₄ + H₂O + SO₃
+d) 	spôsobujú hlavne CaSO₄ a MgSO₄
+e) 	nemožno odstrániť varom
+f) 	možno odstrániť pridaním Na₂CO₃ – vznikne CaCO₃ a MgCO₃
+g) 	možno odstrániť pridaním CaCO₃
+h) 	spôsobujú hlavne CaCO₃ a MgCO₃
+173.	Prechodná tvrdosť vody:
+a) 	spôsobuje CaSO₄ rozpustený v pramenitých vodách
+b) 	možno odstrániť rozkladom solí, ktoré ju spôsobujú, t. j. NaHCO₃ a KHCO₃, podľa rovnice: 2 NaHCO₃ → Na₂CO₃ + H₂CO₃
+c) 	spôsobujú Ca(HCO₃)₂ a Mg(HCO₃)₂
+d) 	nemožno odstrániť varom
+e) 	spôsobujú hlavne hydrogenuhličitan horečnatý a hydrogenuhličitan vápenatý
+f) 	možno odstrániť varom podľa reakcie: Ca(HCO₃)₂ → CaCO₃ + H₂O + CO₂
+g) 	spôsobujú najmä CaHPO₄ a MgHPO₄
 174.	Ako p prvky označujeme:
-a)	napr. vzácne plyny (okrem He)
-b)	prvky, ktorých atómy majú vo valenčnom orbitále s dva elektróny a v orbitáloch p jeden až šesť elektrónov (okrem He)
-c)	všetky prvky, ktoré sa nachádzajú v 4., 5. a 6. perióde
-d)	prvky umiestnené v III.A až VIII.A (13. až 18.) skupine periodickej sústavy prvkov (okrem He)
-e)	prechodné prvky
-f)	prvky umiestnené v III.B až VIII.B (3. až 10.) skupine periodickej sústavy prvkov
-g)	napr. prvky Fe, Co, Ni
-h)	prvky umiestnené v I.A a II.A (1. a 2.) skupine periodickej sústavy prvkov
+a) 	napr. vzácne plyny (okrem He)
+b) 	prvky, ktorých atómy majú vo valenčnom orbitále s dva elektróny a v orbitáloch p jeden až šesť elektrónov (okrem He)
+c) 	všetky prvky, ktoré sa nachádzajú v 4., 5. a 6. perióde
+d) 	prvky umiestnené v III.A až VIII.A (13. až 18.) skupine periodickej sústavy prvkov (okrem He)
+e) 	prechodné prvky
+f) 	prvky umiestnené v III.B až VIII.B (3. až 10.) skupine periodickej sústavy prvkov
+g) 	napr. prvky Fe, Co, Ni
+h) 	prvky umiestnené v I.A a II.A (1. a 2.) skupine periodickej sústavy prvkov
 175.	Vzácne plyny:
-a)	sú prvky: He, Ne, Ag, Kr, Xn, Rh
-b)	majú atómy, v ktorých sú ä a/? orbitály valenčnej vrstvy úplne obsadené elektrónmi za tvorby oktetu (okrem He)
-c)	valenčné orbitály s majú obsadené a postupne od He po Rn si dopĺňajú p orbitály jedným až šiestimi p elektrónmi
-d)	vo valenčnej vrstve majú dva elektróny s a osem elektrónov p (okrem He, ktorý má len dva s elektróny)
-e)	sú prvky VIII.A (18.) skupiny periodickej sústavy prvkov
-f)	sú prvky: He, Ne, Ar, Kr, Xe, Rn
-g)	majú neúplne obsadené valenčné orbitály
-h)	sú reaktívne prvky
+a) 	sú prvky: He, Ne, Ag, Kr, Zn, Rh
+b) 	majú atómy, v ktorých sú s a p orbitály valenčnej vrstvy úplne obsadené elektrónmi za tvorby oktetu (okrem He)
+c) 	valenčné orbitály s majú obsadené a postupne od He po Rn si dopĺňajú p orbitály jedným až šiestimi elektrónmi
+d) 	vo valenčnej vrstve majú dva elektróny s a osem elektrónov p (okrem He, ktorý má len dva s elektróny)
+e) 	sú prvky VIII.A (18.) skupiny periodickej sústavy prvkov
+f) 	sú prvky: He, Ne, Ar, Kr, Xe, Rn
+g) 	majú neúplne obsadené valenčné orbitály
+h) 	sú reaktívne prvky
 176.	Pri bežných podmienkach prvky VIII.A (18.) skupiny:
-a)	sa nachádzajú v nízkom množstve v atmosfére
-b)	sú veľmi stabilné
-c)	sú kvapaliny
-d)	sa vyskytujú ako nezlúčené atómy
-e)	vo valenčnej vrstve majú elektrónovú konfiguráciu s2p6 (okrem He)
-f)	vyskytujú sa ako dvojatómové molekuly
-g)	sú plyny
-h)	sú v tuhom skupenstve
+a) 	sa nachádzajú v nízkom množstve v atmosfére
+b) 	sú veľmi stabilné
+c) 	sú kvapaliny
+d) 	sa vyskytujú ako nezlúčené atómy
+e) 	vo valenčnej vrstve majú elektrónovú konfiguráciu s2p6 (okrem He)
+f) 	vyskytujú sa ako dvojatómové molekuly
+g) 	sú plyny
+h) 	sú v tuhom skupenstve
 177.	Elektrónovú konfiguráciu najbližšieho nasledujúceho vzácneho plynu môžu atómy halogénov získať:
-a)	iba pri vytvorení molekuly z dvoch rovnakých atómov (Br + Br---► Br2)
-b)	pri vzniku katiónu, napr. Cl3+, Br5+
-c)	po prijatí jedného elektrónu
-d)	vznikom halogenidového aniónu X" v iónových zlúčeninách
-e)	pri reakcii s alkalickými kovmi
-f)	po odovzdaní jedného elektrónu
-g)	v kovalentných zlúčeninách vytvorením jednej sigma a jednej n väzby
-h)	vytvorením aniónu X2' v iónových zlúčeninách
+a) 	iba pri vytvorení molekuly z dvoch rovnakých atómov (Br + Br → Br₂)
+b) 	pri vzniku katiónu, napr. Cl³⁺, Br⁵⁺
+c) 	po prijatí jedného elektrónu
+d) 	vznikom halogenidového aniónu X⁻ v iónových zlúčeninách
+e) 	pri reakcii s alkalickými kovmi
+f) 	po odovzdaní jedného elektrónu
+g) 	v kovalentných zlúčeninách vytvorením jednej sigma a jednej pi väzby
+h) 	vytvorením aniónu X²⁻ v iónových zlúčeninách
 42
 178.	С12О а С12О7 sú anhydridy kyselín:
 а)	НС104	а	НС102
@@ -1698,15 +1675,14 @@ f)	chlórnej	a	chloristej
 g)	chlorečnej	a	chloritej
 h)	chloristej	a	chlorečnej
 179.	Halogén s vyššou hodnotou elektronegativity:
-a)	má väčšiu schopnosť tvoriť halogenidový ión X" ako halogén s nižšou hodnotou elektronegativity
-b)	môže reagovať s halogénom s nižšou hodnotou elektronegativity podľa rovnice:
-F2 + 2 NaBr---------► 2 NaF + Br2
-c)	spôsobuje dismutáciu molekuly halogénu s nižšou hodnotou elektronegativity
-d)	má v zlúčenine s vodíkom (H-X) polárnej šiu väzbu ako halogén s nižšou hodnotou elektronegativity
-e)	nereaguje s halogénom, ktorý má nižšiu hodnotu elektronegativity
-f)	spôsobuje disproporcionáciu molekuly halogénu s nižšou hodnotou elektronegativity
-g)	redukuje halogén s nižšou hodnotou elektronegativity
-h)	oxiduje halogén s nižšou hodnotou elektronegativity
+a) má väčšiu schopnosť tvoriť halogenidový ión X⁻ ako halogén s nižšou hodnotou elektronegativity
+b) môže reagovať s halogénom s nižšou hodnotou elektronegativity podľa rovnice: F₂ + 2 NaBr → 2 NaF + Br₂
+c) 	spôsobuje dismutáciu molekuly halogénu s nižšou hodnotou elektronegativity
+d) 	má v zlúčenine s vodíkom (H–X) polárnejšiu väzbu ako halogén s nižšou hodnotou elektronegativity
+e) 	nereaguje s halogénom, ktorý má nižšiu hodnotu elektronegativity
+f) 	spôsobuje disproporcionáciu molekuly halogénu s nižšou hodnotou elektronegativity
+g) 	redukuje halogén s nižšou hodnotou elektronegativity
+h) 	oxiduje halogén s nižšou hodnotou elektronegativity
 180.	Pre halogény platí:
 a)	do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu chýba ich atómom jeden elektrón
 b)	zlučovanie halogénov s organickými látkami sa nazýva halogenácia
@@ -1726,15 +1702,14 @@ f)	5 % (w %) roztok jódu v C2H5OH
 g)	3 % (w %) roztok KI v etanole
 h)	5 % (w %) roztok jódu v chloroforme
 182.	Halogény:
-a)	majú vo valenčnej vrstve elektrónovú konfiguráciu ns2np5
-b)	pre svoju reaktivitu sa v prírode nevyskytujú voľné, ale len viazané v zlúčeninách
-c)	nachádzajú sa v VII.B (7.) skupine periodickej sústavy prvkov
-d)	po odovzdaní jedného elektrónu získajú konfiguráciu najbližšieho nasledujúceho vzácneho plynu
-e)	sú prvky F, Cl, Br, I, At
-43
-f)	sa nachádzajú v VIII.A (18.) skupine periodickej sústavy prvkov
-g)	sú pri bežných podmienkach v kvapalnom skupenstve
-h)	s kyslíkom tvoria oxidy, ktoré všetky sú anhydridy príslušných kyselín
+a) 	majú vo valenčnej vrstve elektrónovú konfiguráciu ns²np⁵
+b) 	pre svoju reaktivitu sa v prírode nevyskytujú voľné, ale len viazané v zlúčeninách
+c) 	nachádzajú sa v VII.B (7.) skupine periodickej sústavy prvkov
+d) 	po odovzdaní jedného elektrónu získajú konfiguráciu najbližšieho nasledujúceho vzácneho plynu
+e) 	sú prvky F, Cl, Br, I, At
+f) 	sa nachádzajú v VIII.A (18.) skupine periodickej sústavy prvkov
+g) 	sú pri bežných podmienkach v kvapalnom skupenstve
+h) 	s kyslíkom tvoria oxidy, ktoré všetky sú anhydridy príslušných kyselín
 183.	Halogenidy:
 a)	kovov sú vo vode väčšinou dobre rozpustné
 b)	sú zlúčeniny halogénov s prvkami, ktoré majú vyššiu hodnotu elektronegativity ako halogén
@@ -1763,9 +1738,9 @@ f)	vodný roztok HBr je kyselina brómová
 g)	ich vodné roztoky, okrem HF, sú silné kyseliny
 h)	nedajú sa pripraviť priamou syntézou z prvkov
 186.	Dezinfekčný prostriedok chlórové vápno je zmes:
-a)	Ca(C10)2 + Ca(C102)2
+a)	Ca(Cl0)2 + Ca(Cl02)2
 b)	chlorečnanu sodného a chlórnanu vápenatého
-c)	CaCl2 a Ca(C10)2
+c)	CaCl2 a Ca(Cl0)2
 d)	chlórnanu sodného a chlorečnanu vápenatého
 e)	chlórnanu vápenatého a chloridu vápenatého
 f)	chloridu sodného a chlórnanu sodného
@@ -1782,14 +1757,14 @@ f)	chlór je elektronegatívnejší ako jód
 g)	hodnota elektronegativity sa zvyšuje od fluóru k jódu
 h)	halogén s vyššou hodnotou elektronegativity môže oxidovať halogén s nižšou hodnotou elektronegativity
 188.	Medzi chalkogény patria:
-a)	prvky VI.A (16.) skupiny periodickej sústavy prvkov
-b)	prvky VI. periódy periodickej sústavy prvkov
-c)	prvky, ktorých elektrónová konfigurácia valenčnej vrstvy (n) je nv2n/>6
-d)	prvky O, S, Se, Te, Po
-e)	prvky, ktoré majú vo valenčnej vrstve štyri p elektróny
-f)	prvky, ktoré majú vo valenčnej vrstve šesť elektrónov
-g)	prvky p5
-h)	prvky, ktorým chýbajú do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu dva elektróny
+a) 	prvky VI.A (16.) skupiny periodickej sústavy prvkov
+b) 	prvky VI. periódy periodickej sústavy prvkov
+c) 	prvky, ktorých elektrónová konfigurácia valenčnej vrstvy (n) je ns²np⁶
+d) 	prvky O, S, Se, Te, Po
+e) 	prvky, ktoré majú vo valenčnej vrstve štyri p elektróny
+f) 	prvky, ktoré majú vo valenčnej vrstve šesť elektrónov
+g) 	prvky p⁵
+h) 	prvky, ktorým chýbajú do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu dva elektróny
 189.	O síre platí:
 a)	nepatrí medzi biogénne prvky
 b)	vyskytuje sa vo viacerých kryštalických modifikáciách (tzv. alotropia)
@@ -1810,14 +1785,14 @@ g)	má vzorec H2S
 h)	možno pripraviť reakciou vodíka so sírou
 45
 191.	Od kyseliny sulfánovej odvodzujeme soli:
-a)	ktoré sú dobre rozpustné vo vode, ale nehydrolyzujú
-b)	sulfidy a hydrogensulfidy
-c)	sulfáty a hydrogensulfáty
-d)	sulfity a hydrogensulfity
-e)	v ktorých sú anióny HS' alebo S2'
-f)	sulfidy, ktoré keď sú rozpustné vo vode, ľahko hydrolyzujú
-g)	v ktorých sú anióny HSO3' alebo SO32'
-h)	ktoré majú anión SCN" a nazývajú sa aj sulfokyanatany (rodanidy)
+a) 	ktoré sú dobre rozpustné vo vode, ale nehydrolyzujú
+b) 	sulfidy a hydrogensulfidy
+c) 	sulfáty a hydrogensulfáty
+d) 	sulfity a hydrogensulfity
+e) 	v ktorých sú anióny HS⁻ alebo S²⁻
+f) 	sulfidy, ktoré keď sú rozpustné vo vode, ľahko hydrolyzujú
+g) 	v ktorých sú anióny HSO₃⁻ alebo SO₃²⁻
+h) 	ktoré majú anión SCN⁻ a nazývajú sa aj sulfokyanatany (rodanidy)
 192.	Oxid siričitý:
 a)	má oxidačné aj redukčné účinky
 b)	má atómy síry a kyslíka spojené iónovou väzbou
@@ -1830,53 +1805,57 @@ h)	je plyn, ktorý je nežiadúcou zložkou ovzdušia
 193.	Určte vzorec alebo názov soli, získanej reakciou oxokyseliny, v ktorej má atóm síry oxidačné číslo VI, s hydroxidom železa, v ktorom má atóm železa oxidačné číslo II:
 a)	FeSO3
 b)	Fe2S3
-c)	FeSO4 d)Fe2(SO4)3 e) siričitan železnatý f) síran železnatý g) síran železitý h) sulfid železnatý
+c)	FeSO4 
+d)	Fe2(SO4)3 
+e) 	siričitan železnatý 
+f) 	síran železnatý 
+g) 	síran železitý 
+h) 	sulfid železnatý
 194.	Kamenec draselno-chromitý má vzorec:
-a)	KCr(SO3)2.12 H2O
-b)	K2Cr(SO3)2.12 H2O
-c)	KCr(SO4)2.12H2O
-d)	K2SO3 - CrSO4.12 H2O
-e)KCrS2O7.12H2O
-f)KCr(S2O4)2.12H2O
-g)	K[Cr(SO3)4].12 H2O
-h)	K2S2O4 - CrS2O6.12 H2O
-46
+a) 	KCr(SO₃)₂·12 H₂O
+b) 	K₂Cr(SO₃)₂·12 H₂O
+c) 	KCr(SO₄)₂·12 H₂O
+d) 	K₂SO₃ · CrSO₄ · 12 H₂O
+e) 	KCrS₂O₇·12 H₂O
+f) 	KCr(S₂O₄)₂·12 H₂O
+g) 	K[Cr(SO₃)₄]·12 H₂O
+h) 	K₂S₂O₄ · CrS₂O₆ · 12 H₂O
 195.	Pre kyselinu sírovú platí tvrdenie:
-a)	pri rozpúšťaní H2SO4 vo vode sa uvoľňuje veľké množstvo tepla
-b)	s vodou sa mieša v každom pomere
-c)	v zriedenom roztoku stráca svoje kyslé vlastnosti a zvyšuje svoje oxidačné vlastnosti
-d)	vzniká reakciou SO3 s vodou
-e)	tvorí soli hydrogensírany a sírany
-f)	vzniká reakciou: SO2 + H2O-----► H2SO4
-g)	pri riedení lejeme vodu do H2SO4
-h)	koncentrovaná má silné oxidačné a dehydratačné účinky
+a) 	pri rozpúšťaní H₂SO₄ vo vode sa uvoľňuje veľké množstvo tepla
+b) 	s vodou sa mieša v každom pomere
+c) 	v zriedenom roztoku stráca svoje kyslé vlastnosti a zvyšuje svoje oxidačné vlastnosti
+d) 	vzniká reakciou SO₃ s vodou
+e) 	tvorí soli hydrogensírany a sírany
+f) 	vzniká reakciou: SO₂ + H₂O → H₂SO₄
+g) 	pri riedení lejeme vodu do H₂SO₄
+h) 	koncentrovaná má silné oxidačné a dehydratačné účinky
 196.	Elektrónová konfigurácia valenčnej vrstvy chalkogénov je:
-a)	taká, že týmto prvkom do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu chýbajú dva elektróny
-b)	n52np3
-C) IW2!]/
-d)	iw2np2
-e)	m'np5
-f)	ns'np4
-g)	rovnaká ako vo valenčnej vrstve halogénov
-h)	n52npx2npy'npzl
+a) 	taká, že týmto prvkom do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu chýbajú dva elektróny
+b) 	ns²np³
+c) 	ns²np⁴
+d) 	ns²np²
+e) 	ns¹np⁵
+f) 	ns¹np⁴
+g) 	rovnaká ako vo valenčnej vrstve halogénov
+h) 	ns²npₓ²npᵧ¹np_z¹
 197.	Elektrónová konfigurácia atómu dusíka (Z = 7) je:
-a)	[Ne]2?2/?3
-b)	[HejZ^^^'ľ^1
-c)	rovnaká ako atómu fosforu (Z = 15)
-d)	\s22s22p3
-e)	[He]3?3/?3
-f)	rovnaká ako atómu arzénu
-g)	taká, že atóm dusíka má tri nespárené elektróny
-h)	[He]2?2/?3
+a) 	[Ne] 2s² 2p³
+b) 	[He] 2s² 2pₓ¹ 2pᵧ¹ 2p_z¹
+c) 	rovnaká ako atómu fosforu (Z = 15)
+d) 	1s² 2s² 2p³
+e) 	[He] 3s² 3p³
+f) 	rovnaká ako atómu arzénu
+g) 	taká, že atóm dusíka má tri nespárené elektróny
+h) 	[He] 2s² 2p³
 198.	Prvky V.A (15.) skupiny periodickej sústavy prvkov:
-a)	patria medzi p3 prvky
-b)	dusík a fosfor patria medzi základné biogénne prvky
-c)	majú vo valenčnej vrstve päť elektrónov
-d)	sú: N, P, V, Nb, Ta
-e)	majú elektróny rozložené vo vrstvách K, L a M
-f)	majú vo valenčnej vrstve elektrónovú konfiguráciu n^2np3
-g)	sa všetky nachádzajú v prírode len v zlúčeninách
-h)	sú: dusík, fosfor, arzén, antimón a bizmut
+a) 	patria medzi p³ prvky
+b) 	dusík a fosfor patria medzi základné biogénne prvky
+c) 	majú vo valenčnej vrstve päť elektrónov
+d) 	sú: N, P, V, Nb, Ta
+e) 	majú elektróny rozložené vo vrstvách K, L a M
+f) 	majú vo valenčnej vrstve elektrónovú konfiguráciu ns²np³
+g) 	sa všetky nachádzajú v prírode len v zlúčeninách
+h) 	sú: dusík, fosfor, arzén, antimón a bizmut
 199.	Molekuly dusíka:
 a)	sú veľmi stabilné, pretože energia väzby N=N je veľmi vysoká (946 kJ.mol'1)
 b)	majú atómy dusíka spojené polárnymi kovalentnými väzbami
@@ -9448,39 +9427,39 @@ Kľúč k otázkam z chémie
 7.	NNSNNNNN 
 8. 	NNSNNNSN 
 9. 	SNNSNNSN 
-10. 	SSNSNSNS 
-11. 	NNNSSNSN 
-12. 	NSNSNNNS 
-13. 	SSSSSNNN 
-14. 	SSSNNSNS 
-15. 	NSNNSNNN 
-16. 	NNNSNSNS 
-17. 	NNSSNSNN 
-18. 	SNSSNNSS 
-19. 	NSNNNSSS 
-20. 	SSNNNSSN 
-21. 	NSNNSSSN 
-22. 	NSNNSNSS 
-23. 	NSNSNSNS 
-24. 	NSSSNSSS 
-25. 	SSNNSSSS 
-26. 	SSNNNNSN 
-27. 	SSSNSNNN 
-28. 	NSSNSNSN 
-29. 	SSNNSNSN 
-30. 	SNSSSNSN 
-31. 	SNNSSSNN 
-32. 	SSSNSNSS 
-33. 	NSSNSNNS 
-34. 	SNSSNSNS 
-35. 	NNNNNNSN 
-36. 	NNNNNNSN 
-37. 	NSSNSNSS 
-38. 	SNSSNNSS 
-39. 	SSNSSNSS 
-40. 	SNSSNSNS 
-41. 	SSSNNSNN 
-42. 	SSNNSNNS
+10. SSNSNSNS
+11. NNNSSNSN
+12. NSNSNNNS
+13. SSSSSNNN
+14. SSSNNSNS
+15. NSNNSNNN
+16. NNNSNSNS
+17. NNSSNSNN
+18. SNSSNNSS
+19. NSNNNSSS
+20. SSNNNSSN
+21. NSNNSSSN
+22. NSNNSNSS
+23. NSNSNSNS
+24. NSSSNSSS
+25. SSNNSSSS
+26. SSNNNNSN
+27. SSSNSNNN
+28. NSSNSNSN
+29. SSNNSNSN
+30. SNSSSNSN
+31. SNNSSSNN
+32. SSSNSNSS
+33. NSSNSNNS
+34. SNSSNSNS
+35. NNNNNNSN
+36. NNNNNNSN
+37. NSSNSNSS
+38. SNSSNNSS
+39. SSNSSNSS
+40. SNSSNSNS
+41. SSSNNSNN
+42. SSNNSNNS
 43.	NNSNNNNN
 44.	SNSSSNNS
 45.	SNSSSSSS
@@ -9536,19 +9515,19 @@ Kľúč k otázkam z chémie
 95.	NSNSSSNN
 96.	SNSSNNSS
 97.	SNNSNSSN
-98.	NSSNSSSN
+98. NSSNSSSN
 99.	SSSSSNSS
-100.	NSNNNSSS 
-101.	NNNSSSNS
-102.	SNSSNSNS
-103.	SNSSNSSN 
-104.	NSSSNNNN
-105.	SNSSSNNS
-106.	NNNNSSNS 
-107.	NNSNSNSS
-108.	SSSNNNSS
-109.	SNSNSNSS 
-110. 	SNSNNSNS 
+100. NSNNNSSS
+101. NNNSSSNS
+102. SNSSNSNS
+103. SNSSNSSN
+104. NSSSNNNN
+105. SNSSSNNS
+106. NNNNSSNS
+107. NNSNSNSS
+108. SSSNNNSS
+109. SNSNSNSS
+110. SNSNNSNS
 111. 	NSNSNSSS
 112.	NNSNNSNS
 113.	SNNSNNNS 
@@ -9564,60 +9543,62 @@ Kľúč k otázkam z chémie
 123.	SNSNNSSN 
 124.	NSNSNNSS
 125.	NSNNNSNS 
-126.NSNNNNNN 127.NNNSNNNN
-128.NSSSSNSS
-129.NSSSNNNN
-130.	SNNSNNSN 131.SSSNSSNN
-132.NNNSNNNN
-133.NSSSNNNN
+126.    NSNNNNNN
+127.    NNNSNNNN
+128.    NSSSSNSS
+129.    NSSSNNNN
+130.	SNNSNNSN
+131.    SSSNSSNN
+132.    NNNSNNNN
+133.    NSSSNNNN
 134.	SNSNNNSN
 135.	NSNNSNNN
 136.	SNNSNNSN
 137.	SSSSSSNN
-138.NSSNNSNS
+138.    NSSNNSNS
 139.	NSNNNSSN
 140.	SSNSNNSN
-141.NNNNNSSN
+141.    NNNNNSSN
 142.	NSNNNNSS
 143.	SNNSNNSN
 144.	NSNSNSSS
-145.NSSSNNSS
+145.    NSSSNNSS
 146.	NSNSSNSN
 147.	SSSNSNNS
 148.	SSNSSNSN
-149.NSSNSSSS
+149.    NSSNSSSS
 150.	SNSNSSNS
 151.	SNNNNNSS
 152.	SSNSNSNS
 153.	NSNSNNNS
 154.	SNSNNNSN
 155.	SSNNNSNS
-156.NNSNNNNS
+156.    NNSNNNNS
 157.	SSSNSSSN
 158.	NSSNSNSN
-159.NSNNSSSS
+159.    NSNNSSSS
 160.	SNNSSSNN
 161.	SSSNSNNN
 162.	SNNSSNSS
 163.	SNNNNSSS
 164.	SNNSSNNS
-165.NSSNNNNN
+165.    NSSNNNNN
 166.	NNSNNNSN
-167.NNNSNNNN
-168.NSSSSNSN
+167.    NNNSNNNN
+168.    NSSSSNSN
 169.	SSSNSSNN
 170.	SSNNSNNS
-171.NNNSNNNN
+171.    NNNSNNNN
 172.	NSNSSSNN
-173.NNSNSSNN
+173.    NNSNSSNN
 174.	SSNSNNNN
-175.NSNNSSNN
+175.    NSNNSSNN
 176.	SSNSSNSN
-229
 177.	NNSSSNNN
-178.	NNNSNSNN 179.SSNSNNNS
-180.SSSNNSSS
-181.NSNNSSNN
+178.	NNNSNSNN
+179.    SSNSNNNS
+180.    SSSNNSSS
+181.    NSNNSSNN
 182.	SSNNSNNN
 183.	SNSSNNNS
 184.	SNNNNNNS
@@ -9627,15 +9608,17 @@ Kľúč k otázkam z chémie
 188.	SNNSSSNS
 189.	NSNSSSNS
 190.	SNSNNSSS
-191.NSNNSSNN
+191.    NSNNSSNN
 192.	SNNSSSSS
-193.NNSNNSNN
-194.	NNSNNNNN 195.SSNSSNNS
+193.    NNSNNSNN
+194.	NNSNNNNN
+195.    SSNSSNNS
 196.	SNSNNNNS
-197.	NSNSNNSS 198.SSSNNSNS
+197.	NSNSNNSS
+198.    SSSNNSNS
 199.	SNNSSNSN
 200.	SSNNSSSN
-201.SNSSSNSS
+201.    SNSSSNSS
 202.	SSSSSNNS
 203.	SNSSSSNS
 204.	SSNSNNSS
