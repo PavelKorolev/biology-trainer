@@ -184,7 +184,8 @@
       "D": "je základnou morfologickou jednotkou živých organizmov",
       "E": "je základnou funkčnou jednotkou živých organizmov",
       "F": "predstavuje otvorený systém",
-      "G": "je systém, v ktorom prebieha tok látok, energie a informácií h) je základnou funkčnou množinou živých organizmov"
+      "G": "je systém, v ktorom prebieha tok látok, energie a informácií",
+      "H": "je základnou funkčnou množinou živých organizmov"
     },
     "correct": [
       "A",
@@ -586,7 +587,7 @@
     "id": 31,
     "question": "Bunková stena:",
     "options": {
-      "A": "Je typická štruktúra rastlinných buniek, húb a prokaryotických buniek",
+      "A": "je typická štruktúra rastlinných buniek, húb a prokaryotických buniek",
       "B": "nemá význam pri delení buniek",
       "C": "ovplyvňuje tvar buniek",
       "D": "je nepriepustná pre vodu",
@@ -612,6 +613,7 @@
       "C": "typ spojenia rastlinných buniek",
       "D": "kruhové molekuly DNA v cytoplazme prokaryotických organizmov",
       "E": "spojením plazmatických membrán susedných buniek",
+      "F": "spojením membrán chloroplastov susedných buniek",
       "G": "štruktúry, ktoré uľahčujú prechod látok medzi bunkami a prispievajú k mechanickej súdržnosti pletiva",
       "H": "štruktúry, ktoré sťažujú prechod látok medzi bunkami a oslabujú mechanickú súdržnosť pletiva"
     },
@@ -669,7 +671,7 @@
       "A": "tvorí koloidnú sústavu rozličných organických a anorganických látok",
       "B": "neobsahuje enzýmy",
       "C": "je vhodným prostredím pre bunkové organely",
-      "D": "je metabolický neaktívna",
+      "D": "je metabolicky neaktívna",
       "E": "neobsahuje takmer žiadne anorganické látky",
       "F": "vytvára vnútrobunkové prostredie",
       "G": "v rastlinnej bunke obsahuje iba organické látky",
@@ -830,7 +832,7 @@
     "question": "Jadro prokaryotických buniek:",
     "options": {
       "A": "tvoria dva homologické chromozómy",
-      "B": "tvorí j eden chromozóm",
+      "B": "tvorí jeden chromozóm",
       "C": "pozostáva z jednej molekuly DNA",
       "D": "vytvára jedna molekula RNA",
       "E": "má obal z jednej membrány",
@@ -850,7 +852,7 @@
       "A": "v jadrovom obale prokaryotických buniek",
       "B": "na póloch jadra prokaryotických buniek",
       "C": "na vnútornej strane obalu jadra prokaryotických buniek",
-      "D": "v j adierku prokaryotických buniek",
+      "D": "v jadierku prokaryotických buniek",
       "E": "v jadrovom obale eukaryotických buniek",
       "F": "na póloch jadra eukaryotických buniek",
       "G": "na vnútornej strane obalu jadra eukaryotických buniek",
@@ -886,7 +888,7 @@
     "options": {
       "A": "jadrovej membráne",
       "B": "cytoplazme",
-      "C": "bunkovom j adre",
+      "C": "bunkovom jadre",
       "D": "chloroplastoch",
       "E": "mitochondriách",
       "F": "endoplazmatickom retikule",
@@ -902,7 +904,7 @@
   },
   {
     "id": 47,
-    "question": "Chromatin tvorí:",
+    "question": "Chromatín tvorí:",
     "options": {
       "A": "hmotu chromozómov",
       "B": "celé jadro",
@@ -988,7 +990,7 @@
       "C": "z troch",
       "D": "z dvoch - vonkajšieho obalu a vnútornej, ktorá vytvára mitochondriálne kristy",
       "E": "z jednej",
-      "F": "z dvoch - vnútorného obalu a vonkajšej membrány, ktorá vytvára mitochondriálne kristy",
+      "F": "z dvoch – vnútorného obalu a vonkajšej membrány, ktorá vytvára mitochondriálne kristy",
       "G": "jednej alebo dvoch, podľa tvaru buniek",
       "H": "jednej alebo dvoch, podľa tvaru mitochondrií"
     },
@@ -1044,14 +1046,14 @@
     "id": 54,
     "question": "Hladké endoplazmatické retikulum:",
     "options": {
-      "A": "má na svojom povrchu ríbozómy",
+      "A": "má na svojom povrchu ribozómy",
       "B": "sa zúčastňuje na syntéze lipidov a vitamínu D",
       "C": "podieľa sa na detoxikačných procesoch",
       "D": "je tvorené sústavou cisterien, ktoré sa nazývajú diktyozómy",
       "E": "je miestom proteosyntetických procesov",
-      "F": "nemá na svojom povrchu ríbozómy",
+      "F": "nemá na svojom povrchu ribozómy",
       "G": "podieľa sa na odbúravaní hormónov",
-      "H": "sa zúčastňuj e syntézy vitamínu B12"
+      "H": "sa zúčastňuje syntézy vitamínu B12"
     },
     "correct": [
       "B",
@@ -1062,7 +1064,7 @@
   },
   {
     "id": 55,
-    "question": "Ríbozómy:",
+    "question": "Ribozómy:",
     "options": {
       "A": "nie sú tvorené biomembránou",
       "B": "môžu sa vyskytovať voľne v cytoplazme",
@@ -1261,7 +1263,7 @@
     "options": {
       "A": "len v živočíšnej bunke",
       "B": "v rastlinnej bunke",
-      "C": "ujednobunkovcov",
+      "C": "u jednobunkovcov",
       "D": "najmä v hubách",
       "E": "v mitochondriách",
       "F": "v cytoplazme",
@@ -1325,7 +1327,7 @@
       "E": "sa nachádzajú v cytoplazme",
       "F": "predstavujú živé súčasti bunky",
       "G": "sú súčasťou cytoskeletu",
-      "H": "spravidla nie sú metabolický aktívne"
+      "H": "spravidla nie sú metabolicky aktívne"
     },
     "correct": [
       "A",
@@ -1364,7 +1366,7 @@
       "D": "voľne v cytoplazme mimo DNA",
       "E": "v mitochondriách",
       "F": "v chloroplastoch",
-      "G": "vRNA",
+      "G": "v RNA",
       "H": "vo vakuolách"
     },
     "correct": [
@@ -1377,13 +1379,13 @@
     "question": "K replikácii DNA v bunke dochádza v:",
     "options": {
       "A": "Golgiho systéme",
-      "B": "bunkovom j adre",
+      "B": "bunkovom jadre",
       "C": "lyzozómoch",
       "D": "chloroplastoch",
       "E": "mitochondriách",
       "F": "lyzodezmoch",
       "G": "endoplazmatickom retikule",
-      "H": "v bunkovom j adierku"
+      "H": "v bunkovom jadierku"
     },
     "correct": [
       "B",
@@ -1415,10 +1417,10 @@
     "question": "Prokaryotické bunky:",
     "options": {
       "A": "sú stavbou zložitejšie ako eukaryotické bunky",
-      "B": "majú veľkosť približne 1 - 10pm",
+      "B": "majú veľkosť približne 1 – 10μm",
       "C": "majú dobre vyvinuté endoplazmatické retikulum",
       "D": "sú stavbou jednoduchšie ako eukaryotické bunky",
-      "E": "nemaj ú pravé j adro",
+      "E": "nemajú pravé jadro",
       "F": "v cytoplazme nemajú ribozómy",
       "G": "nikdy nemajú bunkovú stenu",
       "H": "nemajú membránový systém"
@@ -1437,9 +1439,9 @@
       "A": "majú druhovo špecifický počet chromozómov",
       "B": "sú charakteristické prítomnosťou membránových organel",
       "C": "sú väčšie a zložitejšie ako prokaryotické bunky",
-      "D": "nemajú obsah jadra - chromatín oddelený od cytoplazmy jadrovou membránou",
+      "D": "nemajú obsah jadra – chromatín oddelený od cytoplazmy jadrovou membránou",
       "E": "tvoria telo baktérií",
-      "F": "majú obsah jadra - chromatín oddelený od cytoplazmy dvomi jadrovými membránami",
+      "F": "majú obsah jadra – chromatín oddelený od cytoplazmy dvomi jadrovými membránami",
       "G": "v cytoplazme nemajú takmer žiadne organely",
       "H": "sa nazývajú aj ako pravé bunky, pretože ich jadro má jadrový obal"
     },
@@ -1613,7 +1615,7 @@
       "B": "ich hlavnou úlohou je vstrebávanie živín",
       "C": "ich hlavnou úlohou vylučovanie sekrétov",
       "D": "sú tvorené bunkami s veľkými medzibunkovými priestormi, ktoré vypĺňa medzibunková hmota",
-      "E": "ich hlavnou úlohou j e zachytávať toxíny",
+      "E": "ich hlavnou úlohou je zachytávať toxíny",
       "F": "sú väzivo, chrupka a kosť",
       "G": "vznikajú až po narodení jedinca",
       "H": "zabezpečujú oporu a ochranu mäkkým častiam tela"
@@ -1996,7 +1998,7 @@
       "E": "enzýmy sú charakteristické výlučne pre eukaryotické bunky",
       "F": "špecifickosť enzýmu je daná konkrétnou sekvenciou aminokyselín",
       "G": "enzýmy majú anabolickú a katabolickú špecifickosť",
-      "H": "účinnou zložkou enzýmu je nebielkovínový koenzým"
+      "H": "účinnou zložkou enzýmu je nebielkovinový koenzým"
     },
     "correct": [
       "A",
@@ -2049,7 +2051,8 @@
       "B": "v tom, že určitý enzým môže katalyzovať určitú chemickú reakciu len s určitým substrátom",
       "C": "v blokovaní špecifických chemických reakcií",
       "D": "v tom, že enzým môže katalyzovať napr. reakciu s glukózou ako substrátom, ale nie s glycerolom",
-      "E": "v tom, že každý enzým môže katalyzovať určitú chemickú reakciu s každým substrátom f) v tom, že jeden enzým môže katalyzovať určitú chemickú reakciu s každým substrátom",
+      "E": "v tom, že každý enzým môže katalyzovať určitú chemickú reakciu s každým substrátom",
+      "F": "v tom, že jeden enzým môže katalyzovať určitú chemickú reakciu s každým substrátom",
       "G": "v tom, že ak reakciu katalyzujú dva enzýmy, jeden je substrátom pre druhý",
       "H": "v tom, že špecifickosť enzýmu zabezpečuje substrát, ktorý vytvára jeho aktívne centrum"
     },
@@ -2170,7 +2173,7 @@
     "id": 113,
     "question": "Jeden z dôležitých metabolických procesov v bunke, pri ktorom sa tvoria nové molekuly bielkovín, sa nazýva:",
     "options": {
-      "A": "prototrofía",
+      "A": "prototrofia",
       "B": "fagocytóza",
       "C": "proteosyntéza",
       "D": "pinocytóza",
@@ -2187,10 +2190,10 @@
     "id": 114,
     "question": "Látková regulácia je v porovnaní s nervovou reguláciou:",
     "options": {
-      "A": "fylogenetický staršia",
-      "B": "fylogenetický mladšia",
+      "A": "fylogeneticky staršia",
+      "B": "fylogeneticky mladšia",
       "C": "rýchlejšie nastupujúca ako nervová",
-      "D": "vývojové sú obe rovnako staré",
+      "D": "vývojove sú obe rovnako staré",
       "E": "u rastlín potlačená",
       "F": "pomalšie nastupujúca ako nervová",
       "G": "u rastlín výlučným spôsobom riadenia",
@@ -2322,12 +2325,12 @@
     "question": "Chromozóm:",
     "options": {
       "A": "tvoria chromatínové vlákna",
-      "B": "obsahuje centroméru - primárne zúženie chromozómu",
+      "B": "obsahuje centroméru – primárne zúženie chromozómu",
       "C": "tvoria mikrotubulové vlákna",
       "D": "je v nepravidelných úsekoch „obalený“ bielkovinami",
-      "E": "obsahuje centroméru - sekundárne zúženie chromozómu",
-      "F": "obsahuje centrozóm - primáme zúženie chromozómu",
-      "G": "obsahuje centriolu - primárne zúženie chromozómu",
+      "E": "obsahuje centroméru – sekundárne zúženie chromozómu",
+      "F": "obsahuje centrozóm – primárne zúženie chromozómu",
+      "G": "obsahuje centriolu – primárne zúženie chromozómu",
       "H": "je zložený z ramien, ktoré sa spájajú v mieste centroméry"
     },
     "correct": [
@@ -2379,7 +2382,13 @@
     "id": 124,
     "question": "Ako sa nazývajú bunky s jednou chromozómovou sadou?",
     "options": {
-      "A": "diploidné b) haploidné c) somatické d) gaméty e) zygoty f) monoploidné g) oogónie",
+      "A": "diploidné",
+      "B": "haploidné",
+      "C": "somatické",
+      "D": "gaméty",
+      "E": "zygoty",
+      "F": "monoploidné",
+      "G": "oogónie",
       "H": "spermiogónie"
     },
     "correct": [
@@ -2407,7 +2416,7 @@
   },
   {
     "id": 126,
-    "question": "Gi fáza:",
+    "question": "G1 fáza:",
     "options": {
       "A": "nastupuje po skončení bunkového delenia",
       "B": "je charakterizovaná intenzívnymi syntetickými procesmi",
@@ -2434,7 +2443,7 @@
       "B": "pri nevhodnej teplote",
       "C": "pri nahromadení škodlivých látok",
       "D": "pri nevhodných podmienkach vonkajšieho prostredia",
-      "E": "v Go fáze po pôsobení inhibujúcich látok",
+      "E": "v G0 fáze po pôsobení inhibujúcich látok",
       "F": "v G2 fáze po pôsobení stimulujúcich látok",
       "G": "v hlavnom kontrolnom uzle S fázy",
       "H": "pri prítomnosti stimulujúcich látok"
@@ -2452,7 +2461,7 @@
     "question": "Hlavný kontrolný uzol bunkového cyklu sa nachádza v:",
     "options": {
       "A": "G2 fáze",
-      "B": "Gi fáze",
+      "B": "G1 fáze",
       "C": "S fáze",
       "D": "profáze",
       "E": "metafáze",
@@ -2469,13 +2478,13 @@
     "id": 129,
     "question": "Ako sa nazýva fáza bunkového cyklu, v ktorej prebieha replikácia jadrovej DNA a zdvojenie jadrových chromozómov?",
     "options": {
-      "A": "Gi fáza",
+      "A": "G1 fáza",
       "B": "M fáza",
       "C": "S fáza",
       "D": "G2 fáza",
       "E": "syntetická fáza",
       "F": "hlavný kontrolný uzol",
-      "G": "Go fáza",
+      "G": "G0 fáza",
       "H": "interfáza"
     },
     "correct": [
@@ -2507,13 +2516,13 @@
     "id": 131,
     "question": "Pre jednotlivé fázy bunkového cyklu eukaryotickej bunky platí, že v:",
     "options": {
-      "A": "Gi fáze - prebiehajú syntetické procesy, je tu hlavný kontrolný uzol",
+      "A": "G1 fáze - prebiehajú syntetické procesy, je tu hlavný kontrolný uzol",
       "B": "S fáze - prebieha zdvojenie jadrových chromozómov",
       "C": "G2 fáze - pribúdajú bunkové štruktúry a pripravuje sa rozdelenie jadra",
       "D": "M fáze - sa jadro rozdelí na dve dcérske jadrá",
-      "E": "Gi fáze - prebieha zdvojenie jadrových chromozómov, je tu hlavný kontrolný uzol",
+      "E": "G1 fáze - prebieha zdvojenie jadrových chromozómov, je tu hlavný kontrolný uzol",
       "F": "S fáze - prebieha rozdelenie dcérskych chromozómov",
-      "G": "G2 fáze - ubúdajú bunkové štruktúry a pripravuj e sa zdvoj enie j adrových chromozómov",
+      "G": "G2 fáze - ubúdajú bunkové štruktúry a pripravuje sa zdvojenie jadrových chromozómov",
       "H": "M fáze - sa jadro rozdelí na dve dcérske jadrá a zvyčajne je tu hlavný kontrolný uzol cyklu"
     },
     "correct": [
@@ -2566,7 +2575,7 @@
     "question": "V metafáze mitózy sa chromozómy:",
     "options": {
       "A": "sústreďujú do centrálnej roviny",
-      "B": "zhlukujú do nových j adier",
+      "B": "zhlukujú do nových jadier",
       "C": "sústreďujú k pólom bunky",
       "D": "predlžujú a hrubnú",
       "E": "pozdĺžne rozdelia na dve chromatidy",
@@ -2584,7 +2593,8 @@
     "question": "V anafáze mitózy:",
     "options": {
       "A": "sa mikrotubuly deliaceho vretienka skracujú a tým priťahujú chromozómy k centriolám",
-      "B": "sa mikrotubuly deliaceho vretienka predlžujú a tým priťahujú chromozómy k centriolám c) chromozómy sú priťahované k centriolám",
+      "B": "sa mikrotubuly deliaceho vretienka predlžujú a tým priťahujú chromozómy k centriolám",
+      "C": "chromozómy sú priťahované k centriolám",
       "D": "chromozómy sú priťahované k centroméram",
       "E": "pri centriolách sa sústredí diploidný počet chromozómov",
       "F": "pri centriolách sa sústredí haploidný počet chromozómov",
@@ -2625,7 +2635,7 @@
       "B": "deliace vretienko sa rozpadáva",
       "C": "chromozómy sa opäť menia na dlhé vlákna",
       "D": "vytvoria sa nové jadrové obaly",
-      "E": "obnovuj esa štruktúra j adier",
+      "E": "obnovuje sa štruktúra jadier",
       "F": "prebieha cytokinéza",
       "G": "pripravuje sa S fáza",
       "H": "pripravuje sa G2 fáza"
@@ -2817,7 +2827,7 @@
       "B": "môžu byť rozlíšené (anizogaméty)",
       "C": "môžu byť samčie",
       "D": "sú vždy triploidné",
-      "E": "môžu byť nerozlíšené - rovnaké (izogaméty)",
+      "E": "môžu byť nerozlíšené – rovnaké (izogaméty)",
       "F": "sú vajíčka a spermie",
       "G": "môžu byť samičie",
       "H": "sú vždy diploidné"
@@ -3132,7 +3142,10 @@
       "B": "nukleoid",
       "C": "úsek DNA",
       "D": "gén",
-      "E": "purínová alebo pyrimidínová báza, pentóza a H3PO4"
+      "E": "purínová alebo pyrimidínová báza, pentóza a H3PO4",
+      "F": "purínová alebo pyrimidínová báza, päťuhlíkatý cukor a H3PO4",
+      "G": "purínová alebo pyrimidínová báza, šesťuhlíkatý cukor a H3PO4",
+      "H": "dusíkatá organická báza, hexóza a kyselina fosforečná"
     },
     "correct": [
       "A",
@@ -3151,7 +3164,7 @@
       "E": "v syntetickej fáze interfázy",
       "F": "v syntetickej fáze mitózy",
       "G": "v S fáze pred mitotickým delením",
-      "H": "v Gj fáze interfázy"
+      "H": "v G1 fáze interfázy"
     },
     "correct": [
       "A",
@@ -3185,8 +3198,9 @@
       "A": "na život vzniknutého organizmu by to nemalo významný vplyv",
       "B": "počet chromozómov by sa po oplodnení zvyšoval v každej ďalšej generácii",
       "C": "každá ďalšia novovzniknutá bunka by mala o polovicu menej chromozómov",
-      "D": "novovzniknutí jedinci by v ďalších generáciách mali polyploidiu nezlučiteľnú so životom",
-      "E": "nemalo by to vplyv na rozmnožovanie jedinca, ale na počet jeho somatických buniek f) novovzniknutý jedinec by mal v každej ďalšej generácii dvojnásobný počet gamét",
+      "D": "novovzniknutí jedinci by v ďalších generáciách mali polyploidiu nezlúčiteľnú so životom",
+      "E": "nemalo by to vplyv na rozmnožovanie jedinca, ale na počet jeho somatických buniek",
+      "F": "novovzniknutý jedinec by mal v každej ďalšej generácii dvojnásobný počet gamét",
       "G": "evolučný chod by išiel opačným smerom",
       "H": "u rastlín je to bežný jav, život organizmu tým nie je ohrozený"
     },
@@ -3261,7 +3275,7 @@
       "E": "regulačnú",
       "F": "v prípade nedostatku potravy alebo za iných nepriaznivých podmienok zastaví bunkový cyklus v G2 fáze",
       "G": "v prípade nedostatku potravy alebo za iných nepriaznivých podmienok zastaví bunkový cyklus v prvej fáze interfázy",
-      "H": "v prípade nedostatku potravy alebo za iných nepriaznivých podmienok zastaví bunkový cyklus v Gi fáze"
+      "H": "v prípade nedostatku potravy alebo za iných nepriaznivých podmienok zastaví bunkový cyklus v G1 fáze"
     },
     "correct": [
       "E",
@@ -3275,7 +3289,7 @@
     "options": {
       "A": "výsledkom spermatogenézy sú 4 haploidné spermie",
       "B": "spermatogenéza je rovnocenné delenie",
-      "C": "oogenéza j e rovnocenné delenie",
+      "C": "oogenéza je rovnocenné delenie",
       "D": "výsledkom oogenézy sú 4 haploidné vajíčka",
       "E": "oogenéza nie je rovnocenné delenie",
       "F": "ženy sa rodia s konštantným počtom primárnych oocytov",
@@ -3349,8 +3363,8 @@
     "id": 175,
     "question": "Zaraďovanie deoxyribonukleotidtrifosfátov do polynukleotidového reťazca DNA pomocou DNA polymerázy je v smere:",
     "options": {
-      "A": "3‘^5‘",
-      "B": "5‘^3‘",
+      "A": "3‘→ 5‘",
+      "B": "5‘→ 3‘",
       "C": "v smere hodinových ručičiek",
       "D": "proti smeru hodinových ručičiek",
       "E": "v smere doprava od začiatku replikácie",
@@ -3408,7 +3422,7 @@
       "A": "jedna aminokyselina kóduje viacero kodónov",
       "B": "jeden triplet kóduje viacero kodónov",
       "C": "jeden kodón kóduje viacero tripletov",
-      "D": "viacero kodónov kóduj e j ednu bielkovinu",
+      "D": "viacero kodónov kóduje jednu bielkovinu",
       "E": "jedna aminokyselina je kódovaná viacerými kodónmi",
       "F": "nie je rovnaký u všetkých živočíšnych druhov",
       "G": "viacero kodónov kóduje jednu aminokyselinu",
@@ -3497,14 +3511,14 @@
     "id": 183,
     "question": "Aký je smer syntézy mRNA?",
     "options": {
-      "A": "na DNA vlákne začína v smere 3‘ -> 5‘",
-      "B": "novosyntetizovaná mRNA sa tvorí v smere 5 ‘ ^ 3 ‘",
-      "C": "na DNA vlákne j e v smere 5 ‘ ^ 3 ‘",
-      "D": "novosyntetizovaná mRNA sa tvorí v smere 3‘->5‘",
+      "A": "na DNA vlákne začína v smere 3‘ → 5‘",
+      "B": "novosyntetizovaná mRNA sa tvorí v smere 5‘→3‘",
+      "C": "na DNA vlákne je v smere 5‘→3‘",
+      "D": "novosyntetizovaná mRNA sa tvorí v smere 3‘→5‘",
       "E": "replikačná vidlica ide v oboch smeroch",
-      "F": "RNA polymeráza syntetizuje v smere 5‘->3‘",
-      "G": "DNA polymeráza syntetizuje v smere 5‘^3‘",
-      "H": "RNA polymeráza syntetizuje v smere 3‘-^5‘"
+      "F": "RNA polymeráza syntetizuje v smere 5‘→3‘",
+      "G": "DNA polymeráza syntetizuje v smere 5‘→3‘",
+      "H": "RNA polymeráza syntetizuje v smere 3‘→5‘"
     },
     "correct": [
       "A",
@@ -3687,7 +3701,14 @@
     "id": 193,
     "question": "Na základe komplementarity báz sa tymín viaže s:",
     "options": {
-      "A": "b) c) d) e) f) g) h)"
+      "A": "anedínom",
+      "B": "guanínom",
+      "C": "uracilom",
+      "D": "uracilom alebo guanínom",
+      "E": "adenínom",
+      "F": "cytozínom alebo adenínom",
+      "G": "tymínom alebo uracilom",
+      "H": "tymínom"
     },
     "correct": [
       "E"
@@ -3697,14 +3718,14 @@
     "id": 194,
     "question": "Aké sú antikodóny v tRNA k úseku mRNA CGAUAUCGUGCU?",
     "options": {
-      "A": "CGUUTUCGUGCU",
-      "B": "GCUAUAGCUCGA",
-      "C": "CGAUAUCGUGCU",
-      "D": "GCTATAGCACGA",
-      "E": "CGATATCGTGCT",
-      "F": "GCUAUACGACGA",
-      "G": "CGTATACGTGCA",
-      "H": "GCUATAGCACGA"
+      "A": "CGU UTU CGU GCU",
+      "B": "GCU AUA GCU CGA",
+      "C": "CGA UAU CGU GCU",
+      "D": "GCT ATA GCA CGA",
+      "E": "CGA TAT CGT GCT",
+      "F": "GCU AUA CGA CGA",
+      "G": "CGT ATA CGT GCA",
+      "H": "GCU ATA GCA CGA"
     },
     "correct": []
   },
@@ -3713,8 +3734,12 @@
     "question": "Komplementárne vlákno DNA má oproti adenínu v reťazci bázu:",
     "options": {
       "A": "adenín",
-      "B": "tymín alebo guanín c) guanín",
-      "D": "uracil alebo guanín e) tymín alebo uracil f) tymín alebo guanín g) adenín a guanín",
+      "B": "tymín alebo guanín",
+      "C": "guanín",
+      "D": "uracil alebo guanín",
+      "E": "tymín alebo uracil",
+      "F": "tymín alebo guanín",
+      "G": "adenín a guanín",
       "H": "tymín alebo adenín"
     },
     "correct": []
@@ -3723,14 +3748,14 @@
     "id": 196,
     "question": "Komplementárne vlákno k úseku DNA GGG ATC TTC GAA je:",
     "options": {
-      "A": "CCCTACAAGCTT",
-      "B": "CCCUAGAAGCUU",
-      "C": "GGGTACAACGTT",
-      "D": "CGCTAGAAGCTT",
-      "E": "GGGUAGAACGUU",
+      "A": "CCC TAC AAG CTT",
+      "B": "CCC UAG AAG CUU",
+      "C": "GGG TAC AAC GTT",
+      "D": "CGC TAG AAG CTT",
+      "E": "GGG UAG AAC GUU",
       "F": "GGG ATC TTC GAA",
-      "G": "CCCTAGAAGCTT",
-      "H": "AAATACCCACTT"
+      "G": "CCC TAG AAG CTT",
+      "H": "AAA TAC CCA CTT"
     },
     "correct": [
       "G"
@@ -3740,7 +3765,14 @@
     "id": 197,
     "question": "Genetická informácia sa z DNA transkripciou prepisuje do:",
     "options": {
-      "A": "b) c) d) e) f) g) h)"
+      "A": "sRNA",
+      "B": "štruktúrnych génov",
+      "C": "tRNA",
+      "D": "mRNA",
+      "E": "informačnej RNA",
+      "F": "rRNA",
+      "G": "informačnej DNA",
+      "H": "poradia aminokyselín"
     },
     "correct": [
       "D",
@@ -3873,7 +3905,10 @@
       "B": "4",
       "C": "5",
       "D": "6",
-      "E": "8"
+      "E": "8",
+      "F": "7",
+      "G": "2",
+      "H": "9"
     },
     "correct": [
       "H"
@@ -3901,14 +3936,14 @@
     "id": 206,
     "question": "Aký bol úsek štruktúrneho génu, keď poradie báz v mRNA je CGA UAU CGU GCU?",
     "options": {
-      "A": "UCGUGCUAUUCG",
-      "B": "CGATATCG",
-      "C": "AGCACGAUAUCG",
+      "A": "UCG UGC UAU UCG",
+      "B": "CGA TAT CG",
+      "C": "AGC ACG AUA UCG",
       "D": "CGA UAU CGU GCU",
-      "E": "CGATATCGTGCT",
-      "F": "GCTATAGCACGA",
-      "G": "CGTUTUCGUCCU",
-      "H": "GCTTATGCTCGT"
+      "E": "CGA TAT CGT GCT",
+      "F": "GCT ATA GCA CGA",
+      "G": "CGT UTU CGU CCU",
+      "H": "GCT TAT GCT CGT"
     },
     "correct": [
       "F"
@@ -3919,12 +3954,13 @@
     "question": "O syntéze RNA platí, že:",
     "options": {
       "A": "je katalyzovaná",
-      "B": "nie j e katalyzovaná",
+      "B": "nie je katalyzovaná",
       "C": "stavebným prvkom sú voľné ribonukleotidy",
       "D": "energiu dodáva ATP",
       "E": "energiu nedodáva ATP",
       "F": "je z chemického hľadiska podobná syntéze DNA",
-      "G": "RNA sa syntetizuje napr. v jadre, v mitochondriách, v chloroplastoch h) poradie nukleotidov je určené poradím báz v jednom z vlákien DNA"
+      "G": "RNA sa syntetizuje napr. v jadre, v mitochondriách, v chloroplastoch",
+      "H": "poradie nukleotidov je určené poradím báz v jednom z vlákien DNA"
     },
     "correct": [
       "A",
@@ -3962,7 +3998,8 @@
       "C": "DNA má päťuhlíkatý cukor, RNA má ribózu",
       "D": "sekundárnou štruktúrou",
       "E": "transkripciou",
-      "F": "molekulovou hmotnosťou g) matricou",
+      "F": "molekulovou hmotnosťou",
+      "G": "matricou",
       "H": "enzýmom, ktorý katalyzuje ich syntézu"
     },
     "correct": [
@@ -3977,11 +4014,11 @@
     "question": "Dusíková báza uracil sa nachádza:",
     "options": {
       "A": "len v mRNA",
-      "B": "len v jedno vláknovej DNA",
+      "B": "len v jednovláknovej DNA",
       "C": "len v DNA",
       "D": "len v RNA",
       "E": "v DNA aj v RNA",
-      "F": "vtRNA",
+      "F": "v tRNA",
       "G": "len v rRNA",
       "H": "iba v géne"
     },
@@ -3994,8 +4031,14 @@
     "id": 211,
     "question": "Správna komplementarita báz DNA - mRNA pri transkripcii je:",
     "options": {
-      "A": "C-A",
-      "B": "G-C c) T-A d) U-A e) C-G f) A-T g) A-U h) G-U"
+      "A": "C - A",
+      "B": "G - C",
+      "C": "T - A",
+      "D": "U - A",
+      "E": "C - G",
+      "F": "A - T",
+      "G": "A - U",
+      "H": "G – U"
     },
     "correct": [
       "B",
@@ -4028,14 +4071,14 @@
     "id": 213,
     "question": "Ak prepíšeme informáciu kodónov DNA 3‘ CGT GGA TCC AAT 5‘ do kodónov mRNA dostaneme:",
     "options": {
-      "A": "3‘GCU CCA UGG AAU 5‘",
-      "B": "5‘GCACCT AGGTTA3‘",
-      "C": "3‘AUUGGAUCCACG5‘",
-      "D": "5‘GCCCCT AGGTTA3‘",
-      "E": "3 ‘ CGT GGA TCC AAU 5 ‘",
-      "F": "5‘GCACCUAGGUUA3‘",
+      "A": "3‘ GCU CCA UGG AAU 5‘",
+      "B": "5‘ GCA CCT AGG TTA 3‘",
+      "C": "3‘ AUU GGA UCC ACG 5‘",
+      "D": "5‘ GCC CCT AGG TTA 3‘",
+      "E": "3‘ CGT GGA TCC AAU 5‘",
+      "F": "5‘ GCA CCU AGG UUA 3‘",
       "G": "5‘ CGU GGA UCC AAU 3‘",
-      "H": "5 ‘ CGA GGA UCC AAU 3 ‘"
+      "H": "5‘ CGA GGA UCC AAU 3‘"
     },
     "correct": [
       "C",
@@ -4046,13 +4089,13 @@
     "id": 214,
     "question": "Aká je štruktúra komplementárnej časti druhého vlákna DNA k úseku reťazca 3‘ AGA TCC GGG TTT 5‘ ?",
     "options": {
-      "A": "3‘GAGCTT AAACCC5‘",
-      "B": "3‘TCTAGGCCC AAA5‘",
-      "C": "5‘TCTUGGCCCUUU3‘",
-      "D": "5 ‘ TCTAGGCCC AAA3‘",
-      "E": "3‘AGA TCC GGG TTT 5 ‘",
-      "F": "5‘ TCTAGGCCC ATA3‘",
-      "G": "5‘AAACCCCGATCT3‘",
+      "A": "3‘ GAG CTT AAA CCC 5‘",
+      "B": "3‘ TCT AGG CCC AAA 5‘",
+      "C": "5‘ TCT UGG CCC UUU 3‘",
+      "D": "5‘ TCT AGG CCC AAA 3‘",
+      "E": "3‘ AGA TCC GGG TTT 5‘",
+      "F": "5‘ TCT AGG CCC ATA 3‘",
+      "G": "5‘ AAA CCC CGA TCT 3‘",
       "H": "3‘ AAA CCC GGA TCT 5‘"
     },
     "correct": [
@@ -4104,7 +4147,7 @@
       "D": "riRNA",
       "E": "rRNA",
       "F": "ribozómy",
-      "G": "IncRNA",
+      "G": "lncRNA",
       "H": "miRNA"
     },
     "correct": [
@@ -4117,10 +4160,10 @@
     "question": "Matricou pre transkribovanú RNA je:",
     "options": {
       "A": "vlákno RNA",
-      "B": "vlákno 3‘^ 5‘ DNA",
-      "C": "vlákno 5‘^ 3‘ DNA",
+      "B": "vlákno 3‘→ 5‘ DNA",
+      "C": "vlákno 5‘→ 3‘ DNA",
       "D": "vlákno DNA, nezáleží v ktorom smere je orientované",
-      "E": "vlákno 3‘ ^ 5‘ RNA",
+      "E": "vlákno 3‘ → 5‘ RNA",
       "F": "DNA polymeráza",
       "G": "RNA polymeráza",
       "H": "ribozóm"
@@ -4140,7 +4183,7 @@
       "E": "u niektorých nebunkových organizmov",
       "F": "RNA baktérií",
       "G": "u prokaryotických organizmov",
-      "H": "uplazmidov"
+      "H": "u plazmidov"
     },
     "correct": [
       "B",
@@ -4153,7 +4196,8 @@
     "options": {
       "A": "patria k základným makromolekulárnym látkam živých sústav",
       "B": "vznikajú spájaním nukleotidov",
-      "C": "nesú genealogickú informáciu, alebo sa podieľajú na jej realizácii d) obsahujú tri typy dusíkových báz a jeden typ cukru",
+      "C": "nesú genealogickú informáciu, alebo sa podieľajú na jej realizácii",
+      "D": "obsahujú tri typy dusíkových báz a jeden typ cukru",
       "E": "vždy obsahujú päťuhlíkatý cukor",
       "F": "obsahujú päť- alebo šesťuhlíkatý cukor",
       "G": "nesú genetickú informáciu, alebo sa podieľajú na jej realizácii",
@@ -4188,14 +4232,14 @@
     "id": 222,
     "question": "Ak sú tRNA antikodóny GCA a GUA, aká bola sekvencia DNA v štruktúrnom géne?",
     "options": {
-      "A": "CGTCTA",
-      "B": "CGUCAU",
-      "C": "CGACUA",
-      "D": "GCTGAT",
-      "E": "GCUGTU",
-      "F": "UUUAAA",
-      "G": "GCAGAA",
-      "H": "GCAGTA"
+      "A": "CGT CTA",
+      "B": "CGU CAU",
+      "C": "CGA CUA",
+      "D": "GCT GAT",
+      "E": "GCU GTU",
+      "F": "UUU AAA",
+      "G": "GCA GAA",
+      "H": "GCA GTA"
     },
     "correct": [
       "H"
@@ -4329,12 +4373,12 @@
     "options": {
       "A": "DNA polymeráza syntetizuje nové vlákno v opačnom smere ako RNA polymeráza",
       "B": "DNA polymeráza syntetizuje nové vlákno v rovnakom smere ako RNA polymeráza",
-      "C": "DNA polymeráza syntetizuje nové vlákno v smere 3'^5'",
-      "D": "DNA primáza syntetizuje nové vlákno v smere 3'^5'",
-      "E": "DNA primáza syntetizuje nové vlákno v smere 5'^3' rovnako ako RNA primáza",
-      "F": "DNA polymeráza syntetizuje nové vlákno v smere 5'-> 3'",
-      "G": "DNA primáza syntetizuje nové vlákno v smere 5'^3'",
-      "H": "DNA primáza syntetizuje nové vlákno v smere 3'^5' rovnako ako RNA primáza"
+      "C": "DNA polymeráza syntetizuje nové vlákno v smere 3´→ 5´",
+      "D": "DNA primáza syntetizuje nové vlákno v smere 3´→ 5´",
+      "E": "DNA primáza syntetizuje nové vlákno v smere 5´→ 3´ rovnako ako RNA primáza",
+      "F": "DNA polymeráza syntetizuje nové vlákno v smere 5´→ 3´",
+      "G": "DNA primáza syntetizuje nové vlákno v smere 5´→ 3´",
+      "H": "DNA primáza syntetizuje nové vlákno v smere 3´→ 5´ rovnako ako RNA primáza"
     },
     "correct": [
       "B",
@@ -4345,10 +4389,14 @@
     "id": 231,
     "question": "Uveďte jednotlivé možnosti komplementarity báz tRNA a rRNA:",
     "options": {
-      "A": "tRNA: AU G C AU rRNA: UCAUUC",
-      "B": "tRNA: UGACAU rRNA: CUGGCG",
-      "C": "tRNA: AU G GAG rRNA: UACCUC",
-      "D": "tRNA: ACGAAU"
+      "A": "tRNA: A U G C A U rRNA: U C A U U C",
+      "B": "tRNA: U G A C A U rRNA: C U G G C G",
+      "C": "tRNA: A U G G A G rRNA: U A C C U C",
+      "D": "tRNA: A C G A A U rRNA: G U C U U A",
+      "E": "tRNA: A A C C C U rRNA: U U G G G A",
+      "F": "tRNA: G C U A G C rRNA: C G A U C G",
+      "G": "tRNA: U U A C G U rRNA: A A U C G A",
+      "H": "tRNA: U A A C A U rRNA: A A U C A A"
     },
     "correct": []
   },
@@ -4451,7 +4499,7 @@
     "id": 237,
     "question": "Aké typy RNA poznáme?",
     "options": {
-      "A": "infonnátorová DNA",
+      "A": "informátorová DNA",
       "B": "mediátorová RNA",
       "C": "transferová RNA",
       "D": "ribozómová RNA",
@@ -4582,14 +4630,14 @@
     "id": 244,
     "question": "Uveďte jednotlivé možnosti komplementarity báz tRNA a mRNA:",
     "options": {
-      "A": "tRNA: AU G C AU mRNA: U C A U U C",
-      "B": "tRNA: UGACAU mRNA: CUGGCG",
-      "C": "tRNA: AUGGAG mRNA: U A C C U C",
-      "D": "tRNA: ACGAAU mRNA: G U C U U A",
-      "E": "tRNA: AACCCU mRNA: U U G G G A",
+      "A": "tRNA: A U G C A U mRNA: U C A U U C",
+      "B": "tRNA: U G A C A U mRNA: C U G G C G",
+      "C": "tRNA: A U G G A G mRNA: U A C C U C",
+      "D": "tRNA: A C G A A U mRNA: G U C U U A",
+      "E": "tRNA: A A C C C U mRNA: U U G G G A",
       "F": "tRNA: G C U A G C mRNA: C G A U C G",
-      "G": "tRNA: UUACGU mRNA: A A U C G A",
-      "H": "tRNA: UAACAU mRNA: A A U C A A"
+      "G": "tRNA: U U A C G U mRNA: A A U C G A",
+      "H": "tRNA: U A A C A U mRNA: A A U C A A"
     },
     "correct": [
       "C",
@@ -4683,7 +4731,10 @@
       "B": "na určitom mieste jedného reťazca nukleotid s dusíkovou bázou tymínom, naproti vždy leží nukleotid s cytozínom",
       "C": "v jednom reťazci purínová dusíková báza, v druhom reťazci naproti nej je báza pyrimidínová",
       "D": "na určitom mieste jedného reťazca nukleotid s dusíkovou bázou adenínom, v druhom reťazci naproti nemu leží vždy nukleotid s cytozínom",
-      "E": "na určitom mieste jedného reťazca nukleotid s dusíkovou bázou tymínom,"
+      "E": "na určitom mieste jedného reťazca nukleotid s dusíkovou bázou tymínom, v druhom reťazci naproti nemu leží nukleotid s uracilom",
+      "F": "na určitom mieste jedného reťazca nukleotid s dusíkovou bázou adenínom, v druhom reťazci naproti nemu leží nukleotid s tymínom",
+      "G": "na určitom mieste jedného reťazca nukleotid s dusíkovou bázou guanínom, v druhom reťazci naproti nemu leží nukleotid s cytozínom",
+      "H": "na určitom mieste jedného reťazca nukleotid s dusíkovou bázou adenínom, v druhom reťazci naproti nemu leží nukleotid s uracilom"
     },
     "correct": [
       "A",
@@ -4716,9 +4767,9 @@
     "options": {
       "A": "do polynukleotidových reťazcov",
       "B": "do krátkych polypeptidových reťazcov",
-      "C": "prostredníctvom ťosfodiesterovej väzby",
+      "C": "prostredníctvom fosfodiesterovej väzby",
       "D": "prostredníctvom N-glykozidovej väzby",
-      "E": "prostredníctvom ťosfotriesterovej väzby",
+      "E": "prostredníctvom fosfotriesterovej väzby",
       "F": "do terciárnej štruktúry",
       "G": "do kvartérnej štruktúry",
       "H": "do štyroch polypeptidových reťazcov"
@@ -4757,7 +4808,7 @@
       "A": "obsahuje tymín namiesto uracilu",
       "B": "môže mať sekundárnu štruktúru",
       "C": "uracil je iba v mRNA",
-      "D": "párovanie báz na základe komplementarity v nej umožňuje vznik dvoj vláknových úsekov",
+      "D": "párovanie báz na základe komplementarity v nej umožňuje vznik dvojvláknových úsekov",
       "E": "uracil sa v nej nenachádza",
       "F": "jeden polynukleotidový reťazec sa skladá do rôznych tvarov",
       "G": "jeden polynukleozidový reťazec sa stáča do rôznych tvarov",
@@ -4833,7 +4884,7 @@
     "options": {
       "A": "prenášajú veľmi presne, tak ako jadrové gény",
       "B": "neprenášajú",
-      "C": "prenášaj ú tak ako j adrové gény",
+      "C": "prenášajú tak ako jadrové gény",
       "D": "prenášajú menej presne ako jadrové gény",
       "E": "nikdy neprenášajú",
       "F": "prenášajú koordinovane",
@@ -4851,13 +4902,13 @@
     "question": "O syntéze bielkovín môžeme správne tvrdiť, že:",
     "options": {
       "A": "nazývame ju proteosyntéza",
-      "B": "matricou j e molekula mRNA",
+      "B": "matricou je molekula mRNA",
       "C": "matricou je ribozómová RNA",
       "D": "umožňuje ju tRNA, ktorá sprostredkováva interakciu medzi mRNA a aminokyselinami",
       "E": "pred syntézou polypeptidového reťazca sa voľné aminokyseliny spoja s prislúchajúcimi tRNA",
       "F": "tvorba bielkovín závisí od syntézy ribonukleových kyselín",
       "G": "tvorba bielkovín závisí od syntézy DNA",
-      "H": "katalyzujú ju špecifické enzýmy - glykánsyntetázy"
+      "H": "katalyzujú ju špecifické enzýmy – glykánsyntetázy"
     },
     "correct": [
       "A",
@@ -4876,6 +4927,7 @@
       "C": "počas embryonálneho vývinu",
       "D": "po narodení dieťaťa",
       "E": "počas adolescencie",
+      "F": "počas postnatálneho obdobia",
       "G": "počas prenatálneho obdobia",
       "H": "počas starnutia"
     },
@@ -4889,11 +4941,12 @@
     "id": 260,
     "question": "Akú krvnú skupinu môže mať dieťa, keď matka má krvnú skupinu 0 a otec A?",
     "options": {
-      "A": "A s genotypom A A, ak je otec homozygot",
+      "A": "A s genotypom AA, ak je otec homozygot",
       "B": "0 s genotypom 00, ak je otec homozygot",
       "C": "A s genotypom A0, ak je otec homozygot",
-      "D": "B s genotypom BO, ak je otec heterozygot",
-      "E": "A s genotypom A A ak je otec heterozygot",
+      "D": "B s genotypom B0, ak je otec heterozygot",
+      "E": "A s genotypom AA ak je otec heterozygot",
+      "F": "0 s genotypom 00, ak je otec heterozygot",
       "G": "A alebo 0, ak je otec heterozygot",
       "H": "A alebo 0, ak je otec homozygot"
     },
@@ -4970,7 +5023,7 @@
   },
   {
     "id": 265,
-    "question": "Krvné skupiny sústavy ABO sa na Slovensku vyskytujú:",
+    "question": "Krvné skupiny sústavy AB0 sa na Slovensku vyskytujú:",
     "options": {
       "A": "najčastejšie krvná skupina A",
       "B": "najčastejšie krvná skupina B",
@@ -4990,7 +5043,10 @@
     "id": 266,
     "question": "Koľko % obyvateľov má na Slovensku krvnú skupinu B?",
     "options": {
-      "A": "31,5% b) 21,5% c) 41,5% d) 37,8%",
+      "A": "31,5%",
+      "B": "21,5%",
+      "C": "41,5%",
+      "D": "37,8%",
       "E": "18%",
       "F": "6,6%",
       "G": "85%",
@@ -5097,7 +5153,7 @@
     "id": 272,
     "question": "Akú krvnú skupinu môže mať dieťa, ak otec má krvnú skupinu 0 a matka A?",
     "options": {
-      "A": "A s genotypom A A, ak je otec heterozygot",
+      "A": "A s genotypom AA, ak je otec heterozygot",
       "B": "A alebo 0, ak je matka homozygot",
       "C": "0 s genotypom 00, ak je matka homozygot"
     },
@@ -5113,8 +5169,8 @@
     "options": {
       "A": "pozorujeme zmenu štruktúry chromozómov",
       "B": "telová bunka má viac alebo menej chromozómov ako 2n",
-      "C": "sa nemenia j ednotlivé gény",
-      "D": "sa menia j ednotlivé úseky chromozómu",
+      "C": "sa nemenia jednotlivé gény",
+      "D": "sa menia jednotlivé úseky chromozómu",
       "E": "sa nemení počet jednotlivých chromozómov a sád",
       "F": "prokaryotická bunka má viac alebo menej chromozómov ako 2n",
       "G": "sa mení počet chromozómov v bunke",
@@ -5132,7 +5188,8 @@
     "question": "Čo je genetika?",
     "options": {
       "A": "veda o dedičnosti a premenlivosti živých organizmov",
-      "B": "veda, ktorá študuje iba vplyvy vonkajšieho prostredia na genetickú podstatu bunky c) veda o premenlivosti nebunkových a mnohobunkových organizmov",
+      "B": "veda, ktorá študuje iba vplyvy vonkajšieho prostredia na genetickú podstatu bunky",
+      "C": "veda o premenlivosti nebunkových a mnohobunkových organizmov",
       "D": "veda o zákonoch rozmnožovania živých otvorených sústav",
       "E": "veda o chorobách",
       "F": "veda o vývine organizmov",
@@ -5173,7 +5230,7 @@
       "E": "otec nemôže preniesť daný znak na syna",
       "F": "patria sem napríklad hemofília a daltonizmus",
       "G": "patrí sem napríklad daltonizmus a galaktozémia",
-      "H": "patrí sem napríklad cystická fíbróza"
+      "H": "patrí sem napríklad cystická fibróza"
     },
     "correct": [
       "A",
@@ -5206,9 +5263,9 @@
     "id": 278,
     "question": "Zdraví manželia majú dvoch synov, jeden z nich je daltonik. Aké sú genotypy obidvoch manželov?",
     "options": {
-      "A": "XXxXY",
+      "A": "XX x XY",
       "B": "XdX x XdY",
-      "C": "XdXdxXY",
+      "C": "XdXd x XY",
       "D": "matka nemá vlohu pre daltonizmus, otec je prenášačom",
       "E": "matka je prenášačka, otec nemá vlohu pre daltonizmus",
       "F": "matka nemá vlohu pre daltonizmus, otec je zdravý",
@@ -5231,7 +5288,7 @@
       "E": "50%:50%",
       "F": "75%:25%",
       "G": "25%:50%:25%",
-      "H": "všetci jedinci budú ťenotypovo rovnakí"
+      "H": "všetci jedinci budú fenotypovo rovnakí"
     },
     "correct": [
       "H"
@@ -5296,7 +5353,10 @@
       "B": "homozygotne B, ak je matka homozygot",
       "C": "homozygotne A, bez ohľadu na genotyp matky",
       "D": "AB, bez ohľadu na genotyp matky",
-      "E": "B, ak je matka heterozygot"
+      "E": "B, ak je matka heterozygot",
+      "F": "heterozygotne A, bez ohľadu na genotyp matky",
+      "G": "homozygotne B, ak je matka heterozygot",
+      "H": "0, ak je matka heterozygot"
     },
     "correct": [
       "C",
@@ -5424,7 +5484,7 @@
     "id": 290,
     "question": "Súbor všetkých génov v jednej bunke sa nazýva:",
     "options": {
-      "A": "genotyp ujednobunkovcov",
+      "A": "genotyp u jednobunkovcov",
       "B": "genóm",
       "C": "genozóm",
       "D": "genotyp u mnohobunkovcov",
@@ -5593,7 +5653,7 @@
     "id": 299,
     "question": "Génové mutácie:",
     "options": {
-      "A": "menia j ednotlivé gény",
+      "A": "menia jednotlivé gény",
       "B": "menia jednotlivé nukleotidy v sekvencii DNA",
       "C": "menia poradie alebo počet nukleotidov",
       "D": "dochádza pri nich napr. k strate jedného alebo niekoľkých nukleotidov",
@@ -5696,7 +5756,7 @@
       "C": "B s pravdepodobnosťou 75%",
       "D": "B s pravdepodobnosťou 50%",
       "E": "A s pravdepodobnosťou 50%",
-      "F": "As pravdepodobnosťou 25%",
+      "F": "A s pravdepodobnosťou 25%",
       "G": "AB s pravdepodobnosťou 100%",
       "H": "AB s pravdepodobnosťou 0%"
     },
@@ -5789,7 +5849,8 @@
     "options": {
       "A": "v potomstve jasne rozlíšiteľný pri krížení génov s neúplnou dominanciou",
       "B": "súbor všetkých kvalitatívnych a kvantitatívnych znakov živého organizmu",
-      "C": "súbor všetkých znakov živého organizmu, ktoré sú vyjadrením genotypu a prostredia d) v potomstve jasne rozlíšiteľný pri krížení alel s neúplnou dominanciou",
+      "C": "súbor všetkých znakov živého organizmu, ktoré sú vyjadrením genotypu a prostredia",
+      "D": "v potomstve jasne rozlíšiteľný pri krížení alel s neúplnou dominanciou",
       "E": "výsledný prejav všetkých dominantných génov živého organizmu",
       "F": "súbor všetkých recesívnych génov živého organizmu",
       "G": "súbor všetkých alel v populácii",
@@ -5866,7 +5927,7 @@
       "C": "dcéra daltoničky bude vždy daltonička",
       "D": "dcéra bude vždy prenášačka daltonizmu",
       "E": "dcéra bude prenášačka hemofílie",
-      "F": "dcéra môže byť hemofílička",
+      "F": "dcéra môže byť hemofilička",
       "G": "dcéra nikdy nebude mať symptómy ani jedného z ochorení",
       "H": "ochorenia sa prenášajú vždy iba na synov"
     },
@@ -5917,7 +5978,14 @@
     "id": 316,
     "question": "Ktorý z genotypov je heterozygot pre všetky znaky?",
     "options": {
-      "A": "b) c) d) e) f) g) h)"
+      "A": "AaBbCcDdEeFfgg",
+      "B": "AabbCcdd",
+      "C": "AABbCcDd",
+      "D": "AaBB",
+      "E": "Aa",
+      "F": "CcDdEeFfGgHh",
+      "G": "AabbCc",
+      "H": "AaBbCc"
     },
     "correct": [
       "E",
@@ -5987,7 +6055,7 @@
     "question": "Dcéra má krvnú skupinu 0 a syn má krvnú skupinu AB:",
     "options": {
       "A": "jedno z detí musí byť adoptované",
-      "B": "matka môže byť A0 a otec BO",
+      "B": "matka môže byť A0 a otec B0",
       "C": "matka môže byť heterozygotne A a otec heterozygotne B",
       "D": "matka môže byť AA",
       "E": "otec môže byť BB",
@@ -6005,11 +6073,11 @@
     "id": 321,
     "question": "Koľkými alelami je zastúpený každý gén v haploidnej bunke?",
     "options": {
-      "A": "viacerými pármi alel, napr. pri ABO systéme krvných skupín",
+      "A": "viacerými pármi alel, napr. pri AB0 systéme krvných skupín",
       "B": "dvomi dominantnými alelami, aby sa znak prejavil",
       "C": "dvomi recesívnymi alelami",
       "D": "jedným párom alel",
-      "E": "jednou alelou pre ABO systém krvných skupín",
+      "E": "jednou alelou pre AB0 systém krvných skupín",
       "F": "jednou dominantnou alebo jednou recesívnou alelou",
       "G": "jednou zdedenou alelou po otcovi alebo po matke",
       "H": "jednou pre každý gén"
@@ -6161,7 +6229,7 @@
     "question": "Karyotyp je:",
     "options": {
       "A": "mikroskopický obraz gonozómov prokaryotickej bunky, ktorý slúži na ich identifikáciu",
-      "B": "určenie morfologického typu j adra bunky",
+      "B": "určenie morfologického typu jadra bunky",
       "C": "schéma usporiadania génov",
       "D": "mapa sekvencie aminokyselín génov jadra",
       "E": "mikroskopický obraz chromozómových párov eukaryotickej bunky rozdelených do skupín podľa veľkosti, polohy centroméry a poradia génov",
@@ -6221,12 +6289,12 @@
     "question": "Z dvoch detí je syn hemofilik a dcéra homozygotne zdravá. Aké sú genotypy ich rodičov?",
     "options": {
       "A": "matka je homozygotne zdravá a otec chorý",
-      "B": "XhXhaXY",
+      "B": "XhXh a XY",
       "C": "XhX a XhY",
       "D": "XX a XhY",
       "E": "matka je prenášačka a otec zdravý",
       "F": "matka je prenášačka a otec chorý",
-      "G": "XhXaXY",
+      "G": "XhX a XY",
       "H": "matka je homozygotne zdravá a otec zdravý"
     },
     "correct": [
@@ -6251,7 +6319,7 @@
   },
   {
     "id": 334,
-    "question": "Pri krížení dvoch rôznych homozygotov (AA x aa), pri úplnej dominancii, je potomstvo v Fi:",
+    "question": "Pri krížení dvoch rôznych homozygotov (AA x aa), pri úplnej dominancii, je potomstvo v F1:",
     "options": {
       "A": "v pomere 1: 1",
       "B": "fenotypicky zhodné",
@@ -6313,7 +6381,7 @@
     "options": {
       "A": "typ drozofila (cicavčí, samička je XY) a typ abraxas (vtáčí)",
       "B": "typ drozofila (hmyzí) a typ abraxas (cicavčí)",
-      "C": "typ drozofda (cicavčí) a typ habrobrakon",
+      "C": "typ drozofila (cicavčí) a typ habrobrakon",
       "D": "typ drozofila (cicavčí, samička je XX) a typ abraxas (vtáčí, samička je XY)",
       "E": "typ ľudský (samička je XX) a typ cicavčí (samička je XX)",
       "F": "typ drozofila, kde je samček homogametný a samička heterogametná",
@@ -6430,9 +6498,7 @@
       "A": "viac typov aktívnych alel",
       "B": "pozitívnych a negatívnych alel",
       "C": "neutrálnych a aktívnych alel",
-      "D": "dvojice aktívnych alel",
-      "E": "génov „malého účinku\"",
-      "F": "génov „veľkého účinku\"",
+      "D": "dvojice aktívnych alel e) génov „malého účinku\" f) génov „veľkého účinku\"",
       "G": "génov pozitívnych",
       "H": "génov len neutrálneho účinku"
     },
@@ -6448,8 +6514,8 @@
       "A": "syn zdedil chorobu po otcovi",
       "B": "syn zdedil chorobu s chromozómom X od matky",
       "C": "syn môže niesť X chromozóm od otca s pravdepodobnosťou 50%",
-      "D": "matka nemohla byť hemofílička",
-      "E": "matka mohla byť hemofílička",
+      "D": "matka nemohla byť hemofilička",
+      "E": "matka mohla byť hemofilička",
       "F": "syn zdedil túto chorobu od starej matky z otcovej strany",
       "G": "syn zdedil chorú alelu od matky",
       "H": "syn toto ochorenie nemôže zdediť, lebo matka nie je farboslepá"
@@ -6503,8 +6569,8 @@
       "A": "heterozygotne A a homozygotne 0",
       "B": "AB a A0",
       "C": "heterozygotne A a kodominantne AB",
-      "D": "AOaBO",
-      "E": "BO a AB",
+      "D": "A0 a B0",
+      "E": "B0 a AB",
       "F": "homozygotne A a homozygotne B",
       "G": "00 a AA",
       "H": "heterozygotne A a heterozygotne B"
@@ -6619,7 +6685,7 @@
     "options": {
       "A": "genóm",
       "B": "genofond",
-      "C": "ťenotyp",
+      "C": "fenotyp",
       "D": "polygenóm",
       "E": "karyotyp",
       "F": "chromozómová mapa",
@@ -6673,8 +6739,7 @@
     "question": "Kvalitatívne znaky sú napríklad:",
     "options": {
       "A": "farba korunných lupienkov ruže",
-      "B": "intenzita metabolizmu",
-      "C": "sú podmienené jedným génom „veľkého” účinku",
+      "B": "intenzita metabolizmu c) sú podmienené jedným génom „veľkého” účinku",
       "D": "krvná skupina systému Rh",
       "E": "celkový fenotyp",
       "F": "tvar línie vlasov",
@@ -6694,7 +6759,7 @@
     "options": {
       "A": "aaAAAaaaAa",
       "B": "aaBBCcddEe",
-      "C": "eeFFGghhli",
+      "C": "eeFFGghhIi",
       "D": "bbCCDdeeFF",
       "E": "AaBbccDdee",
       "F": "AABBCCDDEE",
@@ -6828,9 +6893,9 @@
     "options": {
       "A": "vznikajú veľmi často, hlavne v kožných bunkách",
       "B": "sú zriedkavé",
-      "C": "ich frekvencia je W^až 10'^ na jeden gén ajednu generáciu",
+      "C": "ich frekvencia je 10-5až 10-10 na jeden gén a jednu generáciu",
       "D": "spôsobuje ich človek alebo iný činiteľ",
-      "E": "ich frekvencia je lO^až 10^ na jeden gén ajednu generáciu",
+      "E": "ich frekvencia je 1050až 1070 na jeden gén a jednu generáciu",
       "F": "vznikajú bez zásahu človeka",
       "G": "vznikajú po zámernom pôsobení indukovaného mutagénu",
       "H": "vznikajú náhodne"
@@ -6866,7 +6931,12 @@
     "question": "V potomstve kríženia dvoch heterozygotov (pri monohybridizme) je podiel heterozygotov:",
     "options": {
       "A": "50%",
-      "B": "25% c) 75% d) 100% e) polovičný f) jedna štvrtina g) tri štvrtiny",
+      "B": "25%",
+      "C": "75%",
+      "D": "100%",
+      "E": "polovičný",
+      "F": "jedna štvrtina",
+      "G": "tri štvrtiny",
       "H": "rovnaký ako u homozygotov dominantných"
     },
     "correct": [
@@ -6922,7 +6992,8 @@
       "D": "prvé dieťa bude zdravé, u druhého je automaticky šanca 50%, že bude mať dominantný znak",
       "E": "nikdy nebude zdravé",
       "F": "bude zdravé na 50%",
-      "G": "keďže žena je dominantný homozygot, tak dieťa bude na 50% niesť dominantný znak h) černoch"
+      "G": "keďže žena je dominantný homozygot, tak dieťa bude na 50% niesť dominantný znak",
+      "H": "černoch"
     },
     "correct": [
       "B",
@@ -6973,9 +7044,10 @@
     "options": {
       "A": "je jedinec, ktorého obidvaja rodičia mohli byť heterozygotmi",
       "B": "je jedinec, ktorý vznikne pri krížení dominantného a recesívneho homozygota",
-      "C": "je jedinec, ktorý nemôže vzniknúť krížením recesívneho homozygota s heterozygotom d) je jedinec, ktorý môže vzniknúť pri krížení dominantného homozygota s heterozygotom",
+      "C": "je jedinec, ktorý nemôže vzniknúť krížením recesívneho homozygota s heterozygotom",
+      "D": "je jedinec, ktorý môže vzniknúť pri krížení dominantného homozygota s heterozygotom",
       "E": "je jedinec, ktorý vznikne pri krížení heterozygota s recesívnym homozygotom s pravdepodobnosťou 75%",
-      "F": "je jedinec s genotypom krvnej skupiny BO",
+      "F": "je jedinec s genotypom krvnej skupiny B0",
       "G": "vzniká s pravdepodobnosťou 50% pri krížení dvoch heterozygotov",
       "H": "jeho vznik pri krížení recesívneho homozygota s heterozygotom je rovnako pravdepodobný ako vznik dominantného homozygota"
     },
@@ -7014,7 +7086,9 @@
       "C": "CCDDEE je recesívny homozygot pre všetky 3 sledované znaky",
       "D": "eeFF, tak znázorňuje dihybrida",
       "E": "BbCC, tak znázorňuje tetrahybrida",
-      "F": "CCdd je recesívny homozygot pre prvý znak a dominantný homozygot pre druhý znak g) AABB znamená to, že obaja rodičia mali krvnú skupinu kodominantne AB h) AaBbCCDdEeFf je heterozygot pre všetky uvedené znaky"
+      "F": "CCdd je recesívny homozygot pre prvý znak a dominantný homozygot pre druhý znak",
+      "G": "AABB znamená to, že obaja rodičia mali krvnú skupinu kodominantne AB",
+      "H": "AaBbCCDdEeFf je heterozygot pre všetky uvedené znaky"
     },
     "correct": [
       "A",
@@ -7101,7 +7175,7 @@
     "question": "U starej matky sa vyskytol autozomálne dominantný znak s úplnou dominanciou. Jej dcéra tento znak má (Aa). Aká je pravdepodobnosť, že vnúča bude mať tento znak ak je jeho otec heterozygot pre daný znak?",
     "options": {
       "A": "polovičný",
-      "B": "troj štvrtinový",
+      "B": "trojštvrtinový",
       "C": "0%",
       "D": "100%",
       "E": "nebude ho mať",
@@ -7191,9 +7265,9 @@
     "question": "Obidve sestry majú krvnú skupinu B. Aké môžu byť genotypy ich rodičov?",
     "options": {
       "A": "BB a BB",
-      "B": "ABaBB",
-      "C": "A0 a BO",
-      "D": "OOaBB",
+      "B": "AB a BB",
+      "C": "A0 a B0",
+      "D": "00 a BB",
       "E": "heterozygotne A a heterozygotne B",
       "F": "homozygotne 0 a heterozygotne B",
       "G": "heterozygotne B a heterozygotne B",
@@ -7250,7 +7324,7 @@
     "options": {
       "A": "je rovnaká u synov aj u dcér",
       "B": "všetky dcéry budú farboslepé",
-      "C": "všetky dcéry budú rozlišovať farby nonnálne",
+      "C": "všetky dcéry budú rozlišovať farby normálne",
       "D": "synovia aj dcéry budú farboslepí",
       "E": "všetci synovia budú farboslepí",
       "F": "synovia budú farboslepí aj normálne vidiaci s rovnakou pravdepodobnosťou",
@@ -7303,7 +7377,14 @@
     "id": 390,
     "question": "Ktorý genotyp je recesívny homozygot?",
     "options": {
-      "A": "b) c) d) e) 0 g) h)"
+      "A": "BbCc",
+      "B": "AABB",
+      "C": "aaBb",
+      "D": "aabbcc",
+      "E": "dd",
+      "F": "AaBbCc",
+      "G": "aabb",
+      "H": "ccdd"
     },
     "correct": [
       "D",
@@ -7316,14 +7397,14 @@
     "id": 391,
     "question": "Sestra má krvnú skupinu A, jej brat má krvnú skupinu B. Genotypy krvných skupín rodičov môžu byť:",
     "options": {
-      "A": "AA a BO",
-      "B": "ABaBO",
+      "A": "AA a B0",
+      "B": "AB a B0",
       "C": "00 a AB",
-      "D": "AOaBO",
+      "D": "A0 a B0",
       "E": "AB a AB",
       "F": "00 a A0",
       "G": "AB a 00",
-      "H": "AOaAB"
+      "H": "A0 a AB"
     },
     "correct": [
       "B",
@@ -7345,7 +7426,7 @@
       "E": "môžu tvoriť dve recesívne alely",
       "F": "je zhodný s genómom",
       "G": "je od jedného rodičovského organizmu",
-      "H": "obsahuje jednu ťunkčnú a jednu morfologickú alelu"
+      "H": "obsahuje jednu funkčnú a jednu morfologickú alelu"
     },
     "correct": [
       "B",
@@ -7476,14 +7557,14 @@
     "id": 399,
     "question": "Gény D, E, F tvoria jednu väzbovú skupinu. Určte poradie týchto génov na chromozóme, ak medzi génmi D a E je 22% rekombinantov, medzi génmi D a F je 6% rekombinantov a medzi génmi E a F je 16% rekombinantov.",
     "options": {
-      "A": "poradie j e DEF",
-      "B": "poradie j e DFE",
-      "C": "poradie j e FED",
-      "D": "poradie j e FDE",
+      "A": "poradie je DEF",
+      "B": "poradie je DFE",
+      "C": "poradie je FED",
+      "D": "poradie je FDE",
       "E": "poradie sa nedá určiť",
-      "F": "poradie j e def",
-      "G": "poradie j e fed",
-      "H": "poradie j e fde"
+      "F": "poradie je def",
+      "G": "poradie je fed",
+      "H": "poradie je fde"
     },
     "correct": [
       "B"
@@ -7520,7 +7601,7 @@
       "E": "označuje sa symbolom „h“",
       "F": "označuje sa symbolom „h2“",
       "G": "ak je genotypová premenlivosť nulová, výsledný znak je podmienený výlučne prostredím",
-      "H": "ak h2=l, ide o znak ovplyvnený výlučne genotypom"
+      "H": "ak h2=1, ide o znak ovplyvnený výlučne genotypom"
     },
     "correct": [
       "A",
@@ -7636,8 +7717,8 @@
       "C": "brachydaktýlia je autozómovo recesívne ochorenie",
       "D": "hemofília je gonozómovo dominantné ochorenie",
       "E": "daltonizmus je gonozómovo recesívne ochorenie",
-      "F": "cystická fíbróza je gonozómovo recesívne ochorenie",
-      "G": "cystická fíbróza je autozómovo recesívne ochorenie",
+      "F": "cystická fibróza je gonozómovo recesívne ochorenie",
+      "G": "cystická fibróza je autozómovo recesívne ochorenie",
       "H": "brachydaktýlia je autozómovo dominantné ochorenie"
     },
     "correct": [
@@ -7655,11 +7736,11 @@
       "A": "schematické znázornenie genofondu",
       "B": "karyotyp",
       "C": "schematické znázornenie chromozómov, kde môžeme sledovať ich štruktúrne zmeny",
-      "D": "výsledok psychologického testu j edinca",
+      "D": "výsledok psychologického testu jedinca",
       "E": "hmotnosť chromozómu",
       "F": "schematické znázornenie alely",
       "G": "schematické znázornenie karyotypu znázorňujúce uloženie jednotlivých častí chromozómu",
-      "H": "odhad počtu chromozómov j edinca"
+      "H": "odhad počtu chromozómov jedinca"
     },
     "correct": [
       "C",
@@ -7759,12 +7840,12 @@
     "id": 414,
     "question": "Karyotyp muža s Downovým syndrómom zapíšeme ako:",
     "options": {
-      "A": "45,XY+3",
+      "A": "45, XY+3",
       "B": "45, XY+21",
       "C": "47, XY+21",
-      "D": "47,XY+3",
+      "D": "47, XY+3",
       "E": "46, XY+21",
-      "F": "46,XY+3",
+      "F": "46, XY+3",
       "G": "47, XX+21",
       "H": "46, XY+21"
     },
@@ -7796,7 +7877,7 @@
     "question": "Zámena bázy v polynukleotidovom reťazci, ktorá má za následok zámenu aminokyseliny v polypeptidovom reťazci s odlišnou funkciou výsledného proteínu sa nazýva:",
     "options": {
       "A": "komplementarita",
-      "B": "amplifíkácia",
+      "B": "amplifikácia",
       "C": "substitúcia",
       "D": "delécia",
       "E": "infiltrácia",
@@ -7968,7 +8049,9 @@
       "C": "manifestácia genotypu je dotvorená vplyvom vonkajšieho prostredia",
       "D": "finálny fenotyp je podmienený genotypom a faktormi vonkajšieho prostredia",
       "E": "faktory prostredia neovplyvňujú kvalitatívne znaky podmienené jedným génom",
-      "F": "faktory prostredia ovplyvňujú len heterozygotné genotypy / genotypy"
+      "F": "faktory prostredia ovplyvňujú len heterozygotné genotypy / genotypy v heterozygotnom stave",
+      "G": "je ich možné merať",
+      "H": "kategorizujeme ich opisom, resp. prítomnosťou / neprítomnosťou vo fenotype"
     },
     "correct": [
       "A",
@@ -8023,7 +8106,7 @@
       "B": "centroméra",
       "C": "teloméry",
       "D": "satelit",
-      "E": "chromatin",
+      "E": "chromatín",
       "F": "centroméra, teda sekundárna konstrikcia",
       "G": "teloméry, teda centrálne časti chromozómov",
       "H": "chromatída"
@@ -8097,7 +8180,7 @@
   },
   {
     "id": 432,
-    "question": "Šimpanz, evolučné najbližší príbuzný človeka, má v genóme 48 chromozómov. Ktoré z nasledujúcich tvrdení je pravdivé?",
+    "question": "Šimpanz, evolučne najbližší príbuzný človeka, má v genóme 48 chromozómov. Ktoré z nasledujúcich tvrdení je pravdivé?",
     "options": {
       "A": "ich spermie a vajíčka obsahujú 24 chromozómov",
       "B": "ich zygoty majú tesne po oplodnení 24 chromozómov, ktoré sa v prvých štádiách brázdenia endoreduplikujú, aby bol v celom organizme zachovaný počet chromozómov 48",
@@ -8124,7 +8207,10 @@
       "B": "základnou metódou štúdia mendelistickej dedičnosti je hybridizácia, teda nepohlavné kríženie",
       "C": "potomok vzniknutý krížením sa nazýva hybrid",
       "D": "vieme ich uplatniť na všetky znaky, ktoré sú geneticky podmienené",
-      "E": "vďaka Mendelovým zákonom je možné odhadnúť, koľko krížencov vznikne"
+      "E": "vďaka Mendelovým zákonom je možné odhadnúť, koľko krížencov vznikne v nasledujúcej generácii",
+      "F": "čím väčší súbor krížencov sa analyzuje, tým budú predikcie založené na Mendelových zákonoch presnejšie",
+      "G": "pomocou Mendelových zákonov vieme vypočítať alelické frekvencie v populácii",
+      "H": "Mendel pri svojich experimentoch používal čisté línie, teda heterozygotné pre každý sledovaný znak"
     },
     "correct": [
       "A",
@@ -8139,7 +8225,11 @@
       "A": "pre oba typy platí, že sú geneticky podmienené",
       "B": "oba typy znakov sú geneticky podmienené, teda v type ich dedičnosti nie je žiadny rozdiel",
       "C": "monogénové znaky sú podmienené jedným génom s minoritným účinkom",
-      "D": "manifestácia polygénneho znaku je podmienená interakciou viacerých génov"
+      "D": "manifestácia polygénneho znaku je podmienená interakciou viacerých génov s minoritným účinkom, avšak jednotlivé alely podieľajúce sa na tvorbe znaku majú spravidla negatívne dominantný efekt",
+      "E": "monogénne znaky sú kvantitatívne a polygénne sú hlavne kvalitatívne",
+      "F": "líšia sa typom variability, pre monogénne znaky je typickejšia variabilita s prechodmi, a pre polygénne znaky kontinuálna variabilita",
+      "G": "monogénne znaky sú geneticky podmienené, polygénne znaky sú podmienené jedným génom a vplyvom prostredia",
+      "H": "Mendelove zákony sa dajú uplatniť aj na monogénne aj na polygénne znaky"
     },
     "correct": [
       "A",
@@ -8216,7 +8306,7 @@
       "B": "genotypové štiepne pomery sú rovnaké ako pri úplnej dominancii",
       "C": "heterozygoti sú fenotypovo zhodní s jedným z rodičov",
       "D": "heterozygot nie je fenotypovo rozoznateľný od dominantného homozygota",
-      "E": "alely IA a IB v systéme ABO sú neúplne dominantné",
+      "E": "alely IA a IB v systéme AB0 sú neúplne dominantné",
       "F": "genotypové štiepne pomery sú 1:2:1",
       "G": "fenotypové štiepne pomery sú 1:2:1",
       "H": "môže to byť intermediarita"
@@ -8232,8 +8322,8 @@
     "id": 439,
     "question": "Ktoré tvrdenia sú pravdivé?",
     "options": {
-      "A": "alela IAje kodominantná voči alele i",
-      "B": "krvný systém ABO je geneticky podmienený",
+      "A": "alela IA je kodominantná voči alele i",
+      "B": "krvný systém AB0 je geneticky podmienený",
       "C": "pri pokusných kríženiach nie je od seba možné odlíšiť intermediaritu a kodominanciu",
       "D": "Mendelové zákony môžeme uplatniť len pri diploidných cicavcoch",
       "E": "Mendelistická dedičnosť sa týka génov lokalizovaných na autozomóch",
@@ -8385,13 +8475,13 @@
   },
   {
     "id": 447,
-    "question": "Gény HLA kódujú proteíny hlavného histokompatibilného komplexu. Pri pokusnom krížení sa delegovali nasledovné frekvencie rekombinantov: 22% A - B rekombinantov, 5% B - C rekombinantov, 13% A - C rekombinantov. Určite poradie HLA lokusov A, B a C na základe miery rekombinácie.",
+    "question": "Gény HLA kódujú proteíny hlavného histokompatibilného komplexu. Pri pokusnom krížení sa detegovali nasledovné frekvencie rekombinantov: 22% A – B rekombinantov, 5% B – C rekombinantov, 13% A – C rekombinantov. Určite poradie HLA lokusov A, B a C na základe miery rekombinácie.",
     "options": {
-      "A": "poradie lokusov je B - C - A",
-      "B": "poradie lokusov je A - C - B",
-      "C": "poradie lokusov je A - B - C",
+      "A": "poradie lokusov je B – C – A",
+      "B": "poradie lokusov je A – C – B",
+      "C": "poradie lokusov je A – B – C",
       "D": "lokus C je pravdepodobne bližšie k lokusu B, než k lokusu A",
-      "E": "poradie lokusov je B - A - C",
+      "E": "poradie lokusov je B – A – C",
       "F": "lokus C je rovnako vzdialený od lokusu B a A",
       "G": "na základe frekvencie rekombinantov nie je možné určiť poradie lokusov",
       "H": "lokus A je bližšie k lokusu C, než k lokusu B"
@@ -8411,7 +8501,7 @@
       "B": "niektoré proteíny sú syntetizované výlučne v mitochondriách",
       "C": "všetky kodóny v mitochondriálnej a genomickej DNA sa čítajú rovnako",
       "D": "v diploidných bunkách sú dve kópie mitochondriálnej DNA",
-      "E": "mitochondriálna DNA sa neprenáša do ďalšej generácie buniek, aleje kódovaná v NOR oblasti",
+      "E": "mitochondriálna DNA sa neprenáša do ďalšej generácie buniek, ale je kódovaná v NOR oblasti",
       "F": "mitochondriálna DNA nie je esenciálna pre prežívanie cicavčích buniek",
       "G": "transkripty mitochondriálnych génov sú transportované do cytoplazmy, kde dochádza k ich translácii",
       "H": "dedičnosť znakov podmienených mimojadrovými génmi sa odlišuje od jadrovej dedičnosti, prenášajú sa len znaky na samčích mitochondriách"
@@ -8445,7 +8535,10 @@
     "question": "Čo platí o geneticky podmienených znakoch?",
     "options": {
       "A": "pre kvantitatívne znaky je typická alternatívna premenlivosť",
-      "B": "variabilita kvantitatívnych znakov môže byť graficky vyjadrená Gaussovou krivkou c) aktívne alely polygénne podmienených znakov majú najčastejšie aditívny účinok d) pri genetických analýzach kvantitatívnych znakov sa uplatňujú matematické metódy e) kvalitatívne znaky majú presne vymedzené fenotypové kategórie",
+      "B": "variabilita kvantitatívnych znakov môže byť graficky vyjadrená Gaussovou krivkou",
+      "C": "aktívne alely polygénne podmienených znakov majú najčastejšie aditívny účinok",
+      "D": "pri genetických analýzach kvantitatívnych znakov sa uplatňujú matematické metódy",
+      "E": "kvalitatívne znaky majú presne vymedzené fenotypové kategórie",
       "F": "neutrálne alely génov s majoritným účinkom majú minimálny vplyv na vývin fenotypu",
       "G": "variabilita kvantitatívnych znakov môže byť tvorená veľkým počtom genotypov",
       "H": "vplyv prostredia je pre monogénne podmienené kvalitatívne znaky zanedbateľný"
@@ -8550,7 +8643,7 @@
       "B": "štiepenie DNA a prípravu genetických konštruktov",
       "C": "amplifikáciu fragmentov DNA v bakteriálnych plazmidoch",
       "D": "prípravu hybridnej DNA",
-      "E": "hybridizáciu vybraných j edincov"
+      "E": "hybridizáciu vybraných jedincov"
     },
     "correct": [
       "A",
@@ -8589,7 +8682,8 @@
       "D": "nie je vhodná na diagnostiku dedičných chorôb",
       "E": "sa najčastejšie robí na krvných bunkách (lymfocytoch, leukocytoch, z kože alebo zo svalu",
       "F": "sa nedá realizovať na vzorkách získaných amniocentézou",
-      "G": "metóda umožňujúca detekciu veľkých chromozómových prestavieb"
+      "G": "metóda umožňujúca detekciu veľkých chromozómových prestavieb a chromozómových aberácií",
+      "H": "je zoradenie chromozómov do tzv. karyotypu"
     },
     "correct": [
       "A",
@@ -8649,7 +8743,7 @@
       "B": "veľkosť genómu nie je ovplyvnená množstvom nekódujúcich sekvencií",
       "C": "rastliny majú vo všeobecnosti menšie genómy než cicavce",
       "D": "eukaryotické genómy sú z väčšej časti tvorené kódujúcimi sekvenciami",
-      "E": "veľká časť genómu človeka je tvorená sekvenciami, ktoré sa označovali ako „nadbytočné\"",
+      "E": "veľká časť genómu človeka je tvorená sekvenciami, ktoré sa označovali ako „nadbytočné‟",
       "F": "veda zaoberajúca sa porovnávaním genómov sa nazýva genomika",
       "G": "genómy prokaryotických organizmov sú menšie ako eukaryotické genómy",
       "H": "genóm je celkový genetický materiál bunky alebo jedinca bez DNA v mitochondriách"
@@ -8728,10 +8822,10 @@
       "B": "chromozómy skracujú",
       "C": "chromozómy špiralizujú",
       "D": "chromozómy stávajú hrubšími",
-      "E": "dezintegruj e j adrová membrána",
+      "E": "dezintegruje jadrová membrána",
       "F": "chromozómy stávajú viditeľnými",
       "G": "objavuje deliace vretienko",
-      "H": "dezintegruj e j adierko"
+      "H": "dezintegruje jadierko"
     },
     "correct": [
       "A",
@@ -8849,7 +8943,7 @@
       "A": "0,995",
       "B": "0,00995",
       "C": "99,5%",
-      "D": "0,995%",
+      "D": "0,995% e) 0,00095",
       "E": "0,990025",
       "F": "99,0025%",
       "G": "0,990025%"
@@ -8881,7 +8975,14 @@
     "id": 472,
     "question": "V oblasti s 500 000 obyvateľmi sa zistil výskyt alkaptonúrie (recesívne dedičné ochorenie) u 8 ľudí. Aká je frekvencia prenášačov tohto ochorenia?",
     "options": {
-      "A": "b) c) d) e) 0 g) h)"
+      "A": "60%",
+      "B": "0,007968",
+      "C": "4,8%",
+      "D": "0,6",
+      "E": "0,4%",
+      "F": "0,48%",
+      "G": "0,36",
+      "H": "0,7968%"
     },
     "correct": [
       "B",
@@ -8986,7 +9087,14 @@
     "id": 478,
     "question": "V populácii pozostávajúcej zo 100 jedincov je 64 dominantných homozygotov, 30 heterozygotov a 6 recesívnych homozygotov. Vypočítajte frekvenciu dominantnej alely:",
     "options": {
-      "A": "b) c) d) e) 0 g) h)"
+      "A": "79%",
+      "B": "0,8",
+      "C": "0,8%",
+      "D": "81%",
+      "E": "93%",
+      "F": "0,008",
+      "G": "0,79",
+      "H": "80%"
     },
     "correct": [
       "B",
@@ -9228,7 +9336,14 @@
     "id": 492,
     "question": "V populácii o veľkosti 1 678 osôb sa vyskytujú traja albíni. Aká je frekvencia zdravých prenášačov, ak je toto ochorenie podmienené recesívnou alelou?",
     "options": {
-      "A": "b) c) d) e) f) g) h)"
+      "A": "8%",
+      "B": "0,08",
+      "C": "0,08%",
+      "D": "8",
+      "E": "0,958",
+      "F": "95,8%",
+      "G": "0,042",
+      "H": "4,2%"
     },
     "correct": [
       "A",
@@ -9239,7 +9354,10 @@
     "id": 493,
     "question": "Frekvencia alely podmieňujúcej faktor Rh+ je 67%. Aká je frekvencia jedincov s faktorom Rh-?",
     "options": {
-      "A": "b) c) d)"
+      "A": "0,33",
+      "B": "33%",
+      "C": "0,1089",
+      "D": "10,89"
     },
     "correct": [
       "C",
@@ -9248,7 +9366,7 @@
   },
   {
     "id": 494,
-    "question": "Frekvencia alely podmieňujúcej faktor Rh+ je 37%. Aká je frekvencia jedincov sRh+v heterozygotnom stave?",
+    "question": "Frekvencia alely podmieňujúcej faktor Rh+ je 37%. Aká je frekvencia jedincov s Rh+ v heterozygotnom stave?",
     "options": {
       "A": "0,4626",
       "B": "13,69%",
@@ -9269,7 +9387,7 @@
     "question": "V populácii pozostávajúcej zo 16 798 jedincov králika Oryctolagus cuniculus je 5 479 hnedých jedincov. Hnedá farba je podmienená recesívnou alelou. Aká je frekvencia dominantnej alely?",
     "options": {
       "A": "11,319%",
-      "B": "11319",
+      "B": "11 319",
       "C": "43",
       "D": "0,43",
       "E": "18,49%",
@@ -9323,7 +9441,14 @@
     "id": 498,
     "question": "Frekvencia alely podmieňujúcej hemofíliu je v oblasti Tokia 0,67. Aká je frekvencia genotypovo aj fenotypovo zdravých žien?",
     "options": {
-      "A": "b) c) d) e) f) g) h)"
+      "A": "0,33",
+      "B": "0,1089",
+      "C": "10,89%",
+      "D": "0,4489",
+      "E": "0,5511",
+      "F": "55,11%",
+      "G": "5,511%",
+      "H": "44,89%"
     },
     "correct": [
       "E",
@@ -9357,7 +9482,9 @@
       "C": "99,9815",
       "D": "0,0136",
       "E": "0,9864",
-      "F": "98,64"
+      "F": "98,64",
+      "G": "0,973",
+      "H": "99,9815%"
     },
     "correct": [
       "A",
@@ -9562,7 +9689,10 @@
       "B": "20,50",
       "C": "0,0768",
       "D": "7,68%",
-      "E": "90,40"
+      "E": "90,40",
+      "F": "10,30",
+      "G": "18,7%",
+      "H": "0,187"
     },
     "correct": [
       "C",
@@ -9707,13 +9837,13 @@
     "id": 521,
     "question": "Ak poznáme frekvenciu dominantných homozygotov v populácii, frekvenciu dominantných alel vypočítame:",
     "options": {
-      "A": "p-q=l",
-      "B": "p2=l-q",
+      "A": "p-q=1",
+      "B": "p2=1-q",
       "C": "2pq",
-      "D": "q=l-p",
-      "E": "p+2q=l",
+      "D": "q=1-p",
+      "E": "p+2q=1",
       "F": "2p2q",
-      "G": "p=^",
+      "G": "p=√p2",
       "H": "q2"
     },
     "correct": [
@@ -9937,8 +10067,8 @@
       "C": "L. Pasteur",
       "D": "R. Koch",
       "E": "S.N. Vinogradskij",
-      "F": "LP. Pavlov",
-      "G": "J.E. Purkyné",
+      "F": "I.P. Pavlov",
+      "G": "J.E. Purkyně",
       "H": "J.D. Watson"
     },
     "correct": [
@@ -10008,7 +10138,7 @@
     "options": {
       "A": "sa vyskytuje v Európe",
       "B": "spôsobuje maláriu",
-      "C": "sa prenáša z krvi živočíchov na človeka kvapôčkovou infekciou",
+      "C": "sa prenáša z krvi živočíchov na člověka kvapôčkovou infekciou",
       "D": "sa vyskytuje v tropickej Afrike",
       "E": "spôsobuje spavú nemoc",
       "F": "vyvoláva zápal lymfatických uzlín a napáda nervovú sústavu človeka",
@@ -10243,14 +10373,14 @@
     "id": 549,
     "question": "Čo sú parazity?",
     "options": {
-      "A": "heterotroťné organizmy, ktoré odoberajú organické látky inému žijúcemu organizmu -hostiteľovi, a do jeho tela vylučujú splodiny svojho metabolizmu",
+      "A": "heterotrofné organizmy, ktoré odoberajú organické látky inému žijúcemu organizmu – hostiteľovi, a do jeho tela vylučujú splodiny svojho metabolizmu",
       "B": "organizmy, ktoré žijú na povrchu alebo v tele hostiteľa",
       "C": "autotrofné organizmy, ktoré odoberajú organické látky inému žijúcemu organizmu",
       "D": "organizmy, parazitujúce len u človeka",
-      "E": "heterotroťné organizmy, ktoré si organické látky získavajú z odumretých organizmov",
+      "E": "heterotrofné organizmy, ktoré si organické látky získavajú z odumretých organizmov",
       "F": "autotrofné organizmy, ktoré si organické látky získavajú z odumretých organizmov",
       "G": "organizmy, ktoré študuje antropológia",
-      "H": "heterotroťné organizmy, ktoré využívajú fotosyntézu"
+      "H": "heterotrofné organizmy, ktoré využívajú fotosyntézu"
     },
     "correct": [
       "A",
@@ -10372,7 +10502,7 @@
     "question": "Akú funkciu majú v organizme T-lymfocyty:",
     "options": {
       "A": "vykonávajú bunkovú obranu",
-      "B": "vykonávajú humorálnu protilátkevú obranu",
+      "B": "vykonávajú humorálnu protilátkovú obranu",
       "C": "produkujú tzv. cytofilné látky",
       "D": "zapríčiňujú odmietnutie transplantovaných orgánov",
       "E": "produkujú cytotoxické látky",
@@ -10412,7 +10542,7 @@
     "question": "Ktorý typ baktérií sa podieľa na uvoľňovaní dusíka do ovzdušia?",
     "options": {
       "A": "nitrifikačné baktérie",
-      "B": "denitrifíkačné baktérie",
+      "B": "denitrifikačné baktérie",
       "C": "nitritačné baktérie",
       "D": "amonizačné baktérie",
       "E": "fotosyntetizujúce baktérie",
@@ -10452,7 +10582,7 @@
       "A": "okolo 1 mikrometra",
       "B": "asi 0,1 mikrometra",
       "C": "okolo 1 milimetra",
-      "D": "rádové niekoľko nanometrov",
+      "D": "rádove niekoľko nanometrov",
       "E": "menej ako 1 mikrometer",
       "F": "0,1 až 0,5 milimetra",
       "G": "0,3 až 2,0 mikrometra",
@@ -10618,7 +10748,7 @@
       "D": "sú schopné fotosyntézy",
       "E": "študuje botanika",
       "F": "sú autotrofné organizmy",
-      "G": "organické látky získavajú parazitický alebo saprofyticky",
+      "G": "organické látky získavajú paraziticky alebo saprofyticky",
       "H": "sú eukaryotické organizmy"
     },
     "correct": [
@@ -10672,7 +10802,7 @@
       "C": "izolované z baktérie",
       "D": "erytromycín",
       "E": "izolované z paplesne",
-      "F": "produkované druhom Pénicillium notatum",
+      "F": "produkované druhom Penicillium notatum",
       "G": "vankomycín",
       "H": "kanamycín"
     },
@@ -10727,7 +10857,7 @@
       "A": "vitamínov a minerálních látok",
       "B": "probiotík",
       "C": "antibiotík",
-      "D": "cyto statík",
+      "D": "cytostatík",
       "E": "antimykotík",
       "F": "piva",
       "G": "vína",
@@ -10776,7 +10906,7 @@
       "E": "sú nebezpečné jedy",
       "F": "nie sú jedovaté pre bakteriálne bunky",
       "G": "môžu oslabiť imunitu",
-      "H": "sú j edovaté pre rastlinné bunky"
+      "H": "sú jedovaté pre rastlinné bunky"
     },
     "correct": [
       "A",
@@ -10816,7 +10946,7 @@
       "C": "sú dedičné",
       "D": "sú nededičné",
       "E": "ich vyšetrovanie sa používa napr. v antropológii a súdnom lekárstve",
-      "F": "majú základný význam pri transťúzii krvi",
+      "F": "majú základný význam pri transfúzii krvi",
       "G": "ich vyšetrovanie sa používa napr. v paleontológii a súdnom lekárstve",
       "H": "majú základný význam pre šľachtiteľstvo"
     },
@@ -10856,7 +10986,7 @@
     "options": {
       "A": "ikozaedrálne a helikoidálne",
       "B": "obalené a neobalené",
-      "C": "DNAaRNA",
+      "C": "DNA a RNA",
       "D": "bakteriálne, rastlinné a živočíšne",
       "E": "enterálne, respiračné a arbovírusy",
       "F": "hepatotropné a neurotropné",
@@ -11008,7 +11138,7 @@
     "options": {
       "A": "je párový orgán",
       "B": "nemá význam pre udržiavanie homeostázy",
-      "C": "má hmotnosť 120 - 200 g",
+      "C": "má hmotnosť 120 – 200 g",
       "D": "je orgán, v ktorom sa tvorí moč",
       "E": "je orgán fazuľového tvaru",
       "F": "patrí ku srdcovo-cievnej sústave",
@@ -11161,8 +11291,8 @@
     "question": "O častiach vylučovacej sústavy u zdravého človeka platí, že:",
     "options": {
       "A": "močové rúry sú dve a močovod jeden",
-      "B": "močová rúra jej edna a močovody tri",
-      "C": "močová rúra jej edna a močovody dva",
+      "B": "močová rúra je jedna a močovody tri",
+      "C": "močová rúra je jedna a močovody dva",
       "D": "z každej obličkovej panvičky vychádza jeden močovod",
       "E": "z každej obličkovej panvičky vychádzajú dva močovody",
       "F": "oblička je párový orgán, umiestnený za pobrušnicou",
@@ -11187,7 +11317,7 @@
       "E": "hromadí sa v ňom žlč",
       "F": "vyprázdňuje sa ochabnutím hladkých svalových vlákien v jeho stene",
       "G": "nahromadí sa v ňom do 5000 až 7000 ml moču",
-      "H": "vyprázdňuje sa zmrštením hladkých svalových vlákien v jeho stene"
+      "H": "vyprázdňuje sa zmŕštením hladkých svalových vlákien v jeho stene"
     },
     "correct": [
       "A",
@@ -11540,7 +11670,7 @@
       "C": "prištítne telieska",
       "D": "podmozgová žľaza",
       "E": "hypofýza",
-      "F": "fylogenetický najmladšia žľaza s vnútorným vylučovaním",
+      "F": "fylogeneticky najmladšia žľaza s vnútorným vylučovaním",
       "G": "zadný lalok hypofýzy",
       "H": "predný lalok hypofýzy"
     },
@@ -11711,7 +11841,7 @@
     "question": "Čiernobiele videnie za šera umožňujú:",
     "options": {
       "A": "tyčinky",
-      "B": "Purkynčho bunky",
+      "B": "Purkyněho bunky",
       "C": "čapíky",
       "D": "neurity tyčiniek",
       "E": "dendrity tyčiniek",
@@ -11772,7 +11902,8 @@
       "B": "pokojový potenciál je -70mV",
       "C": "v pokojovom štádiu je v extracelulárnom priestore pozitívny náboj a Na+ katióny a v intracelulárnom priestore je záporný náboj a K+ katióny",
       "D": "v pokojovom štádiu je v extracelulárnom priestore pozitívny náboj a Na+ katióny a v intracelulárnom priestore je kladný náboj a K+ katióny",
-      "E": "čím hrubšia je myelínová pošva, tým rýchlejšie prechádza vzruch po nervovom vlákne f) balans vo vyrovnaní náboja v extra- a intracelulárnom priestore je sprostredkovaný sodíkovo-draslíkovými pumpami",
+      "E": "čím hrubšia je myelínová pošva, tým rýchlejšie prechádza vzruch po nervovom vlákne",
+      "F": "balans vo vyrovnaní náboja v extra- a intracelulárnom priestore je sprostredkovaný sodíkovo-draslíkovými pumpami",
       "G": "pokojový potenciál je -55mV",
       "H": "vzruch sa prenáša depolarizáciou a repolarizáciou iónov cez membránu myocytu"
     },
@@ -11855,7 +11986,7 @@
       "E": "sympatikus prevláda najmä v pokoji",
       "F": "parasympatikus zrýchľuje činnosť srdca",
       "G": "parasympatikus a sympatikus fungujú synergicky",
-      "H": "sympatikus a parasympatikus fungujú antagonistický"
+      "H": "sympatikus a parasympatikus fungujú antagonisticky"
     },
     "correct": [
       "A",
@@ -12209,7 +12340,7 @@
       "A": "zmena koncentrácie iónov vápnika a sodíka v nervovom vlákne",
       "B": "koncentrácia nervového vlákna",
       "C": "dilatácia neuritu",
-      "D": "pohyb iónov Na+ a Cľ cez bunkovú membránu",
+      "D": "pohyb iónov Na+ a Cl- cez bunkovú membránu",
       "E": "akčný prenos",
       "F": "pohyb iónov Na+ a K+ cez bunkovú membránu",
       "G": "akčný potenciál",
@@ -12346,7 +12477,7 @@
     "options": {
       "A": "pôsobením dvoch podnetov, z ktorých jeden je pre organizmus biologicky významný a druhý je indiferentný",
       "B": "pôsobením dvoch podnetov, z ktorých jeden je pre organizmus biologicky významný a druhý nie je indiferentný",
-      "C": "klasickým (Pavlovovským) podmieftovaním",
+      "C": "klasickým (Pavlovovským) podmieňovaním",
       "D": "pôsobením dvoch podnetov, z ktorých jeden je pre organizmus biologicky významný a druhý je negatívny",
       "E": "hneď po fertilizácii",
       "F": "hneď po narodení, napríklad cicací reflex",
@@ -12473,8 +12604,7 @@
       "D",
       "E",
       "F",
-      "G",
-      "H"
+      "G"
     ]
   },
   {
@@ -12846,8 +12976,7 @@
       "D": "prejavuje sa ochabovaním jednotlivých funkčných sústav",
       "E": "sprevádzajú ho zmeny v obehovej sústave",
       "F": "sprevádzajú ho zmeny v centrálnej nervovej sústave",
-      "G": "sprevádza ho vzostup psychickej a fyzickej výkonnosti",
-      "H": "prebieha optimálne ako „aktívna staroba\""
+      "G": "sprevádza ho vzostup psychickej a fyzickej výkonnosti h) prebieha optimálne ako „aktívna staroba\""
     },
     "correct": [
       "C",
@@ -12946,10 +13075,10 @@
       "B": "keď je organizmus schopný rozmnožovať sa",
       "C": "keď organizmus je schopný sexuálneho života",
       "D": "najväčšej pohlavnej aktivity jedinca",
-      "E": "v ktorom j edinec produkuj e zrelé gaméty",
+      "E": "v ktorom jedinec produkuje zrelé gaméty",
       "F": "v ktorom jedinec produkuje adrenalín",
       "G": "v ktorom prebiehajú procesy reprodukcie buniek",
-      "H": "keď jej edinec schopný splodiť potomstvo"
+      "H": "keď je jedinec schopný splodiť potomstvo"
     },
     "correct": [
       "B",
@@ -13025,8 +13154,8 @@
       "C": "300 dní",
       "D": "290 dní",
       "E": "9 kalendárnych mesiacov",
-      "F": "30-35 týždňov",
-      "G": "39-40 týždňov",
+      "F": "30 - 35 týždňov",
+      "G": "39 - 40 týždňov",
       "H": "8 kalendárnych mesiacov"
     },
     "correct": [
@@ -13267,7 +13396,7 @@
       "C": "hmotnosť matky by sa do konca gravidity mala zvýšiť o 10-12kg",
       "D": "organizmus matky sa dokonale prispôsobuje - zvyšuje sa výkon obehovej sústavy, pľúcna ventilácia, funkcia obličiek, mení sa sekrécia hormónov a metabolizmus",
       "E": "objem dutiny maternice sa zväčší z približne 5 ml na 5-7 mililitrov",
-      "F": "hmotnosť matky by sa do konca gravidity mala zvýšiť o 1 -2kg",
+      "F": "hmotnosť matky by sa do konca gravidity mala zvýšiť o 1-2kg",
       "G": "organizmus matky sa dokonale prispôsobuje - znižuje sa výkon obehovej sústavy, pľúcna ventilácia, funkcia obličiek, mení sa sekrécia hormónov a metabolizmus",
       "H": "ich priebeh je uľahčený užívaním antikoncepcie"
     },
@@ -13430,7 +13559,7 @@
       "E": "prenáša sa spórami kokov",
       "F": "je spôsobená vírusmi",
       "G": "dá sa jej predchádzať vyhýbaním sa pochybným sexuálnym kontaktom a promiskuite",
-      "H": "dá sajú získať dôkladnou hygienou, vyhýbaním sa pochybným sexuálnym kontaktom a promiskuite"
+      "H": "dá sa ju získať dôkladnou hygienou, vyhýbaním sa pochybným sexuálnym kontaktom a promiskuite"
     },
     "correct": [
       "A",
@@ -13529,7 +13658,7 @@
       "C": "konečník",
       "D": "análny otvor",
       "E": "vaječníky",
-      "F": "vajíčko vody",
+      "F": "vajíčkovody",
       "G": "semenovod",
       "H": "nadsemenníky"
     },
@@ -13572,7 +13701,7 @@
       "D": "ak nebolo vajíčko oplodnené, stiahnu sa cievy v sliznici, jej povrchová vrstva odumrie a odplaví sa menštruačnou krvou",
       "E": "ak bolo vajíčko oplodnené, stiahnu sa cievy v sliznici, jej povrchová vrstva odumrie a odplaví sa menštruačnou krvou",
       "F": "žena pri nej stratí asi 40-50 ml krvi",
-      "G": "žena pri nej stratí asi 4-5 1 krvi",
+      "G": "žena pri nej stratí asi 4-5 l krvi",
       "H": "vzniká v nej žlté teliesko, ak nie je vajíčko oplodnené"
     },
     "correct": [
@@ -13667,7 +13796,7 @@
     "question": "K rozmnožovacej sústave muža patrí:",
     "options": {
       "A": "semenovod",
-      "B": "vstrekovací kanálik, ktorý spája žliazky močovej rúry a semeno vodu",
+      "B": "vstrekovací kanálik, ktorý spája žliazky močovej rúry a semenovodu",
       "C": "vstrekovací kanálik",
       "D": "predstojnica",
       "E": "nadsemenníky",
@@ -13767,9 +13896,9 @@
     "id": 730,
     "question": "Koža dospelého človeka:",
     "options": {
-      "A": "má plochu 1,1 až 1,5 m",
+      "A": "má plochu 1,1 až 1,5 m2",
       "B": "tvorí tepelnú izoláciu",
-      "C": "má plochu asi 1,6 až 2 m",
+      "C": "má plochu asi 1,6 až 2 m2",
       "D": "zabraňuje vniknutiu mikroorganizmov",
       "E": "pohlcuje ultrafialové lúče",
       "F": "má aj vylučovaciu funkciu",
@@ -14002,7 +14131,7 @@
     "question": "Červená kostná dreň človeka slúži na tvorbu:",
     "options": {
       "A": "krviniek",
-      "B": "lymťocytov",
+      "B": "lymfocytov",
       "C": "inzulínu",
       "D": "enzýmov",
       "E": "erytrocytov",
@@ -14077,7 +14206,7 @@
       "B": "hlavicu tvorí stehnová kosť",
       "C": "jamka kĺbu je v panvovej kosti",
       "D": "obsahuje kĺbové menisky",
-      "E": "hlavicu tvorí j abíčko",
+      "E": "hlavicu tvorí jabĺčko",
       "F": "obsahuje lonovú sponu",
       "G": "neobsahuje medzistavcové platničky",
       "H": "má vnútri kĺbovej dutiny malé množstvo kĺbového mazu"
@@ -14150,7 +14279,7 @@
     "question": "Kĺbové spojenie kostí:",
     "options": {
       "A": "je spojenie kostí dotykom",
-      "B": "je vystlané oko šticou",
+      "B": "je vystlané okosticou",
       "C": "má dotykové plochy vystlané chrupkou",
       "D": "má dotykové plochy vystlané kostným tkanivom",
       "E": "má kĺbové puzdro, miestami je spevnené väzmi",
@@ -14350,7 +14479,7 @@
       "A": "čuchová kosť",
       "B": "bodcovitý výbežok spánkovej kosti",
       "C": "čelová kosť",
-      "D": "jarmovákosť",
+      "D": "jarmová kosť",
       "E": "horná čeľusť",
       "F": "sánka",
       "G": "slzná kosť",
@@ -14448,7 +14577,7 @@
       "C": "otvor stavca",
       "D": "medzistavcovú platničku",
       "E": "telo stavca",
-      "F": "kŕčok stavca",
+      "F": "krčok stavca",
       "G": "priečny výbežok",
       "H": "tŕňový výbežok"
     },
@@ -14541,6 +14670,7 @@
       "C": "píšťala",
       "D": "panvová",
       "E": "ihlica",
+      "F": "jabĺčko",
       "G": "kľúčna",
       "H": "krížová"
     },
@@ -14561,7 +14691,7 @@
       "C": "hrudná kosť",
       "D": "hrudníkové stavce",
       "E": "7 hrudníkových stavcov",
-      "F": "4-5 hrudníkových stavcov",
+      "F": "4 – 5 hrudníkových stavcov",
       "G": "rebrá",
       "H": "12 párov rebier"
     },
@@ -14582,6 +14712,7 @@
       "C": "je súčasťou pletenca dolnej končatiny",
       "D": "sa skladá z piatich častí",
       "E": "je súčasťou prednej steny hrudného koša",
+      "F": "je súčasťou pletenca hornej končatiny",
       "G": "tvorí spolu s rebrami a rebrovými stavcami hrudník",
       "H": "sa skladá z rukoväte, tela a mečovitého výbežku"
     },
@@ -15173,7 +15304,7 @@
     "id": 806,
     "question": "Tráviaca sústava:",
     "options": {
-      "A": "má mechanickú aj chemickú ťunkciu",
+      "A": "má mechanickú aj chemickú funkciu",
       "B": "podieľa sa na látkovej premene",
       "C": "nezabezpečuje vstrebávanie",
       "D": "po mechanickom spracovaní potravy zabezpečuje jej chemické trávenie",
@@ -15240,7 +15371,8 @@
       "C": "sú dôležité pre reč",
       "D": "rezáky odhryznú sústo",
       "E": "črenové zuby odhryznú hlt",
-      "F": "hlt sa rozdrobí medzi stoličkami g) sa nenachádzajú v čeľusti",
+      "F": "hlt sa rozdrobí medzi stoličkami",
+      "G": "sa nenachádzajú v čeľusti",
       "H": "sa nachádzajú v sánke"
     },
     "correct": [
@@ -15356,10 +15488,10 @@
     "options": {
       "A": "zahusťujú potravu",
       "B": "zvlhčujú potravu",
-      "C": "pomáhajú pri prehltaní potravy",
+      "C": "pomáhajú pri prehĺtaní potravy",
       "D": "neobsahujú amylázy",
       "E": "obsahujú aj baktericídne látky",
-      "F": "nemajú žiaden vplyv na prehltanie potravy",
+      "F": "nemajú žiaden vplyv na prehĺtanie potravy",
       "G": "obsahujú pepsín",
       "H": "obsahujú aj baktericídne látky (napr. ptyalín)"
     },
@@ -15436,7 +15568,7 @@
       "B": "trypsín",
       "C": "kyselina chlorovodíková",
       "D": "lipáza",
-      "E": "HC1",
+      "E": "HCl",
       "F": "hlien",
       "G": "mucín",
       "H": "ptyalín"
@@ -15453,7 +15585,7 @@
     "id": 820,
     "question": "Kyselina chlorovodíková vytvára v žalúdku človeka kyslé prostredie, ktoré:",
     "options": {
-      "A": "bráni znehodnocovaniu vitamínu B]",
+      "A": "bráni znehodnocovaniu vitamínu B1",
       "B": "bráni znehodnocovaniu vitamínu K",
       "C": "ničí veľa choroboplodných mikroorganizmov",
       "D": "umožňuje pôsobenie žalúdočnej lipázy",
@@ -15514,8 +15646,8 @@
       "C": "má priemernú dĺžku 2 až 3 m",
       "D": "má priemernú dĺžku 4 až 6 m",
       "E": "má priemernú dĺžku 6 až 7 m",
-      "F": "má priemernú šírku 4-5,5 cm",
-      "G": "má priemernú šírku 3-3,5 cm",
+      "F": "má priemernú šírku 4 - 5,5 cm",
+      "G": "má priemernú šírku 3 - 3,5 cm",
       "H": "sa končí dvanástnikom"
     },
     "correct": [
@@ -15572,7 +15704,7 @@
       "D": "amyláza",
       "E": "peptidáza",
       "F": "lipáza",
-      "G": "HC1",
+      "G": "HCl",
       "H": "fibrinogén"
     },
     "correct": [
@@ -15608,7 +15740,7 @@
       "E": "undulujúce membrány",
       "F": "jemné výbežky",
       "G": "svalové bunky",
-      "H": "žliazky produkujúce HC1 a pepsinogén"
+      "H": "žliazky produkujúce HCl a pepsinogén"
     },
     "correct": [
       "A",
@@ -15644,9 +15776,11 @@
     "options": {
       "A": "železa",
       "B": "glykogénu",
-      "C": "vitamínu B,2",
+      "C": "vitamínu B12",
       "D": "vitamínu A",
-      "E": "vitamínu D g) imunoglobulínov g) kobalamínu",
+      "E": "vitamínu D",
+      "F": "imunoglobulínov",
+      "G": "kobalamínu",
       "H": "bielkovín"
     },
     "correct": [
@@ -15809,8 +15943,8 @@
       "B": "dĺžku 2,5 m",
       "C": "dĺžku 3,5 m",
       "D": "dĺžku 4,5 m",
-      "E": "šírku 3-5 cm",
-      "F": "šírku 5-8 cm",
+      "E": "šírku 3 - 5 cm",
+      "F": "šírku 5 - 8 cm",
       "G": "šírku 7 - 8 cm",
       "H": "hmotnosť 5 g"
     },
@@ -15842,7 +15976,12 @@
     "options": {
       "A": "disacharidázy",
       "B": "amylázy",
-      "C": "d) e) f) g) h)"
+      "C": "pepsín",
+      "D": "lipázu",
+      "E": "žiadne",
+      "F": "kvasné",
+      "G": "trypsín",
+      "H": "ptyalín"
     },
     "correct": [
       "E"
@@ -15879,7 +16018,7 @@
       "E": "sacharidy sú najbežnejším a najpohotovejším zdrojom energie",
       "F": "bežná strava obsahuje dostatok minerálnych látok, ale napríklad v detstve, počas rastu a v tehotenstve je ich potreba zvýšená",
       "G": "bežná strava obsahuje dostatok minerálnych látok, ale napríklad v detstve, počas rastu a v tehotenstve je ich potreba znížená",
-      "H": "u dospelého človeka je optimálny prívod bielkovín 1 g na 1 kg hmotnosti tela"
+      "H": "u dospelého človeka je optimálny prívod bielkovín 1g na 1 kg hmotnosti tela"
     },
     "correct": [
       "B",
@@ -15993,7 +16132,7 @@
   },
   {
     "id": 848,
-    "question": "O vitamíne Bi platí, že:",
+    "question": "O vitamíne B1 platí, že:",
     "options": {
       "A": "veľa sa ho nachádza napr. v citrusových plodoch",
       "B": "je nevyhnutný pre tvorbu rodopsínu",
@@ -16012,7 +16151,7 @@
   },
   {
     "id": 849,
-    "question": "Smrteľná choroba vznikajúca pri úplnom nedostatku vitamínu Bi sa nazýva:",
+    "question": "Smrteľná choroba vznikajúca pri úplnom nedostatku vitamínu B1 sa nazýva:",
     "options": {
       "A": "pelagra",
       "B": "hemofília",
@@ -16020,7 +16159,8 @@
       "D": "skorbut",
       "E": "beri-beri",
       "F": "borelióza",
-      "G": "málokrvnosť h) daltonizmus"
+      "G": "málokrvnosť",
+      "H": "daltonizmus"
     },
     "correct": [
       "E"
@@ -16113,7 +16253,8 @@
       "D": "udržanie správneho stavu chrupiek",
       "E": "syntézu kolagénu",
       "F": "znižuje odolnosť organizmu proti infekčným chorobám",
-      "G": "zvyšuje odolnosť organizmu proti infekčným chorobám h) zabraňuje kôrnateniu tepien"
+      "G": "zvyšuje odolnosť organizmu proti infekčným chorobám",
+      "H": "zabraňuje kôrnateniu tepien"
     },
     "correct": [
       "A",
@@ -16126,7 +16267,7 @@
   },
   {
     "id": 855,
-    "question": "Ako sa nazýva vitamín Bó?",
+    "question": "Ako sa nazýva vitamín B6?",
     "options": {
       "A": "tiamín (aneurín)",
       "B": "kyselina pantoténová",
@@ -16145,11 +16286,14 @@
     "id": 856,
     "question": "Nedostatok ktorého vitamínu nebol opísaný u človeka:",
     "options": {
-      "A": "B,",
+      "A": "B1",
       "B": "B2",
       "C": "B5",
       "D": "B12",
-      "E": "kobalamínu"
+      "E": "kobalamínu",
+      "F": "C",
+      "G": "kyselina pantoténovej",
+      "H": "kyselina folovej"
     },
     "correct": [
       "C",
@@ -16203,7 +16347,7 @@
       "B": "jeho nedostatkom u detí vzniká cukrovka",
       "C": "ovplyvňuje ukladanie vápnika v kostnom tkanive",
       "D": "tvoria ho baktérie v hrubom čreve",
-      "E": "j eho výdatným zdroj om j e rybí tuk",
+      "E": "jeho výdatným zdrojom je rybí tuk",
       "F": "jeho nedostatok u dospelých vedie k rednutiu a mäknutiu kostí",
       "G": "jeho nedostatok vyvoláva u dospelých málokrvnosť",
       "H": "jeho nedostatkom u detí vzniká krivica"
@@ -16353,9 +16497,9 @@
     "question": "Ktorý vitamín sa zúčastňuje okysličovacích dejov vo všetkých bunkách?",
     "options": {
       "A": "A",
-      "B": "B,",
-      "C": "B,",
-      "D": "®i2",
+      "B": "B1",
+      "C": "B2",
+      "D": "B12",
       "E": "aneurín",
       "F": "riboflavín",
       "G": "tiamín",
@@ -16463,7 +16607,7 @@
     "options": {
       "A": "maximálny minútový dychový objem",
       "B": "objem vzduchu, ktorý po najhlbšom vdychu maximálne vydýchneme",
-      "C": "počet dychov za 1 minútu",
+      "C": "počet dychov za l minútu",
       "D": "minútový dychový objem",
       "E": "pravidelné striedanie vdychov a výdychov",
       "F": "u mužov 3500 až 5000 ml",
@@ -16569,11 +16713,11 @@
       "A": "pri vdychu sa pľúca pasívne rozpínajú, sledujúc pohyby hrudníka",
       "B": "pri vdychu sa pľúca aktívne rozpínajú, sledujúc pohyby hrudníka",
       "C": "pri výdychu sa objem pľúc zmenšuje, sledujúc pohyby hrudníka",
-      "D": "tlak v pohrudníkovej dutine (nižší ako atmosférický) núti pľúca sledovať tvar hrudníka a tým umožňuje ich rozpínanie",
+      "D": "tlak v pohrudníkovej dutine (nižší ako atmosferický) núti pľúca sledovať tvar hrudníka a tým umožňuje ich rozpínanie",
       "E": "pri výdychu sa objem pľúc zväčšuje, sledujúc pohyby hrudníka",
       "F": "vzduch prúdi pri vdychu do pľúc a pri výdychu z pľúc von",
       "G": "vzduch prúdi pri vdychu von z pľúc a pri výdychu dnu do pľúc",
-      "H": "tlak v pohrudníkovej dutine (vyšší ako atmosférický) núti pľúca sledovať tvar hrudníka a tým sťažuje ich rozpínanie"
+      "H": "tlak v pohrudníkovej dutine (vyšší ako atmosferický) núti pľúca sledovať tvar hrudníka a tým sťažuje ich rozpínanie"
     },
     "correct": [
       "A",
@@ -16707,9 +16851,9 @@
     "question": "Hemoglobín (najmä u dojčiat) sa vplyvom zvýšeného prísunu dusíkatých látok do organizmu mení na:",
     "options": {
       "A": "metylhemoglobín",
-      "B": "oxyhemoglobin",
+      "B": "oxyhemoglobín",
       "C": "etylhemoglobín",
-      "D": "methemoglobin",
+      "D": "methemoglobín",
       "E": "karboxyhemoglobín",
       "F": "karbonylhemoglobín",
       "G": "metanolhemoglobín",
@@ -16742,10 +16886,10 @@
     "id": 887,
     "question": "Červené krvinky u človeka:",
     "options": {
-      "A": "je\tich u\tdospelého muža v jednom litri priemerne 4,3 až 5,3\tx 10",
-      "B": "je\tich u\tdospelého muža v jednom litri priemerne 7x10",
-      "C": "je\tich u\tdospelej ženy v jednom litri priemerne 3x10",
-      "D": "je\tich u\tdospelej ženy v jednom litri priemerne 3,8 až 4,8\tx\t10",
+      "A": "je ich u dospelého muža v jednom litri priemerne 4,3 až 5,3 x 1012",
+      "B": "je ich u dospelého muža v jednom litri priemerne 7 x 1012",
+      "C": "je ich u dospelej ženy v jednom litri priemerne 3 x 1012",
+      "D": "je ich u dospelej ženy v jednom litri priemerne 3,8 až 4,8 x 1012",
       "E": "v litri krvi u ženy obsahujú približne 170 g hemoglobínu",
       "F": "v litri krvi u ženy obsahujú približne 140 g hemoglobínu",
       "G": "v litri krvi u muža obsahujú približne 150 g hemoglobínu",
@@ -16822,7 +16966,7 @@
     "id": 891,
     "question": "Biele krvinky človeka:",
     "options": {
-      "A": "sú j adrové bunky",
+      "A": "sú jadrové bunky",
       "B": "sú leukocyty",
       "C": "je ich viac druhov",
       "D": "nie je ich viac druhov",
@@ -16905,7 +17049,10 @@
       "B": "matka je Rh negatívna a dieťa Rh pozitívne",
       "C": "matka je Rh pozitívna a dieťa Rh negatívne",
       "D": "matka je Rh pozitívna a dieťa Rh pozitívne",
-      "E": "sa Rh pozitívnemu jedincovi dostanú do krvného obehu Rh pozitívne krvinky f) sa Rh pozitívnemu jedincovi dostanú do krvného obehu Rh negatívne krvinky g) sa Rh negatívnemu jedincovi dostanú do krvného obehu Rh negatívne krvinky h) sa Rh negatívnemu jedincovi dostanú do krvného obehu Rh pozitívne krvinky"
+      "E": "sa Rh pozitívnemu jedincovi dostanú do krvného obehu Rh pozitívne krvinky",
+      "F": "sa Rh pozitívnemu jedincovi dostanú do krvného obehu Rh negatívne krvinky",
+      "G": "sa Rh negatívnemu jedincovi dostanú do krvného obehu Rh negatívne krvinky",
+      "H": "sa Rh negatívnemu jedincovi dostanú do krvného obehu Rh pozitívne krvinky"
     },
     "correct": [
       "B",
@@ -17012,10 +17159,10 @@
       "B": "vľavo nie, vpravo áno - ide o krvnú skupinu B",
       "C": "vľavo nie, vpravo áno - ide o krvnú skupinu AB",
       "D": "vľavo nie, vpravo áno - ide o krvnú skupinu 0",
-      "E": "vpravo áno,\tvľavo\tnie - ide o krvnú\tskupinu A",
-      "F": "vpravo áno,\tvľavo\tnie - ide o krvnú\tskupinu B",
-      "G": "vpravo áno,\tvľavo\tnie - ide o krvnú\tskupinu AB",
-      "H": "vpravo áno,\tvľavo\tnie - ide o krvnú\tskupinu 0"
+      "E": "vpravo áno, vľavo nie - ide o krvnú skupinu A",
+      "F": "vpravo áno, vľavo nie - ide o krvnú skupinu B",
+      "G": "vpravo áno, vľavo nie - ide o krvnú skupinu AB",
+      "H": "vpravo áno, vľavo nie - ide o krvnú skupinu 0"
     },
     "correct": [
       "A",
@@ -17026,14 +17173,14 @@
     "id": 902,
     "question": "Na podložnom sklíčku sú dve kvapky krvného séra - vľavo od človeka s krvnou skupinou A, a vpravo s krvnou skupinou B. Do každej primiešame kvapku krvi vyšetrovanej osoby. Podľa vzniku aglutinácie:",
     "options": {
-      "A": "vľavo nie,\tvpravo nie - ide o krvnú\tskupinu\tA",
-      "B": "vľavo nie,\tvpravo nie - ide o krvnú\tskupinu\tB",
-      "C": "vľavo nie,\tvpravo nie - ide o krvnú\tskupinu\tAB",
-      "D": "vľavo nie,\tvpravo nie - ide o krvnú\tskupinu\t0",
-      "E": "vpravo nie,\tvľavo nie - ide o krvnú\tskupinu\tA",
-      "F": "vpravo nie,\tvľavo nie - ide o krvnú\tskupinu\tB",
-      "G": "vpravo nie,\tvľavo nie - ide o krvnú\tskupinu\tAB",
-      "H": "vpravo nie,\tvľavo nie - ide o krvnú\tskupinu\t0"
+      "A": "vľavo nie, vpravo nie - ide o krvnú skupinu A",
+      "B": "vľavo nie, vpravo nie - ide o krvnú skupinu B",
+      "C": "vľavo nie, vpravo nie - ide o krvnú skupinu AB",
+      "D": "vľavo nie, vpravo nie - ide o krvnú skupinu 0",
+      "E": "vpravo nie, vľavo nie - ide o krvnú skupinu A",
+      "F": "vpravo nie, vľavo nie - ide o krvnú skupinu B",
+      "G": "vpravo nie, vľavo nie - ide o krvnú skupinu AB",
+      "H": "vpravo nie, vľavo nie - ide o krvnú skupinu 0"
     },
     "correct": [
       "D",
@@ -17088,6 +17235,7 @@
       "C": "činnosť krvných doštičiek",
       "D": "diapedéza",
       "E": "zúženie cievy v poranenom mieste",
+      "F": "premena fibrinogénu na fibrín",
       "G": "premena fibrínu na fibrinogén",
       "H": "činnosť trombocytov"
     },
@@ -17145,7 +17293,8 @@
       "B": "sú včlenené do centrálnej nervovej sústavy",
       "C": "sa nachádzajú v slabinách",
       "D": "zachytávajú hormóny",
-      "E": "zachytávajú bunky vzniknuté redukčným delením f) zabezpečujú zvýšenie krvného tlaku",
+      "E": "zachytávajú bunky vzniknuté redukčným delením",
+      "F": "zabezpečujú zvýšenie krvného tlaku",
       "G": "zabezpečujú zníženie krvného tlaku",
       "H": "regulujú množstvo krvi"
     },
@@ -17203,9 +17352,9 @@
       "A": "peristaltikou čriev",
       "B": "systolou a diastolou",
       "C": "pulzom",
-      "D": "rytmickým zmršťovaním a ochabovaním srdca",
-      "E": "rytmickým zmršťovaním a ochabovaním kostrových svalov",
-      "F": "rytmickým zmršťovaním a ochabovaním ciev distribučnej sústavy",
+      "D": "rytmickým zmŕšťovaním a ochabovaním srdca",
+      "E": "rytmickým zmŕšťovaním a ochabovaním kostrových svalov",
+      "F": "rytmickým zmŕšťovaním a ochabovaním ciev distribučnej sústavy",
       "G": "obličkami",
       "H": "pečeňou"
     },
@@ -17366,7 +17515,7 @@
     "question": "Normálne hodnoty krvného tlaku v ramennej tepne zdravého dospelého človeka sú:",
     "options": {
       "A": "systolický 80 - 100 torr",
-      "B": "diastolický 60-80 torr",
+      "B": "diastolický 60 - 80 torr",
       "C": "diastolický 100 - 120 torr",
       "D": "systolický 100 - 120 torr",
       "E": "diastolický 120 - 140 torr",
@@ -17400,14 +17549,14 @@
     "id": 922,
     "question": "Normálne hodnoty krvného tlaku v ramennej tepne zdravého dospelého človeka sú:",
     "options": {
-      "A": "systolický 8-11 kPa",
-      "B": "diastolický 8-11 kPa",
+      "A": "systolický 8 - 11 kPa",
+      "B": "diastolický 8 - 11 kPa",
       "C": "diastolický 100 - 120 kPa",
-      "D": "systolický 14-16 kPa",
-      "E": "diastolický 12-14 kPa",
-      "F": "systolický 8-10 kPa",
-      "G": "systolický 13-14 kPa",
-      "H": "diastolický 18-19 kPa"
+      "D": "systolický 14 - 16 kPa",
+      "E": "diastolický 12 - 14 kPa",
+      "F": "systolický 8 - 10 kPa",
+      "G": "systolický 13 - 14 kPa",
+      "H": "diastolický 18 - 19 kPa"
     },
     "correct": [
       "B",
@@ -17433,11 +17582,11 @@
     "question": "Koľko litrov krvi má priemerne dospelý človek?",
     "options": {
       "A": "2 litre",
-      "B": "3000 mi",
+      "B": "3000 ml",
       "C": "5 litrov",
       "D": "7 litrov",
       "E": "4 litre",
-      "F": "5000 mi",
+      "F": "5000 ml",
       "G": "8000 ml",
       "H": "9 litrov"
     },
@@ -17583,7 +17732,8 @@
       "C": "začína v ľavej komore",
       "D": "začína v pravej komore",
       "E": "začína sa srdcovnicou",
-      "F": "začína sa hornou a dolnou dutou žilou g) končí sa hornou a dolnou dutou žilou",
+      "F": "začína sa hornou a dolnou dutou žilou",
+      "G": "končí sa hornou a dolnou dutou žilou",
       "H": "končí sa pľúcnymi žilami"
     },
     "correct": [
@@ -17801,7 +17951,7 @@
       "D": "klimatické zmeny",
       "E": "dostatok potravy",
       "F": "nedostatočná produkcia potomstva",
-      "G": "zmena atmosférického tlaku",
+      "G": "zmena atmosferického tlaku",
       "H": "znížená pohlavná aktivita"
     },
     "correct": [
@@ -17938,7 +18088,7 @@
     "id": 952,
     "question": "Homo sapiens sapiens žil už pred:",
     "options": {
-      "A": "10 OOO rokmi",
+      "A": "10 000 rokmi",
       "B": "40 000 rokmi",
       "C": "100 000 rokmi",
       "D": "250 000 rokmi",
@@ -18103,7 +18253,7 @@
     "question": "Medzi abiotické faktory prostredia patrí:",
     "options": {
       "A": "slnečné žiarenie",
-      "B": "činnosť nitrifíkačných baktérií",
+      "B": "činnosť nitrifikačných baktérií",
       "C": "voda",
       "D": "chemické zloženie pôdy",
       "E": "činnosť živých organizmov",
@@ -18183,9 +18333,9 @@
     "id": 965,
     "question": "Ako označujeme zvyšky škodlivých látok v organizme?",
     "options": {
-      "A": "rezíduá",
+      "A": "reziduá",
       "B": "stimulátory",
-      "C": "inhibitory",
+      "C": "inhibítory",
       "D": "sekundárne metabolity",
       "E": "ribozómy",
       "F": "erózie",
@@ -18201,7 +18351,7 @@
     "question": "Najväčšia druhová rozmanitosť je v:",
     "options": {
       "A": "umelých spoločenstvách",
-      "B": "artefíciálnych spoločenstvách",
+      "B": "arteficiálnych spoločenstvách",
       "C": "prírodných rastlinných spoločenstvách",
       "D": "prírodných živočíšnych spoločenstvách",
       "E": "monokultúrach",
@@ -18291,7 +18441,7 @@
       "A": "ekosystém",
       "B": "biotop",
       "C": "biocenóza",
-      "D": "Stanovi šte",
+      "D": "stanovište",
       "E": "biomasa",
       "F": "kratón",
       "G": "abiogenéza",
@@ -18338,7 +18488,7 @@
   },
   {
     "id": 974,
-    "question": "Ako sa nazýva najstarší zástupca (rod) čeľade hominidi z Ázie a Afriky, ktorého existencia sa datuje do doby pred 14 až 12 miliónmi rokov?",
+    "question": "Ako sa nazýva najstarší zástupca (rod) čeľade hominidi z Ázie a Afriky, ktorého existencia sa datuje do doby pred l4 až l2 miliónmi rokov?",
     "options": {
       "A": "rod Ramapithecus",
       "B": "rod Australopithecus",
@@ -18661,7 +18811,7 @@
     "options": {
       "A": "parazity sú veľké, predátory malé",
       "B": "predátory sa množia rýchlejšie ako parazity",
-      "C": "populácia predátorov j e väčšia ako parazitov",
+      "C": "populácia predátorov je väčšia ako parazitov",
       "D": "minimálne, ich funkcia v prírode býva podobná",
       "E": "žiadne, sú si navzájom zdrojom potravy",
       "F": "prarazity sú anaeróbne",
@@ -18704,7 +18854,7 @@
       "D": "30%",
       "E": "10%",
       "F": "4%",
-      "G": "H%",
+      "G": "11%",
       "H": "6%"
     },
     "correct": [

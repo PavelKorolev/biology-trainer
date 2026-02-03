@@ -3,7 +3,7 @@ import re
 
 # ================= НАСТРОЙКИ =================
 
-INPUT_FILE = "biologyV3.txt"      # ТЕКСТ с вопросами + ключами
+INPUT_FILE = "biotest.txt"      # ТЕКСТ с вопросами + ключами
 OUTPUT_FILE = "questions_all.json"
 
 MIN_Q = 1
