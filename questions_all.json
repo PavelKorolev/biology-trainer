@@ -5063,7 +5063,11 @@
       "A": "vzniká génovou mutáciou",
       "B": "vzniká genómovou mutáciou",
       "C": "vzniká chromozómovou aberáciou",
-      "D": "je viazaný na pohlavie"
+      "D": "je viazaný na pohlavie",
+      "E": "nie je viazaný na pohlavie",
+      "F": "je trizómia 21. chromozómu",
+      "G": "je tetrazómia 21. chromozómu",
+      "H": "môže vzniknúť nondisjunkciou 21. chromozómu pri meióze"
     },
     "correct": [
       "B",
@@ -5155,7 +5159,12 @@
     "options": {
       "A": "A s genotypom AA, ak je otec heterozygot",
       "B": "A alebo 0, ak je matka homozygot",
-      "C": "0 s genotypom 00, ak je matka homozygot"
+      "C": "0 s genotypom 00, ak je matka homozygot",
+      "D": "B s genotypom B0, ak je otec heterozygot",
+      "E": "A s genotypom AA ak je matka heterozygot",
+      "F": "0 s genotypom 00, ak je matka heterozygot",
+      "G": "A alebo 0, ak je matka heterozygot",
+      "H": "A s genotypom A0, ak je matka heterozygote"
     },
     "correct": [
       "F",

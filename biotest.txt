@@ -2470,7 +2470,6 @@ a) vzniká génovou mutáciou
 b) vzniká genómovou mutáciou
 c) vzniká chromozómovou aberáciou
 d) je viazaný na pohlavie
-63
 e) nie je viazaný na pohlavie
 f) je trizómia 21. chromozómu
 g) je tetrazómia 21. chromozómu
@@ -2515,7 +2514,6 @@ h) počas prenatálneho obdobia
 a) A s genotypom AA, ak je otec heterozygot
 b) A alebo 0, ak je matka homozygot
 c) 0 s genotypom 00, ak je matka homozygot
-64
 d) B s genotypom B0, ak je otec heterozygot
 e) A s genotypom AA ak je matka heterozygot
 f) 0 s genotypom 00, ak je matka heterozygot
