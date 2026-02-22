@@ -2360,7 +2360,11 @@
       "A": "u plynov závisí od tlaku",
       "B": "závisí od koncentrácie reagujúcich látok",
       "C": "je ovplyvnená prítomnosťou katalyzátorov",
-      "D": "je priamo úmerná súčinu molárnych koncentrácií reagujúcich látok"
+      "D": "je priamo úmerná súčinu molárnych koncentrácií reagujúcich látok",
+      "E": "možno vyjadriť ako zmenu koncentrácie reaktantov za časovú jednotku",
+      "F": "nezávisí od veľkosti aktivačnej energie",
+      "G": "je určená rovnovážnou konštantou",
+      "H": "závisí od teploty"
     },
     "correct": [
       "A",
@@ -3874,14 +3878,14 @@
     "id": 200,
     "question": "O amoniaku platí:",
     "options": {
-      "A": "je zložka amminkomplexov",
+      "A": "je zložka aminkomplexov",
       "B": "pri laboratórnych podmienkach je bezfarebný plyn",
       "C": "nerozpúšťa sa vo vode",
       "D": "najčastejšie sa správa ako kyselina, môže odovzdať protón iným látkam",
       "E": "je zlúčenina, ktorej molekuly sa navzájom spájajú vodíkovými väzbami",
       "F": "môže sa pripraviť reakciou dusíka s vodíkom",
-      "G": "s vodou reaguje ako Brônstedova zásada",
-      "H": "jeho vodný roztok farbí kongočerveň na modro fialovo"
+      "G": "s vodou reaguje ako Brønstedova zásada",
+      "H": "jeho vodný roztok farbí kongocerveň na modrofialovo"
     },
     "correct": [
       "A",
@@ -3889,6 +3893,1953 @@
       "E",
       "F",
       "G"
+    ]
+  },
+  {
+    "id": 201,
+    "question": "Kyselina dusičná:",
+    "options": {
+      "A": "oxiduje prakticky všetky kovy okrem zlata a platinových kovov",
+      "B": "tvorí soli hydrogendusičnany a dusičnany",
+      "C": "má výrazné oxidačné účinky, ktoré závisia od jej koncentrácie, od teploty a od druhu oxidovanej látky",
+      "D": "je silná kyselina",
+      "E": "sa s vodou mieša v každom pomere",
+      "F": "tvorí soli typu MNO2",
+      "G": "sa v laboratóriu môže pripraviť reakciou: 2 NaNO3 + H2SO4 → 2 HNO3 + Na2SO4",
+      "H": "spolu s HCl, v pomere 1:3, tvorí lúčavku kráľovskú"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 202,
+    "question": "O amónnych soliach platí tvrdenie:",
+    "options": {
+      "A": "katión NH4+ má kyslý charakter",
+      "B": "uhličitan amónny je nestály a asi pri 60 °C sa rozkladá",
+      "C": "môžu byť zložené z katiónu NH4+ a kyselinového aniónu X- a mať všeobecný vzorec NH4X",
+      "D": "amónne soli rozpustné vo vode podliehajú hydrolýze",
+      "E": "takmer všetky sú dobre rozpustné vo vode",
+      "F": "vo vodných roztokoch neionizujú",
+      "G": "zásaditý charakter katiónu NH4+ vyjadruje protolytická reakcia:"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 203,
+    "question": "O dusíku platí:",
+    "options": {
+      "A": "maximálne kladné oxidačné číslo jeho atómu je V a záporné oxidačné číslo je -III",
+      "B": "vo valenčnej vrstve má jeho atóm dva s elektróny a päť p elektrónov",
+      "C": "nachádza sa viazaný v liadku amónnom, ktorý sa používa ako priemyselné hnojivo",
+      "D": "v zlúčeninách sa atóm dusíka môže viazať jednoduchou, dvojitou alebo trojitou väzbou",
+      "E": "s vodíkom tvorí zlúčeniny: NH3, N2H4 (hydrazín) a N3H (azomid)",
+      "F": "je viazaný v zlúčenine, ktorá sa tiež nazýva „rajský plyn“",
+      "G": "tvorí tri oxidy: N2O, NO3, N2O7",
+      "H": "nachádza sa viazaný v močovine"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 204,
+    "question": "O fosfore (Z = 15), platí tvrdenie:",
+    "options": {
+      "A": "s vodíkom tvorí fosfán PH3 a difosfán P2H4",
+      "B": "vo forme vápenatých a horečnatých solí sa vyskytuje v kostiach a v zuboch",
+      "C": "s halogénmi (X) tvorí zlúčeniny typu P2X3 a P2X5",
+      "D": "patrí medzi biogénne prvky",
+      "E": "má elektróny rozložené vo vrstvách K, L, M a N",
+      "F": "vytvára prevažne iónové zlúčeniny",
+      "G": "vytvára prevažne zlúčeniny s kovalentnými väzbami",
+      "H": "s kyslíkom tvorí oxidy P4O6 a P4O10"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 205,
+    "question": "O dusíku platí tvrdenie:",
+    "options": {
+      "A": "atóm dusíka má kladné oxidačné číslo len v zlúčeninách s kyslíkom a fluórom, ktoré majú vyššiu hodnotu elektronegativity",
+      "B": "vyrába sa frakčnou destiláciou skvapalneného vzduchu",
+      "C": "v atmosfére sa vyskytuje prevažne vo forme atómového dusíka",
+      "D": "používa sa tam, kde je treba vytvoriť inertnú atmosféru",
+      "E": "atóm dusíka v niektorých zlúčeninách sa môže viazať s inými molekulami aj vodíkovými väzbami",
+      "F": "jeho molekula má elektrónový štruktúrny vzorec |N≡N|",
+      "G": "nachádza sa v hnojive nazvanom superfosfát",
+      "H": "ak má atóm dusíka v zlúčenine voľný elektrónový pár, môže sa viazať koordinačnou väzbou s atómami iných prvkov za vzniku komplexov"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 206,
+    "question": "O fosfore platí:",
+    "options": {
+      "A": "vyskytuje sa vo viacerých alotropických modifikáciách",
+      "B": "s vodíkom tvorí fosfán PH3 a difosfán P2H4",
+      "C": "má tri nespárené elektróny v orbitáloch 3p",
+      "D": "má izotop 32P, ktorý sa využíva pri štúdiu reakčných mechanizmov",
+      "E": "vyskytuje sa ako biely, červený a čierny fosfor",
+      "F": "prírodnou surovinou na výrobu fosforu je minerál dolomit",
+      "G": "nachádza sa v glykolipidoch",
+      "H": "atóm fosforu sa môže viazať s inými molekulami aj väzbou kyslíkovým mostíkom"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 207,
+    "question": "Biely fosfor:",
+    "options": {
+      "A": "je podstatne menej reaktívny ako červený a čierny fosfor",
+      "B": "je tvorený štvoratómovými molekulami",
+      "C": "sa dobre rozpúšťa vo vode a tak priamo tvorí H3PO4",
+      "D": "je najreaktívnejšou modifikáciou fosforu",
+      "E": "svieti",
+      "F": "na vzduchu je veľmi reaktívny a uchováva sa pod vodou",
+      "G": "je nejedovatou modifikáciou fosforu",
+      "H": "pri horení dáva oxidy: P4 —O2→ P4O6 —O2→ P4O10"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 208,
+    "question": "Kyselina trihydrogenfosforečná:",
+    "options": {
+      "A": "sa nenachádza v zlúčeninách: ATP, ADP a AMP",
+      "B": "vzniká reakciou: P4O10 + 6 H2O → 4 H3PO4",
+      "C": "má význam v metabolizme sacharidov",
+      "D": "tvorí soli, ktoré sú všetky dobre rozpustné vo vode",
+      "E": "je súčasťou nukleových kyselín",
+      "F": "je trojsýtna, stredne silná kyselina",
+      "G": "už pri obyčajnej teplote je veľmi reaktívna a má silné oxidačné účinky",
+      "H": "tvorí len dva typy solí: hydrogenfosforečnany a fosforečnany"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Keď zreaguje 1 mol kyseliny trihydrogenfosforečnej a 1 mol hydroxidu, v ktorom má atóm železa oxidačné číslo II, vznikne:",
+    "options": {
+      "A": "Fe3(PO4)2",
+      "B": "FeHPO4",
+      "C": "Fe2(HPO4)3",
+      "D": "Fe(H2PO4)2",
+      "E": "dihydrogenfosforečnan železnatý",
+      "F": "FePO4",
+      "G": "hydrogenfosforečnan železitý",
+      "H": "hydrogenfosforečnan železnatý"
+    },
+    "correct": [
+      "B",
+      "H"
+    ]
+  },
+  {
+    "id": 210,
+    "question": "Chloristan bizmutitý, dihydrogenfosforečnan strontnatý a dihydrogenarzeničnan amónny majú vzorce:",
+    "options": {
+      "A": "Bi(ClO2)3, SrHPO4, (NH4)3AsO4",
+      "B": "Bi(ClO3)3, Sr3(PO4)2, NH4AsO3",
+      "C": "Bi(ClO4)3, Sr(H2PO4)2, NH4H2AsO4",
+      "D": "BiClO4, SrH2P2O7, (NH4)AsO2",
+      "E": "BiCl3, Sr3(PO4)2, (NH4)3AsO3",
+      "F": "Bi(ClO4)3, Sr(H2PO4)2, (NH4)2AsO4",
+      "G": "Bi(ClO3)3, Sr2P2O7, (NH4)3AsO3",
+      "H": "Bi(ClO4)3, Sr(H2PO4)2, (NH4)2HAsO4"
+    },
+    "correct": [
+      "C"
+    ]
+  },
+  {
+    "id": 211,
+    "question": "O uhlíku (Z = 6) platí:",
+    "options": {
+      "A": "atóm uhlíka nemôže tvoriť zlúčeniny, v ktorých sú na jeden atóm uhlíka viazané rôzne atómy halogénov, napr. CF2Cl2, CFCl3",
+      "B": "atóm uhlíka môže mať oxidačné číslo -IV v zlúčeninách s prvkami, ktoré majú nižšiu hodnotu elektronegativity (napr. s vodíkom v metáne)",
+      "C": "je najrozšírenejším prvkom v prírode",
+      "D": "v prírode sa vyskytuje voľný aj viazaný v zlúčeninách",
+      "E": "patrí medzi biogénne prvky",
+      "F": "atóm uhlíka sa nachádza v zlúčeninách HCN, CS2 a COCl2, ktoré sa v medicíne používajú ako liečivá",
+      "G": "atóm uhlíka vo väčšine zlúčenín vystupuje ako štvorväzbový",
+      "H": "patrí medzi p2 prvky"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Zlúčenina COCl2:",
+    "options": {
+      "A": "sa pripravuje priamym zlučovaním oxidu uhoľnatého s chlórom",
+      "B": "sa nazýva guanidín",
+      "C": "je dichloridom oxidu uhoľnatého",
+      "D": "sa nazýva fosgén",
+      "E": "sa v laboratóriách používa ako rozpúšťadlo",
+      "F": "je prudko jedovatý plyn, používal sa na vojenské účely",
+      "G": "patrí medzi deriváty kyseliny uhličitej",
+      "H": "má štruktúru: Cl–C–OCl a je derivátom kyseliny chlórnej"
+    },
+    "correct": [
+      "A",
+      "D",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 213,
+    "question": "Určte, ktoré tvrdenie o CO platí:",
+    "options": {
+      "A": "má schopnosť sa viazať ako ligand na atómy prechodných kovov a byť zložkou komplexných zlúčenín",
+      "B": "vzniká pri spaľovaní uhlíka za nedostatočného prístupu vzduchu",
+      "C": "je súčasťou výfukových plynov spaľovacích motorov a znečisťuje životné prostredie",
+      "D": "má štruktúrny vzorec: O=C=O a jeho molekula je symetrická, nepolárna",
+      "E": "môže vznikať reakciou: C + CO2 → 2 CO",
+      "F": "je zložkou vodného plynu (zmes CO + H2)",
+      "G": "môže oxidovať oxidy kovov na elementárne kovy",
+      "H": "vzniká termickým rozkladom CaCO3"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 214,
+    "question": "O uhlíku (Z = 6) platí tvrdenie:",
+    "options": {
+      "A": "elektrónová konfigurácia atómu uhlíka v základnom stave je 1s2 2s2 2px1 2py1",
+      "B": "atóm uhlíka má v základnom stave dva nespárené elektróny v orbitáloch 2p",
+      "C": "pri zlúčeninách môže uplatňovať tetraedrickú hybridizáciu sp3",
+      "D": "vo väčšine zlúčenín vystupuje ako dvojväzbový",
+      "E": "energia väzieb C–C, C=C, C≡C je rovnaká",
+      "F": "atóm uhlíka môže s atómami iných prvkov tvoriť polárne aj nepolárne kovalentné väzby",
+      "G": "pre atóm uhlíka je typické, že v zlúčenine sa s atómom iného prvku môže viazať vodíkovou väzbou",
+      "H": "ak má atóm uhlíka v zlúčenine voľný elektrónový pár, môže vystupovať ako donor elektrónov a viazať sa koordinačnou väzbou (napr. karbonyl prechodných kovov)"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 215,
+    "question": "Kyselina uhličitá:",
+    "options": {
+      "A": "sa dá z roztoku izolovať v kryštalickej forme",
+      "B": "tvorí soli, v ktorých sú anióny HCO3− alebo CO3^2−",
+      "C": "sa nachádza aj v ľudskom organizme",
+      "D": "tvorí soli uhličitany, ktoré nemožno rozložiť pôsobením silnejších kyselín ako je H2CO3",
+      "E": "vzniká rozpúšťaním CO2 vo vode a prevažnou časťou v roztoku sú hydratované molekuly CO2 · x H2O",
+      "F": "tvorí soli uhličitany, ktoré vo vodnom roztoku podliehajú hydrolýze (ak sú rozpustné)",
+      "G": "tvorí anión HCO3−, ktorý môže byť v niektorých protolytických reakciách zásadou",
+      "H": "patrí medzi silné kyseliny"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 216,
+    "question": "O kremíku platí tvrdenie:",
+    "options": {
+      "A": "pri bežných podmienkach je v plynom skupenstve",
+      "B": "tvorí oxid kremičitý, ktorý pri tavení s alkalickými hydroxidmi reaguje podľa všeobecnej rovnice:"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 217,
+    "question": "O prvkoch IV.A (14.) skupiny periodickej sústavy platí:",
+    "options": {
+      "A": "v prírode sa okrem uhlíka vyskytujú len v zlúčeninách",
+      "B": "vo valenčnej vrstve majú štyri elektróny",
+      "C": "C je nekov, Si, Ge, Sn a Pb sú kovy",
+      "D": "atómy uhlíka, kremíka a germánia sa v zlúčeninách viažu aj dvojitými a trojitými väzbami",
+      "E": "vo valenčnej vrstve majú elektrónovú konfiguráciu: ns2np2",
+      "F": "tvoria rovnaké zlúčeniny s veľmi podobnými vlastnosťami",
+      "G": "patria medzi biogénne mikroprvky",
+      "H": "do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu im chýbajú štyri elektróny"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 218,
+    "question": "O kremíku a jeho zlúčeninách platí:",
+    "options": {
+      "A": "atóm kremíka má v zlúčeninách s elektronegatívnejšími prvkami najčastejšie oxidačné číslo IV",
+      "B": "kremík, podobne ako uhlík, môže tvoriť reťazce spojené jednoduchou (Si–Si) a dvojitou kovalentnou väzbou (Si=Si), pričom väzby sú rovnako silné, rozdiel je len v dĺžke reťazcov",
+      "C": "kremík tvorí s vodíkom zlúčeniny, ktoré sa nazývajú silány",
+      "D": "kremík je najrozšírenejším prvkom v prírode",
+      "E": "SiO2 sa môže taviť s alkalickými hydroxidmi za vzniku rozpustných silanov",
+      "F": "kremík sa v nízkom množstve vyskytuje v telách vyšších živočíchov a v niektorých rastlinách",
+      "G": "kremík môže tvoriť zlúčeniny: SiS2, SiC a halogenidy typu SiX4",
+      "H": "sklo vzniká tavením kremenného piesku so zmesou alkalických uhličitanov"
+    },
+    "correct": [
+      "A",
+      "C",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 219,
+    "question": "Určte, ktoré tvrdenie o kyanidoch je správne:",
+    "options": {
+      "A": "kyanidy majú vo molekule anión OCN−",
+      "B": "kyanidový anión môže byť ligandom v komplexných zlúčeninách",
+      "C": "kyanidový anión môže byť centrálnym atómom v koordinačných zlúčeninách",
+      "D": "kyanidy sú soli kyseliny kyanatej",
+      "E": "kyanidy sa odvodzujú od kyseliny kyanovodíkovej",
+      "F": "z kyanidov je jedovatý len KCN (kyankáli)",
+      "G": "anión CN− je silná zásada a preto rozpustné kyanidy vo vode silne hydrolyzujú",
+      "H": "všetky kyanidy sú prudko jedovaté"
+    },
+    "correct": [
+      "B",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 220,
+    "question": "Podstatu vzniku krasových útvarov vyjadruje rovnica:",
+    "options": {
+      "A": "2 NaHCO3 → Na2CO3 + H2O + CO2",
+      "B": "CaCO3 → CaO + CO2",
+      "C": "Ca(HCO3)2 ⇄ CaCO3 + CO2 + H2O",
+      "D": "Ca(HSO4)2 ⇄ CaSO4 + SO3 + H2O",
+      "E": "Mg(NO3)2 → MgO + N2O5",
+      "F": "MgCO3 → MgO + CO2",
+      "G": "CaSO4 → CaO + SO3",
+      "H": "Mg(HSO4)2 ⇄ MgSO4 + SO3 + H2O"
+    },
+    "correct": [
+      "C"
+    ]
+  },
+  {
+    "id": 221,
+    "question": "Prvky B, Al, Ga, In, Tl:",
+    "options": {
+      "A": "vo valenčnej vrstve majú elektrónovú konfiguráciu ns2np1",
+      "B": "patria medzi prechodné prvky",
+      "C": "v prírode sa vyskytujú len viazané v zlúčeninách",
+      "D": "všetky tvoria zlúčeniny, v ktorých sú ich atómy viazané výlučne kovalentnými väzbami",
+      "E": "vyznačujú sa rovnakou chemickou reaktivitou a schopnosťou vo vodných roztokoch tvoriť katióny",
+      "F": "patria medzi p1 prvky",
+      "G": "vo valenčnej vrstve majú tri elektróny v orbitáloch p",
+      "H": "okrem bóru sú všetky kovy"
+    },
+    "correct": [
+      "A",
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 222,
+    "question": "Keď zreagujú 3 moly kyseliny sírovej a 2 moly hydroxidu hlinitého vznikne:",
+    "options": {
+      "A": "3 mol H2O",
+      "B": "1 mol síranu hlinitého",
+      "C": "1 mol Al2(SO4)3",
+      "D": "2 mol Al2(SO4)3",
+      "E": "6 mol H2O",
+      "F": "1 mol Al2(SO4)3",
+      "G": "2 mol síranu hlinitého",
+      "H": "1 mol tiosíranu hlinitého"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 223,
+    "question": "O hliníku platí:",
+    "options": {
+      "A": "má redukčné vlastnosti, ktoré sa využívajú v aluminotermii",
+      "B": "má veľkú oxidačnú schopnosť",
+      "C": "alobal používaný v potravinárstve je chemicky hliník",
+      "D": "v zlúčeninách má atóm hliníka oxidačné čísla III a V",
+      "E": "môže sa nachádzať v komplexných zlúčeninách, napr. hexafluorohlinitan sodný, tetrahydroxohlinitan lítny",
+      "F": "v zlúčenine Al(HSO4)3 má atóm hliníka oxidačné číslo I",
+      "G": "vyrába sa elektrolýzou taveniny Al2O3 s kryolitom",
+      "H": "pri zohrievaní na vzduchu reaguje podľa rovnice: 4 Al + 3 O2 → 2 Al2O3"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Hliník:",
+    "options": {
+      "A": "má veľkú redukčnú schopnosť",
+      "B": "nevedie elektrický prúd",
+      "C": "tvorí so slabými kyselinami soli, ktoré v roztokoch neionizujú a nepodliehajú hydrolýze (napr. octan)",
+      "D": "má v zlúčeninách atómy s oxidačným číslom III",
+      "E": "je na vzduchu stály, pretože na povrchu vytvára kompaktnú vrstvu oxidu, ktorá ho chráni pred ďalším vplyvom vody a okolitého prostredia",
+      "F": "patrí medzi ušľachtilé kovy",
+      "G": "nemôže tvoriť binárne zlúčeniny",
+      "H": "tvorí hydroxid hlinitý, ktorý môže reagovať s vodnými roztokmi silných kyselín aj hydroxidov"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 225,
+    "question": "Prvky: Li, Na, K, Rb, Cs, Fr:",
+    "options": {
+      "A": "majú atómy, ktoré majú o jeden valenčný elektrón menej ako predchádzajúci vzácny plyn",
+      "B": "nazývajú sa tiež kovy alkalických zemín",
+      "C": "sú kovy",
+      "D": "patria medzi s1 prvky",
+      "E": "sa tiež nazývajú alkalické kovy",
+      "F": "majú jeden valenčný elektrón p",
+      "G": "nachádzajú sa v I.A (1.) skupine periodickej sústavy prvkov",
+      "H": "patria medzi prvky s vysokou hodnotou elektronegativity"
+    },
+    "correct": [
+      "C",
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 226,
+    "question": "O alkalických kovoch môžeme tvrdiť:",
+    "options": {
+      "A": "katióny alkalických kovov M+ majú elektrónovú konfiguráciu predchádzajúceho vzácneho plynu",
+      "B": "sú pomerne mäkké a dajú sa krájať nožom",
+      "C": "ich atómy sa ľahko redukujú na ióny podľa všeobecnej rovnice: M + e− → M−",
+      "D": "ich atómy majú v zlúčeninách oxidačné číslo I",
+      "E": "ich atómy sa oxidujú na ióny podľa všeobecnej rovnice: M → M2+ + 2 e−",
+      "F": "v zlúčeninách sa ich atómy vyskytujú ako anióny",
+      "G": "všetky izotopy francia sú rádioaktívne",
+      "H": "ich oxidy sú zásadotvorné"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 227,
+    "question": "Pre zlúčeniny alkalických kovov platí, že:",
+    "options": {
+      "A": "prevažne majú iónový charakter (výnimkou sú niektoré zlúčeniny lítia)",
+      "B": "katióny alkalických kovov sú v zlúčeninách bezfarebné",
+      "C": "pary ich prchavých zlúčenín vždy farbia plameň na karmínovočerveno",
+      "D": "vo vode neionizujú, ale ostávajú vo forme molekúl",
+      "E": "atómy alkalických kovov majú v zlúčeninách oxidačné číslo I",
+      "F": "väčšinou sú dobre rozpustné vo vode",
+      "G": "zlúčeniny obsahujúce draslík farbia plameň na žlto",
+      "H": "ich katióny sú farebné"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 228,
+    "question": "Kovy umiestnené v rade napätia naľavo od vodíka:",
+    "options": {
+      "A": "majú záporné elektródové potenciály",
+      "B": "označujeme ako ušľachtilé",
+      "C": "sú napr. Li, Sr, Ca, Na, Mg, Al, Zn, Cr, Ni, Fe, Pb",
+      "D": "sa nerozpúšťajú v roztokoch silných kyselín za vývinu vodíka",
+      "E": "sú napr. Li, Mg, Pb, Cu, Hg, Ag, Pt, Au",
+      "F": "reagujú s kyselinami za vzniku vodíka",
+      "G": "označujeme ako neušľachtilé",
+      "H": "majú nulový elektródový potenciál"
+    },
+    "correct": [
+      "A",
+      "C",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Prvky s2:",
+    "options": {
+      "A": "tvoria zlúčeniny, v ktorých majú ich atómy oxidačné číslo II",
+      "B": "nazývajú sa tiež alkalické kovy",
+      "C": "patria medzi prvky s nízkou hodnotou elektronegativity",
+      "D": "v prírode sa nachádzajú voľné aj viazané v zlúčeninách",
+      "E": "sú reaktívnejšie ako prvky umiestnené v II.B (12.) skupine periodickej sústavy prvkov",
+      "F": "sú silné oxidovadlá",
+      "G": "majú atómy, ktoré sa môžu oxidovať podľa všeobecnej rovnice: M → M2+ + 2 e−",
+      "H": "tvoria zlúčeniny, ktoré sú všetky rozpustné vo vode"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 230,
+    "question": "Pre prvky s platí:",
+    "options": {
+      "A": "všetky patria medzi kovy (okrem vodíka a He)",
+      "B": "atómy prvkov s1 majú v zlúčeninách oxidačné číslo I",
+      "C": "v zlúčeninách sa ich atómy vyskytujú ako anióny",
+      "D": "ich atómy majú o jeden alebo dva elektróny viac ako atómy predchádzajúcich vzácnych plynov",
+      "E": "atómy prvkov s2 majú v zlúčeninách typické oxidačné číslo II",
+      "F": "ich atómy majú o jeden alebo dva elektróny menej ako atómy predchádzajúcich vzácnych plynov",
+      "G": "nachádzajú sa v I.A a II.A (1. a 2.) skupine periodickej sústavy prvkov (okrem He)",
+      "H": "na väzbu s inými prvkami poskytujú ich atómy elektrónový pár"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 231,
+    "question": "Horčík:",
+    "options": {
+      "A": "zaraďujeme medzi nekovové prvky",
+      "B": "zaraďujeme medzi chalkogény",
+      "C": "môžeme pripraviť elektrolýzou taveniny MgCl2",
+      "D": "sa môže nachádzať v zelených rastlinách",
+      "E": "zaraďujeme medzi prvky III. periódy v sústave prvkov",
+      "F": "patrí medzi alkalické kovy",
+      "G": "patrí medzi prvky, ktoré sú silné redukovadlá",
+      "H": "sa nachádza v II.A (2.) skupine periodickej sústavy prvkov"
+    },
+    "correct": [
+      "C",
+      "D",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 232,
+    "question": "Oxid vápenatý:",
+    "options": {
+      "A": "je pri bežných podmienkach tuhá látka",
+      "B": "sa nazýva aj „hasené vápno“",
+      "C": "pri reakcii s vodou spôsobí, že pH vzniknutého roztoku bude vyššie ako 7",
+      "D": "pod názvom „blat“ sa používa ako hnojivo",
+      "E": "sa môže pripraviť rozkladom CaCO3",
+      "F": "je kyselinotvorný oxid",
+      "G": "s vodou nereaguje",
+      "H": "reaguje s vodou za vzniku hydroxidu"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Prvky s1:",
+    "options": {
+      "A": "tvoria soli, ktoré sú väčšinou rozpustné vo vode (okrem vodíka)",
+      "B": "sú: Be, Mg, Ca, Sr, Ba, Ra",
+      "C": "sa vyznačujú dobrou elektrickou a tepelnou vodivosťou (okrem H)",
+      "D": "tvoria katióny, ktoré majú o jeden elektrón viac ako predchádzajúci vzácny plyn",
+      "E": "sú umiestnené v I. hlavnej (A) skupine (1.) periodickej sústavy prvkov",
+      "F": "pre svoju reaktivitu sa uskladňujú v chemicky inertnom prostredí (okrem H)",
+      "G": "všetky tvoria katióny s oxidačným číslom I a II",
+      "H": "tvoria zlúčeniny, ktoré majú prevažne iónový charakter (okrem vodíka)"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 234,
+    "question": "O alkalických kovoch platí:",
+    "options": {
+      "A": "pri horení na vzduchu vzniká z lítia Li2O a zo sodíka vzniká Na2O2",
+      "B": "zlúčeniny obsahujúce sodík farbia plameň na červeno",
+      "C": "majú redukčné vlastnosti, čo je možno vyjadriť reakciou s vodíkom:"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 235,
+    "question": "Pri porovnaní sily (zásaditosti) roztokov hydroxidov alkalických kovov a kovov alkalických zemín platí, že:",
+    "options": {
+      "A": "KOH je silnejší ako Ca(OH)2",
+      "B": "CsOH je silnejší ako NaOH",
+      "C": "LiOH je slabší ako NaOH",
+      "D": "KOH je slabší ako LiOH",
+      "E": "NaOH je slabší ako RbOH",
+      "F": "Ca(OH)2 je silnejší ako Ba(OH)2",
+      "G": "Sr(OH)2 je silnejší ako CsOH",
+      "H": "RbOH je silnejší ako Ca(OH)2"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 236,
+    "question": "Kovové prvky s1 a s2:",
+    "options": {
+      "A": "sa líšia tým, že prvky s1 tvoria zásadotvorné oxidy a prvky s2 tvoria oxidy, ktoré sú kyselinotvorné",
+      "B": "tvoria hydridy",
+      "C": "sú silné redukovadlá",
+      "D": "ľahko odovzdávajú valenčné elektróny a tvoria katióny",
+      "E": "v prírode sa vyskytujú voľné aj viazané",
+      "F": "ktoré sa nachádzajú napr. v 4. perióde, tvoria peroxidy",
+      "G": "tvoria s vodíkom binárne zlúčeniny, nazývané hydridy",
+      "H": "sú v zlúčeninách viazané väčšinou iónovou väzbou"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 237,
+    "question": "O d prvkoch môžeme povedať:",
+    "options": {
+      "A": "majú vysoké teploty topenia a varu (okrem Hg)",
+      "B": "môžu byť ligandom v koordinačných zlúčeninách",
+      "C": "dobre vedú teplo a elektrický prúd",
+      "D": "podľa oxidačného čísla majú ich zlúčeniny v roztokoch rôzne zafarbenie, napr. zlúčeniny CrVI sú žlté a zlúčeniny CrIII sú zelené",
+      "E": "nazývajú sa tiež neprechodné prvky",
+      "F": "mnohé d prvky a ich zlúčeniny pôsobia ako katalyzátory chemických reakcií",
+      "G": "patria medzi kovy alkalických zemín",
+      "H": "v zlúčeninách môžu mať ich atómy rôzne oxidačné čísla"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Medzi d prvky patria:",
+    "options": {
+      "A": "prvky, ktorých atómy majú elektróny v orbitáloch ns a tiež v orbitáloch (n − 1)d1–10, kde: n = 4 – 7",
+      "B": "prechodné prvky",
+      "C": "prvky, ktorých katióny sú vo vodných roztokoch prevažne bezfarebné",
+      "D": "napr. N, O, S, Cl",
+      "E": "napr. V, Cr, Mn, Zr, Mo",
+      "F": "prvky, ktorých atómy na tvorbu väzieb môžu využiť orbitál ns, ako aj (n − 1)d orbitály",
+      "G": "prvky VIIIA (18.) skupiny periodickej sústavy prvkov",
+      "H": "prvky umiestnené v A skupinách periodickej sústavy prvkov"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Pre prechodné prvky platí:",
+    "options": {
+      "A": "na tvorbu väzieb okrem orbitálu ns využívajú aj (n − 1)d orbitály",
+      "B": "ich atómy majú najvyššie oxidačné čísla v zlúčeninách s fluórom a kyslíkom",
+      "C": "v zlúčeninách majú ich atómy oxidačné čísla len II a III",
+      "D": "majú schopnosť tvoriť koordinačné zlúčeniny",
+      "E": "dopĺňajú si (n − 1)d orbitály a preto za sebou v jednej perióde nasleduje vždy desať prechodných prvkov",
+      "F": "že ich atómy majú v zlúčeninách oxidačné číslo −II, −III, −IV, −V",
+      "G": "môžu byť donormi elektrónov v koordinačných zlúčeninách",
+      "H": "ióny a zlúčeniny d prvkov sú väčšinou farebné"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 240,
+    "question": "Vyberte neutrálne molekuly alebo ióny, ktoré môžu byť ligandmi v komplexných zlúčeninách:",
+    "options": {
+      "A": "H2, Na+, CO3^2−",
+      "B": "F−, Cl−, CN−",
+      "C": "H2O, NH3, CO",
+      "D": "všetky tie, ktoré môžu byť akceptormi elektrónov",
+      "E": "CN−, OH−, I−",
+      "F": "Br−, H2O, CO",
+      "G": "O2^2−, S^2−, SCN−",
+      "H": "O2−, H3O+, CH4"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 241,
+    "question": "V komplexnej zlúčenine [Ni(NH3)6](NO3)2:",
+    "options": {
+      "A": "je ligandom katión [Ni(NH3)6]2+",
+      "B": "sú ligandmi molekuly NH3",
+      "C": "sú ligandmi anióny NO3−",
+      "D": "je atóm niklu donorom elektrónového páru",
+      "E": "je nikel centrálnym atómom",
+      "F": "je oxidačné číslo centrálneho atómu II",
+      "G": "má centrálny atóm koordinačné číslo 6",
+      "H": "sa anión NO3− viaže koordinačnou väzbou na centrálny atóm"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Ak sú molekuly H2O, NH3 a CO ligandami v komplexných zlúčeninách, vo vzorcoch ich čítame:",
+    "options": {
+      "A": "akvo, ammo, karboxyl",
+      "B": "hydro, ammin, karbonyl",
+      "C": "akva, amino, karbo",
+      "D": "akva, ammin, karbonyl",
+      "E": "hydrato, amo, karbonato",
+      "F": "hydro, amino, karbonato",
+      "G": "akva, amo, karbonát",
+      "H": "hydro, ammino, karbonyl"
+    },
+    "correct": [
+      "D"
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Koordinačné číslo určuje:",
+    "options": {
+      "A": "oxidačné číslo centrálneho atómu komplexu",
+      "B": "skupinu, v ktorej sa v periodickej tabuľke nachádza centrálny atóm komplexu",
+      "C": "číslo periódy, v ktorej sa nachádza centrálny atóm komplexu",
+      "D": "počet atómov, ktoré sa priamo viažu koordinačnou väzbou na centrálny atóm komplexu",
+      "E": "či je väzba medzi centrálnym atómom komplexu a ligandom jednoduchá, dvojitá alebo trojitá",
+      "F": "počet centrálnych atómov v koordinačnej zlúčenine",
+      "G": "či je centrálny atóm priamo spojený s iným centrálnym atómom",
+      "H": "oxidačné číslo komplexného katiónu"
+    },
+    "correct": [
+      "D"
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Pre prvky triády železa a ich zlúčeniny platí:",
+    "options": {
+      "A": "Fe, Co a Ni sú zaradené do VIII.B (8.–10.) skupiny periodickej sústavy prvkov",
+      "B": "prvky skupiny železa (tzv. triáda železa) sa nachádzajú v šiestej (dlhej) perióde",
+      "C": "železo patrí medzi ušľachtilé kovy",
+      "D": "atómy kobaltu a niklu môžu na väzby s atómami iných prvkov využiť okrem ns orbitálu aj (n − 1)d orbitály",
+      "E": "železo môže tvoriť zlúčeniny: sulfidy a halogenidy",
+      "F": "vo vodnom roztoku ľahko prebieha úplná ionizácia uvedenej zlúčeniny podľa rovnice:"
+    },
+    "correct": [
+      "A",
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 245,
+    "question": "V komplexe Na3[Sc(OH)6]:",
+    "options": {
+      "A": "je atóm sodíka akceptorom elektrónov",
+      "B": "je koordinačné číslo centrálneho atómu 6",
+      "C": "je ligandom katión Sc3+",
+      "D": "ligandmi sú anióny OH−",
+      "E": "je atóm skandia akceptorom elektrónov",
+      "F": "je oxidačné číslo atómu skandia II",
+      "G": "má centrálny atóm oxidačné číslo III",
+      "H": "je anión OH− centrálnym atómom"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 246,
+    "question": "Vyberte, ktoré oxidačné číslo centrálneho atómu je pre danú koordinačnú zlúčeninu uvedené správne:",
+    "options": {
+      "A": "IV v (NH4)2[Ce(NO3)6]",
+      "B": "II v K3[Co(CN)6]",
+      "C": "III v [Fe(H2O)6]Cl2",
+      "D": "IV v Cs2[Pt(OH)6]",
+      "E": "II v [Pt(NH3)6]Cl4",
+      "F": "I v K[Au(CN)2]",
+      "G": "I v [Cu(H2O)4]SO4",
+      "H": "II v K2[Ni(CN)4]"
+    },
+    "correct": [
+      "A",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 247,
+    "question": "Medzi molekuly obsahujúce koordinačnú väzbu patria:",
+    "options": {
+      "A": "žlčové kyseliny a žlčové farbivá",
+      "B": "hemoglobín a vitamín B12",
+      "C": "vitamín B12 a myoglobín",
+      "D": "myoglobín a chlorofyl",
+      "E": "vitamín A a bilirubín",
+      "F": "vitamín D a riboflavín",
+      "G": "chlorofyl a hemoglobín",
+      "H": "purínové zásady a vitamín B6"
+    },
+    "correct": [
+      "B",
+      "C",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 248,
+    "question": "O elektrónovej konfigurácii atómu platí:",
+    "options": {
+      "A": "je usporiadanie elektrónov v elektrónovom obale atómu v jednotlivých orbitáloch",
+      "B": "určuje chemické vlastnosti prvku",
+      "C": "konfigurácia valenčnej sféry vzácnych plynov je dubletová alebo oktetová",
+      "D": "podmieňuje reaktivitu prvku",
+      "E": "určuje počet neutrónov v jadre",
+      "F": "určuje nukleónové číslo atómu",
+      "G": "ovplyvňuje vlastnosti prvku a jeho zlúčenín",
+      "H": "vyplýva z určitých zákonitostí, napr. z výstavbového princípu, Hundovho pravidla a Pauliho princípu"
+    },
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 249,
+    "question": "O prvkoch VIII.B skupiny periodickej sústavy prvkov platí:",
+    "options": {
+      "A": "ôsma B skupina periodickej sústavy prvkov sa skladá z troch „triád“",
+      "B": "prvky Fe, Co a Ni tvoria tzv. triádu železa",
+      "C": "prvky Os, Ir a Pt (tzv. platinové kovy) sa nachádzajú v štvrtej perióde",
+      "D": "pre ich všetky atómy je charakteristické oxidačné číslo VIII",
+      "E": "ich atómy môžu mať v zlúčeninách aj viac oxidačných čísel",
+      "F": "prvky Os, Ir a Pt patria medzi ušľachtilé kovy",
+      "G": "všetky platinové kovy majú nízke teploty topenia a sú pomerne mäkké",
+      "H": "ródium a irídium môžu tvoriť kamence, v ktorých majú ich atómy oxidačné číslo III"
+    },
+    "correct": [
+      "A",
+      "B",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 250,
+    "question": "O komplexných zlúčeninách platí:",
+    "options": {
+      "A": "centrálnym atómom sú prevažne prvky I.A (1.) skupiny periodickej sústavy prvkov",
+      "B": "komplex môže byť katión, anión alebo neutrálny",
+      "C": "centrálnym atómom je najčastejšie molekula, napr. NH3, H2O, alebo ión, napr. Cl−, CN−",
+      "D": "centrálny atóm má voľný elektrónový pár",
+      "E": "donormi elektrónov sú ligandy",
+      "F": "medzi centrálnym atómom a ligandami je koordinačná väzba",
+      "G": "medzi ligandom a centrálnym atómom je iónová väzba",
+      "H": "centrálny atóm je akceptorom elektrónov"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 251,
+    "question": "Pre atómy prvkov I.B (11.) skupiny a ich zlúčeniny platí:",
+    "options": {
+      "A": "atómy striebra majú v zlúčeninách oxidačné číslo I a atómy zlata I a III",
+      "B": "katióny Cu+ a Cu2+ môžu byť súčasťou komplexných zlúčenín",
+      "C": "atómy prvkov I.B (11.) skupiny majú vo valenčnej vrstve (n) jeden s a jeden p elektrón",
+      "D": "atómy prvkov I.B (11.) skupiny sa od atómov prvkov I.A (1.) skupiny líšia tým, že v predposlednej elektrónovej vrstve (n−1) nemajú iba oktet, ale majú aj 10 d elektrónov. Vo valenčnej vrstve (n) majú rovnako jeden elektrón",
+      "E": "zastúpenie zlata v zliatinách sa udáva v karátoch – rýdze zlato má 585 karátov",
+      "F": "strieborné predmety v prostredí sulfánu na vzduchu postupne očernejú, pretože prebieha reakcia: 4 Ag + 2 H2S + O2 → 2 Ag2S + 2 H2O",
+      "G": "halogenidy striebra sú citlivé na svetlo, čo sa využíva vo fotografii (hlavne AgBr)",
+      "H": "v zlúčenine Na[AuCl4] · 2 H2O má centrálny atóm oxidačné číslo IV a koordinačné číslo 3"
+    },
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 252,
+    "question": "Pre meď a jej zlúčeniny platí:",
+    "options": {
+      "A": "v zlúčenine Na2[Cu(OH)4] má atóm medi koordinačné číslo 2 a oxidačné číslo I",
+      "B": "atóm medi s oxidačným číslom II nemôže byť centrálnym atómom v komplexných zlúčeninách",
+      "C": "síran meďnatý je súčasťou Fehlingovho činidla na dôkaz redukčných vlastností organických látok (napr. monosacharidov), pričom dochádza k reakcii:"
+    },
+    "correct": [
+      "C",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 253,
+    "question": "Pre prvky II.B (12.) skupiny a ich zlúčeniny platí:",
+    "options": {
+      "A": "zlúčeniny ortuti nie sú vždy rudisko jedom, toxická je len kovová ortuť",
+      "B": "atómy prvkov II.B (12.) skupiny, podobne ako atómy prvkov II.A (2.) skupiny, majú v predposlednej vrstve (n−1) osem elektrónov",
+      "C": "ortuť môže mať v zlúčeninách oxidačné číslo I, napr. Hg2Cl2 (kalomel), alebo II, napr. HgCl2 (sublimát)",
+      "D": "atómy prvkov II.B (12.) skupiny majú valenčné elektróny rozmiestnené vo vrstvách K, L, M a N",
+      "E": "ortuť tvorí zliatinu s hliníkom a železom, ktorá sa nazýva alpaka",
+      "F": "atómy prvkov II.B (12.) skupiny majú v ns orbitáloch dva s elektróny a vo vrstve (n−1) majú 18 elektrónov",
+      "G": "kadmium môže reagovať s kyselinou chlorovodíkovou podľa rovnice:"
+    },
+    "correct": [
+      "C",
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 254,
+    "question": "Označte správne názvy zlúčenín [Fe(H2O)6]Cl2 a Cs2[Pt(OH)6]:",
+    "options": {
+      "A": "chlorid hexaaquoželeznatý, hexahydroxoplatičitan cézny",
+      "B": "chlorid hexaakvazelezitý, hexahydroxoplatičitan cézny",
+      "C": "chlorid hexaakvazeleznatý, hexahydroxoplatičitan cézny",
+      "D": "hexaakvazeleznatan chlóru, hexahydroxoplatičitan céricitý",
+      "E": "chlorid hexaakvazelezitý, hexahydroxoplatičitan cézny",
+      "F": "chlorid hexaakvazeleznatý, hexahydroxoplatnatán cézny",
+      "G": "hexaakvazeleznatan chlóru, hexahydroxoplatičitan cézny",
+      "H": "chlorid hexaakvazelezitý, hexahydroxoplatnatan céznatý"
+    },
+    "correct": [
+      "C"
+    ]
+  },
+  {
+    "id": 255,
+    "question": "O rádioaktivite platí tvrdenie:",
+    "options": {
+      "A": "vonkajšie podmienky nemôžu ovplyvniť typ rádioaktívneho žiarenia (α, β alebo γ)",
+      "B": "lúče α, β a γ sa nelíšia v tom, ako sa správajú v elektrickom a magnetickom poli",
+      "C": "nezávisí od toho, či je atóm súčasťou prvku alebo zlúčeniny",
+      "D": "rádioaktivitu možno charakterizovať aj dobou polovičného rozpadu (polčas rozpadu), v ktorej počet pôvodných rádioaktívnych atómov sa zníži na polovicu",
+      "E": "je vlastnosťou atómu",
+      "F": "je samovoľný rozpad jadier atómov niektorých prvkov, sprevádzaný jadrovým žiarením",
+      "G": "prírodná rádioaktivita je dej, pri ktorom nastáva iba zmena elektrónového obalu atómu rádioaktívneho prvku, spojená s dodaním energie",
+      "H": "objav rádioaktivity potvrdil, že jadra atómov sú nedeliteľnými časticami"
+    },
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 256,
+    "question": "Pre jadrové žiarenie platí:",
+    "options": {
+      "A": "po vyžiarení častice α vznikne atóm prvku, ktorý má nukleónové číslo vyššie o štyri ako pôvodný atóm",
+      "B": "žiarenie β je prúd elektrónov, ktoré môže zadržať vrstva olova hrúbky 1,5 mm",
+      "C": "žiarenie γ je elektromagnetické vlnenie s veľmi krátkou vlnovou dĺžkou (0,5 – 40 pm)",
+      "D": "žiarenie γ je najmenej prenikavou časťou jadrového žiarenia",
+      "E": "žiarenia α, β a γ sa líšia správaním sa v elektrickom a magnetickom poli",
+      "F": "po vyžiarení častice α vznikne atóm prvku, ktorý má protónové číslo nižšie o dve a nukleónové číslo nižšie o štyri ako mal pôvodný atóm",
+      "G": "žiarenie α je prúd rýchlych jadier atómov hélia a v magnetickom poli sa odchyľuje ako prúd kladných nábojov",
+      "H": "žiarenie γ má rovnakú energiu ako svetelné žiarenie"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 257,
+    "question": "O rádioaktivite platí:",
+    "options": {
+      "A": "žiarenie α je spôsobené jadrovou premenou elektrónu na protón",
+      "B": "samovoľné rádioaktívne premeny jadier sú možné vtedy, keď sa pri nich uvoľňuje väzbová energia jadra",
+      "C": "pri vyžiarení častice α sa prvok v periodickej sústave prvkov posunie o dve miesta vľavo a pri vyžiarení častice β o jedno miesto vpravo",
+      "D": "žiarenie β je prúd rýchlych protónov",
+      "E": "žiarenie β je spôsobené jadrovou premenou neutrónu na protón",
+      "F": "lúče β sa v magnetickom poli odchyľujú ako prúd záporných nábojov",
+      "G": "žiarenie β je prenikavejšie ako žiarenie α",
+      "H": "žiarenie γ je spojené s tvorbou nového prvku, ktorý bude v periodickej sústave prvkov umiestnený dve miesta vpravo oproti pôvodnému prvku"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Zo skúmaného roztoku chloridu draselného sme vyzrážali ióny Cl− dusičnanom strieborným v podobe chloridu strieborného. Hmotnosť odfiltrovaného a vysušeného AgCl bola 0,26 g. Vypočítajte obsah Cl− v skúmanej vzorke. Ar(K) = 39, Ar(Cl) = 35,5, Ar(Ag) = 107,9",
+    "options": {
+      "A": "0,164 g",
+      "B": "180 mg",
+      "C": "64 mg",
+      "D": "18 mmol",
+      "E": "6,4 · 10^−3 mol",
+      "F": "640 mg",
+      "G": "1,8 · 10^−3 mol",
+      "H": "180 mmol"
+    },
+    "correct": [
+      "C",
+      "G"
+    ]
+  },
+  {
+    "id": 259,
+    "question": "Pacientovi sa pri vyšetrení žalúdka odobralo sondou behom 30 minút 45 ml žalúdočnej šťavy. Do kadičky sme z nej odobrali 5 ml, doplnili destilovanou vodou do objemu 20 ml a neutralizovali pridaním 4 ml roztoku hydroxidu sodného s koncentráciou c = 0,5 mol·l−1. Vypočítajte, aká bola sekrécia žalúdočnej kyseliny. M_r(HCl) = 36,5",
+    "options": {
+      "A": "25 mmol HCl/hod",
+      "B": "0,18 mol HCl/hod",
+      "C": "0,036 g HCl/hod",
+      "D": "0,036 mol HCl/hod",
+      "E": "2,53 g HCl/hod",
+      "F": "1,31 g HCl/hod",
+      "G": "145 mmol HCl/hod",
+      "H": "145 mg HCl/hod"
+    },
+    "correct": [
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": 260,
+    "question": "Koľko percentný (w %) roztok dostaneme, ak zmiešame 15 kg 18,6 %-ného roztoku chloridu sodného, 3 kg 7 %-ného roztoku chloridu sodného a 2 kg destilovanej vody?",
+    "options": {
+      "A": "10,5 %",
+      "B": "12,8 %",
+      "C": "14,0 %",
+      "D": "15,0 %",
+      "E": "16,7 %",
+      "F": "18,5 %",
+      "G": "20,2 %",
+      "H": "32,0 %"
+    },
+    "correct": [
+      "D"
+    ]
+  },
+  {
+    "id": 261,
+    "question": "Koľko vody treba odpariť zo 600 g 3,5 %-ného (w %) roztoku chloridu sodného, aby sme získali 12 %-ný (w %) roztok NaCl? M_r(NaCl) = 58; M_r(H2O) = 18",
+    "options": {
+      "A": "175 g",
+      "B": "28,3 mol",
+      "C": "3,5 mol",
+      "D": "350 g",
+      "E": "425 g",
+      "F": "23,6 mol",
+      "G": "480 g",
+      "H": "1,8 mol"
+    },
+    "correct": [
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 262,
+    "question": "25 litrov 80 %-nej (w %) kyseliny sírovej (ρ = 1,70 kg·l−1) sa má nariediť na 16 %-ný roztok. Vypočítajte, aký objem vody (ρ = 1,0 kg·l−1) je potrebné pridať.",
+    "options": {
+      "A": "1,7·10^4 cm3",
+      "B": "125 ml",
+      "C": "1,7·10^2 litra",
+      "D": "125·10^4 ml",
+      "E": "17·10^4 cm3",
+      "F": "0,27 hl",
+      "G": "1,25·10^3 dm3",
+      "H": "2,7·10^2 dm3"
+    },
+    "correct": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 263,
+    "question": "Vypočítajte výťažok kryštalizácie, ak 900 g roztoku chloridu draselného nasýteného pri teplote 75 °C ochladíme na 0 °C. Rozpustnosť chloridu draselného pri teplote 75 °C je 50 g v 100 g vody a pri teplote 0 °C je 26 g v 100 g vody.",
+    "options": {
+      "A": "114,3 g",
+      "B": "125,0 g",
+      "C": "144,0 g",
+      "D": "168,0 g",
+      "E": "228,6 g",
+      "F": "254,0 g",
+      "G": "288,0 g",
+      "H": "328,0 g"
+    },
+    "correct": [
+      "C"
+    ]
+  },
+  {
+    "id": 264,
+    "question": "Z 500 g roztoku chloridu bárnatého s koncentráciou w = 24 %, sme odparili 210 g vody a tým sa vyzrážalo 40 g chloridu bárnatého. Vypočítajte, koľko percentný (w %) roztok zostal.",
+    "options": {
+      "A": "16 %",
+      "B": "20 %",
+      "C": "24 %",
+      "D": "26 %",
+      "E": "30 %",
+      "F": "32 %",
+      "G": "36 %",
+      "H": "39 %"
+    },
+    "correct": [
+      "F"
+    ]
+  },
+  {
+    "id": 265,
+    "question": "Máme 200 g 25 %-ného roztoku chloridu amónneho. Vypočítajte, akú hmotnosť vody je potrebné odpariť alebo pridať, aby sme pri teplote 90 °C získali nasýtený roztok. Rozpustnosť chloridu amónneho pri teplote 90 °C je 65 g v 100 g vody.",
+    "options": {
+      "A": "pridať 53,38 g",
+      "B": "odpariť 43,28 g",
+      "C": "odpariť 73,08 g",
+      "D": "pridať 123,08 g",
+      "E": "pridať 12,31 g",
+      "F": "odpariť 50,08 g",
+      "G": "odpariť 14,60 g",
+      "H": "pridať 23,13 g"
+    },
+    "correct": [
+      "C"
+    ]
+  },
+  {
+    "id": 266,
+    "question": "Koľko gramov vody treba odpariť z 1 kg 35 %-ného roztoku síranu zinočnatého, aby sme získali pri teplote 40 °C nasýtený roztok a koľko g ZnSO4 vykryštalizuje, keď potom tento roztok ochladíme na teplotu 10 °C? Rozpustnosť síranu zinočnatého pri teplote 40 °C je 70 g v 100 g vody a pri teplote 10 °C je 47 g v 100 g vody.",
+    "options": {
+      "A": "odpariť 175 g vody",
+      "B": "vykryštalizuje 135 g ZnSO4",
+      "C": "odpariť 150 g vody",
+      "D": "odpariť 50 g vody",
+      "E": "vykryštalizuje 85 g ZnSO4",
+      "F": "vykryštalizuje 115 g ZnSO4",
+      "G": "odpariť 125 g vody",
+      "H": "vykryštalizuje 205 g ZnSO4"
+    },
+    "correct": [
+      "C",
+      "F"
+    ]
+  },
+  {
+    "id": 267,
+    "question": "Vypočítajte, v akom množstve vody treba rozpustiť 100 g dekahydrátu uhličitanu sodného, aby pri teplote 20 °C vznikol nasýtený roztok. Rozpustnosť uhličitanu sodného pri teplote 20 °C je 18 g v 100 g roztoku. Ar(H) = 1; Ar(C) = 12; Ar(O) = 16; Ar(Na) = 23",
+    "options": {
+      "A": "52,8 g",
+      "B": "76,9 g",
+      "C": "98,8 g",
+      "D": "105,9 g",
+      "E": "122,8 g",
+      "F": "134,6 g",
+      "G": "155,9 g",
+      "H": "64,6 g"
+    },
+    "correct": [
+      "D"
+    ]
+  },
+  {
+    "id": 268,
+    "question": "Jeden nmol je:",
+    "options": {
+      "A": "10^3 pmol",
+      "B": "10^9 mol",
+      "C": "10^−6 mmol",
+      "D": "10^3 mmol",
+      "E": "10^−9 mol",
+      "F": "10^6 fmol",
+      "G": "10^−3 pmol",
+      "H": "10^3 μmol"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 269,
+    "question": "V 250 g vody rozpustíme 35 g NaNO3. Potom platí:",
+    "options": {
+      "A": "získame 14 %-ný (w/w) roztok",
+      "B": "získame 12,28 %-ný (w/w) roztok",
+      "C": "získame 35 %-ný (w/w) roztok",
+      "D": "140 g NaNO3 je v 1 kg roztoku",
+      "E": "12,28 mg NaNO3 je v 0,100 g roztoku",
+      "F": "24,56 g NaNO3 je v 250 g roztoku",
+      "G": "14 g NaNO3 je v 1 l vody",
+      "H": "368,4 g NaNO3 je v 3 kg roztoku"
+    },
+    "correct": [
+      "B",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 270,
+    "question": "Roztok CH3CH2OH, ktorého objemový zlomok φ (CH3CH2OH) = 0,16, obsahuje:",
+    "options": {
+      "A": "16 ml CH3CH2OH v 100 ml roztoku",
+      "B": "16 ml CH3OH v 100 ml roztoku",
+      "C": "0,16 ml CH3CH2OH v 1 ml roztoku",
+      "D": "20 ml metanolu v 105 ml H2O",
+      "E": "10 ml CH3CH2OH v 100 ml roztoku",
+      "F": "40 ml CH3CH2OH v 250 ml roztoku",
+      "G": "16 ml CH3CH2OH v 84 ml vody",
+      "H": "40 ml CH3CH2OH v 200 ml vody"
+    },
+    "correct": [
+      "C",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 271,
+    "question": "Roztok KCl, ktorého hmotnostný zlomok w(KCl) = 0,03, obsahuje:",
+    "options": {
+      "A": "3 g KCl v 97 g H2O",
+      "B": "3 g KCl v 1000 ml roztoku",
+      "C": "0,01 g KCl v 0,1 kg roztoku",
+      "D": "0,003 g KCl v 10 g roztoku",
+      "E": "6 g KCl v 0,2 kg roztoku",
+      "F": "3 g KCl v 100 g roztoku",
+      "G": "6 g KCl v 200 g vody",
+      "H": "6 g KCl v 200 ml vody"
+    },
+    "correct": [
+      "A",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 272,
+    "question": "Koľko hmotnostných percent jednotlivých prvkov obsahuje tiomočovina? Ar(N) = 14; Ar(H) = 1; Ar(C) = 12; Ar(O) = 16; Ar(S) = 32",
+    "options": {
+      "A": "20,10 % C",
+      "B": "36,84 % N",
+      "C": "36,66 % S",
+      "D": "15,79 % C",
+      "E": "42,11 % N",
+      "F": "5,26 % H",
+      "G": "26,66 % O",
+      "H": "42,11 % S"
+    },
+    "correct": [
+      "B",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 273,
+    "question": "Na prípravu 250 cm3 nasýteného roztoku jodičnanu strieborného použijeme 0,011 g AgIO3. Vypočítajte konštantu rozpustnosti (Ks) tejto soli. Aká je koncentrácia iónov v roztoku? M_r(AgIO3) = 282",
+    "options": {
+      "A": "Ks = 2,43·10^−4",
+      "B": "Ks = 1,56·10^−4",
+      "C": "Ks = 2,43·10^−8",
+      "D": "Ks = 3,79·10^−8",
+      "E": "[Ag+] = 2,43 mmol/l",
+      "F": "[Ag+] = 0,156 mmol/l",
+      "G": "[IO3−] = 1,56·10^−4 mol/l",
+      "H": "[IO4−] = 1,56·10^−4 mol/l"
+    },
+    "correct": [
+      "C",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 274,
+    "question": "Súčin rozpustnosti bromidu strieborného je 3,6·10^−13. Koľko g Ag a Br v podobe iónov obsahuje 1 liter nasýteného roztoku tejto soli? Aká je koncentrácia iónov v roztoku? Ar(Ag) = 108; Ar(Br) = 80",
+    "options": {
+      "A": "c(Ag+) = 6,48·10^−5 mol/l",
+      "B": "c(Ag+) = 6·10^−7 mol/l",
+      "C": "6,48·10^−5 g Ag+ v litri nasýteného roztoku",
+      "D": "6,48·10^−5 g Br− v litri nasýteného roztoku",
+      "E": "4,8·10^−5 g Br− v litri nasýteného roztoku",
+      "F": "c(Br−) = 6·10^−7 mol/l",
+      "G": "c(Br−) = 6,48·10^−5 mol/l",
+      "H": "c(Ag+) = 3,6·10^−13 mol/l"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 275,
+    "question": "Nasýtený vodný roztok hydroxidu strieborného sa pripravil rozpúšťaním oxidu strieborného vo vode. Po ustálení rovnováhy bolo pH roztoku 9,5. Vypočítajte konštantu rozpustnosti (Ks) hydroxidu strieborného za daných podmienok. Aká je koncentrácia jednotlivých iónov v roztoku? (antilogaritmus −4,5 = 3,16·10^−5)",
+    "options": {
+      "A": "Ks = 3,16·10^−10",
+      "B": "Ks = 6,32·10^−10",
+      "C": "Ks = 9,99·10^−12",
+      "D": "Ks = 9,99·10^−10",
+      "E": "c(Ag+) = 6,32·10^−5 mol/l",
+      "F": "c(Ag+) = 3,16·10^−2 mmol/l",
+      "G": "c(OH−) = 3,16·10^−5 mol/l",
+      "H": "c(OH−) = 3,16·10^−2 mol/l"
+    },
+    "correct": [
+      "D",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 276,
+    "question": "Zistite, či pri zmiešaní rovnakých objemov roztoku CaCl2 (c = 0,01 mol/l) a roztoku Na2SO4 (c = 0,01 mol/l) vznikne zrazenina CaSO4. Súčin rozpustnosti CaSO4 je 2,3·10^−4. Aká je koncentrácia iónov Ca2+ a SO4^2− vo výslednom roztoku?",
+    "options": {
+      "A": "[Ca2+] = 0,01 mol/l",
+      "B": "[Ca2+] = 10 mmol/l",
+      "C": "vznikne zrazenina CaSO4",
+      "D": "nevznikne zrazenina CaSO4",
+      "E": "[Ca2+] = 5·10^−3 mol/l",
+      "F": "[SO4^2−] = 0,01 mol/l",
+      "G": "[SO4^2−] = 0,05 mol/l",
+      "H": "[SO4^2−] = 5 mmol/l"
+    },
+    "correct": [
+      "D",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 277,
+    "question": "Aký je súčin rozpustnosti (Ks) chromanu strieborného, keď jeho rozpustnosť za daných podmienok je 3,32·10^−2 g·dm^−3? Aká je koncentrácia jednotlivých iónov v roztoku? M_r(Ag2CrO4) 332",
+    "options": {
+      "A": "Ks = 4·10^−4",
+      "B": "Ks = 1·10^−12",
+      "C": "Ks = 4·10^−8",
+      "D": "Ks = 4·10^−12",
+      "E": "c(CrO4^2−) = 1·10^−4 mol·dm^−3",
+      "F": "c(Ag+) = 1·10^−4 mol·dm^−3",
+      "G": "c(Ag+) = 2·10^−4 mol·dm^−3",
+      "H": "c(Cr2O7^2−) = 2·10^−4 mol·dm^−3"
+    },
+    "correct": [
+      "D",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 278,
+    "question": "Na rozpustenie 1 g jodidu olovnatého pri 18 °C je treba pridať vodu do objemu 1470 ml (ρH2O = 1 g/cm^3). Vypočítajte koncentráciu PbI2 a iónov v roztoku a určte konštantu rozpustnosti (Ks) jodidu olovnatého. Ar(I) = 127; Ar(Pb) = 207",
+    "options": {
+      "A": "c(PbI2) = 2,169·10^−3 mol/l",
+      "B": "Ks = 1,28·10^−6",
+      "C": "Ks = 1,28·10^−8",
+      "D": "c(Pb2+) = 1,28·10^−4 mol/l",
+      "E": "c(Pb2+) = 1,476 mmol/l",
+      "F": "c(PbI2) = 2,951·10^−3 mol/l",
+      "G": "Ks = 2,28·10^−6",
+      "H": "c(I−) = 2,951 mmol/l"
+    },
+    "correct": [
+      "C",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 279,
+    "question": "Koľko 96 %-nej (w %) kyseliny sírovej, ρ = 1,84 g/cm^3, treba na prípravu 2 litrov roztoku s koncentráciou 0,25 mol/l? M_r(H2SO4) = 98",
+    "options": {
+      "A": "25,52 g",
+      "B": "51,04 g",
+      "C": "49,00 g",
+      "D": "2,774·10^−2 litra",
+      "E": "26,63 ml",
+      "F": "27,74 ml",
+      "G": "28,85 ml",
+      "H": "0,051 kg"
+    },
+    "correct": [
+      "B",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Koncentrácia KMnO4 je 2·10^−3 mol·l−1. Vypočítajte, aké látkové množstvo KMnO4 sa nachádza v 250 ml roztoku:",
+    "options": {
+      "A": "5·10^−3 mol",
+      "B": "1·10^−2 mol",
+      "C": "5·10^−4 mol",
+      "D": "3·10^−4 mol",
+      "E": "5 mmol",
+      "F": "0,5 mmol",
+      "G": "50 μmol",
+      "H": "500 μmol"
+    },
+    "correct": [
+      "C",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 281,
+    "question": "Vypočítajte koncentráciu látkového množstva kyseliny chlorovodíkovej v roztoku s hustotou 1,1 g/cm^3, kde je 18 % (w %) HCl. M_r(HCl) = 36,5",
+    "options": {
+      "A": "2,73 mol/l",
+      "B": "3 mol/l",
+      "C": "5,42 mol/l",
+      "D": "1,24 mol/l",
+      "E": "0,542 mol/l",
+      "F": "5,42·10^3 mmol·dm^−3",
+      "G": "4,93 mol/l",
+      "H": "4,93 mmol/l"
+    },
+    "correct": [
+      "C",
+      "F"
+    ]
+  },
+  {
+    "id": 282,
+    "question": "Vypočítajte, koľko roztoku chloridu železitého s koncentráciou c = 0,2 mol/l možno pripraviť rozpustením 48,6 g chloridu železitého vo vode. M_r(FeCl3) = 162",
+    "options": {
+      "A": "15 litrov",
+      "B": "1,5 litra",
+      "C": "150 ml",
+      "D": "20 litrov",
+      "E": "1,5·10^4 ml",
+      "F": "1500 cm^3",
+      "G": "2000 cm^3",
+      "H": "200 cm^3"
+    },
+    "correct": [
+      "B",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 283,
+    "question": "Máme roztok NaOH, c = 2 mol/l, ρ = 1,08 g·cm^−3, M_r(NaOH) = 40. Označte správne tvrdenie:",
+    "options": {
+      "A": "w = 10,8 %",
+      "B": "w = 8,00 %",
+      "C": "w = 7,41 %",
+      "D": "w = 1,08 %",
+      "E": "7,41 g NaOH je rozpustené v 100 g roztoku",
+      "F": "w = 0,0741",
+      "G": "8,00 kg NaOH je rozpustené v 800 kg roztoku",
+      "H": "roztok môže obsahovať 14,82 g NaOH a 185,18 g H2O"
+    },
+    "correct": [
+      "C",
+      "E",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 284,
+    "question": "Vypočítajte, koľko kyseliny sírovej je v 2500 cm^3 roztoku s koncentráciou 0,6 mol·dm^−3. M_r(H2SO4) = 98",
+    "options": {
+      "A": "15 mol",
+      "B": "12 mol",
+      "C": "1,5 mol",
+      "D": "0,147 kg",
+      "E": "147 g",
+      "F": "14,7 g",
+      "G": "98 g",
+      "H": "1,5 litra"
+    },
+    "correct": [
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 285,
+    "question": "Aký objem roztoku HCl danej koncentrácie, resp. koľko gramov HCl je potrebné na neutralizáciu 3,42 g hydroxidu bárnatého? M_r(HCl) = 36,5; M_r(Ba(OH)2) = 171",
+    "options": {
+      "A": "160 ml HCl, c = 0,25 mol/l",
+      "B": "16 ml HCl, c = 0,25 mol/l",
+      "C": "1,46 g HCl",
+      "D": "0,73 g HCl",
+      "E": "0,08 litra HCl, c = 0,5 mol/l",
+      "F": "14,6 g HCl",
+      "G": "400 ml HCl, c = 0,1 mol/l",
+      "H": "0,04 litra HCl, c = 0,25 mol/l"
+    },
+    "correct": [
+      "A",
+      "C",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "id": 286,
+    "question": "Vypočítajte koncentráciu HNO3 v roztoku, ktorý obsahuje 3,5·10^−3 mol HNO3 v 400 ml roztoku, resp. hmotnosť HNO3 v 400 ml daného roztoku. M_r(HNO3) = 63",
+    "options": {
+      "A": "7,85 mol/l",
+      "B": "8,75·10^−3 mol/l",
+      "C": "440 mg",
+      "D": "0,22 g",
+      "E": "7,85 mmol/l",
+      "F": "8,75 mmol/l",
+      "G": "220 mg",
+      "H": "0,55 g"
+    },
+    "correct": [
+      "B",
+      "D",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 287,
+    "question": "Vypočítajte koncentráciu látkového množstva 25 %-ného (w %) roztoku kyseliny chlorovodíkovej s hustotou 1,1 g·cm^−3. M_r(HCl) = 36,5",
+    "options": {
+      "A": "6,85 mol/l",
+      "B": "0,753 mol/l",
+      "C": "7,53·10^3 mmol/l",
+      "D": "0,685 mol/l",
+      "E": "7,53 mol/l",
+      "F": "6,85·10^3 mmol/l",
+      "G": "8,53 mol/l",
+      "H": "7,53·10^3 mmol/l"
+    },
+    "correct": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 288,
+    "question": "Koľko síranu sodného je treba na prípravu 5 litrov 8 %-ného (w %) roztoku, ktorého hustota je 1,075 g/cm^3? M_r(Na2SO4) = 142",
+    "options": {
+      "A": "43 g",
+      "B": "430 g",
+      "C": "400 g",
+      "D": "40 g",
+      "E": "0,3028 mol",
+      "F": "0,605 mol",
+      "G": "3,028 mol",
+      "H": "0,43 kg"
+    },
+    "correct": [
+      "B",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 289,
+    "question": "K 400 ml 85 %-ného (w %) roztoku kyseliny sírovej s hustotou 1,8 g·cm^−3 sme pridali 800 ml vody. Aká je koncentrácia pôvodného roztoku H2SO4 (cp) a roztoku po zriedení (cv)? M_r(H2SO4) = 98",
+    "options": {
+      "A": "cp = 13,6 mol/l",
+      "B": "cp = 15,6 mol/l",
+      "C": "cv = 5,2·10^3 mmol/l",
+      "D": "cp = 1,56 mol/l",
+      "E": "cv = 5,2 mol/l",
+      "F": "cv = 5,2 mmol/l",
+      "G": "cv = 4,5 mol/l",
+      "H": "cp = 1,56·10^4 mmol/l"
+    },
+    "correct": [
+      "B",
+      "C",
+      "E",
+      "H"
+    ]
+  },
+  {
+    "id": 290,
+    "question": "Koľko CuSO4·5H2O, resp. vody potrebujeme na prípravu 1,5 kg 6 %-ného (w %) roztoku CuSO4? M_r(CuSO4·5H2O) = 250; M_r(H2O) = 18",
+    "options": {
+      "A": "90 g modrej skalice",
+      "B": "1359,4 g H2O",
+      "C": "1410 g H2O",
+      "D": "1,3594 kg H2O",
+      "E": "140,6 g modrej skalice",
+      "F": "0,1406 kg CuSO4·5H2O",
+      "G": "140,6 g CuSO4",
+      "H": "90 g CuSO4·5H2O"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "id": 291,
+    "question": "Vypočítajte, aký objem 95 %-ného (obj. %) etanolu, resp. vody treba na prípravu 600 ml roztoku, v ktorom je 40 % (obj. %) etanolu:",
+    "options": {
+      "A": "360 ml H2O",
+      "B": "240 ml etanolu",
+      "C": "252,63 ml etanolu",
+      "D": "347,37 ml H2O",
+      "E": "0,34737 litra etanolu",
+      "F": "0,34737 litra H2O",
+      "G": "295,63 ml H2O",
+      "H": "0,25263 litra etanolu"
+    },
+    "correct": [
+      "C",
+      "D",
+      "F",
+      "H"
+    ]
+  },
+  {
+    "id": 292,
+    "question": "Máme roztok A, ktorý obsahuje 18,9 g HNO3 v 1 litri a roztok B, ktorý obsahuje 3,2 g NaOH v 1 litri. V akom objemovom pomere ich musíme zmiešať, aby vznikol neutrálny roztok? M_r(HNO3) = 63; M_r(NaOH) = 40",
+    "options": {
+      "A": "1 liter A + 37,5 litra B",
+      "B": "3,75 litra B + 1 liter A",
+      "C": "5 litrov B + 15 litrov A",
+      "D": "18,75 litra B + 5 litrov A",
+      "E": "4 litre A + 15 litrov B",
+      "F": "10 ml A + 37,5 ml B",
+      "G": "0,6 ml A + 2,25 ml B",
+      "H": "0,8 ml B + 3 ml A"
+    },
+    "correct": [
+      "B",
+      "D",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 293,
+    "question": "Vypočítajte, koľko vody, resp. technickej sódy s obsahom 95 % Na2CO3 potrebujeme na prípravu 350 g 8 %-ného (w %) roztoku Na2CO3:",
+    "options": {
+      "A": "29,47 g technickej sódy",
+      "B": "29,47 g Na2CO3·10 H2O",
+      "C": "28 g technickej sódy",
+      "D": "322,0 g H2O",
+      "E": "320,53 g H2O",
+      "F": "26,6 g Na2CO3",
+      "G": "2,947·10^4 mg technickej sódy",
+      "H": "0,32053 kg H2O"
+    },
+    "correct": [
+      "A",
+      "E",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "id": 294,
+    "question": "Aká je hmotnosť chemicky čistého KCl a vody, ktoré potrebujeme na prípravu 3 litrov 12 %-ného roztoku (w %)? ρ = 1,07 g/cm^3",
+    "options": {
+      "A": "360 g KCl",
+      "B": "385,2 g KCl",
+      "C": "2640 g H2O",
+      "D": "2824,8 g H2O",
+      "E": "2614,8 g H2O",
+      "F": "0,360 g KCl",
+      "G": "0,3852 kg KCl",
+      "H": "2,64 kg H2O"
+    },
+    "correct": [
+      "B",
+      "D",
+      "G"
+    ]
+  },
+  {
+    "id": 295,
+    "question": "Aké je pH alebo pOH roztoku kyseliny chlorovodíkovej s koncentráciou c = 60 μmol·dm^−3? (log 3 = 0,477; log 5 = 0,699; log 6 = 0,778)",
+    "options": {
+      "A": "pOH = 5,523",
+      "B": "pH = 5,301",
+      "C": "pH = 4,222",
+      "D": "pOH = 4,222",
+      "E": "pOH = 9,778",
+      "F": "pOH = 8,778",
+      "G": "pH = 5,222",
+      "H": "pH = 9,778"
+    },
+    "correct": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 296,
+    "question": "Aké je pH alebo pOH roztoku hydroxidu lítného, ktorého koncentrácia c = 4·10^−3 mol/l? (log 3 = 0,477; log 4 = 0,602)",
+    "options": {
+      "A": "pOH = 3,523",
+      "B": "pH = 2,398",
+      "C": "pH = 12,602",
+      "D": "pH = 11,602",
+      "E": "pH = 10,602",
+      "F": "pOH = 3,398",
+      "G": "pH = 9,398",
+      "H": "pOH = 2,398"
+    },
+    "correct": [
+      "D",
+      "H"
+    ]
+  },
+  {
+    "id": 297,
+    "question": "pOH roztoku plne ionizovanej kyseliny dusičnej je 9,602. Vypočítajte pH alebo koncentráciu daného roztoku (log 4 = 0,602; log 2,5 = 0,398)",
+    "options": {
+      "A": "pH = 10,602",
+      "B": "c = 4·10^−2 mmol/l",
+      "C": "c = 2,5·10^−1 mmol/l",
+      "D": "pH = 4,398",
+      "E": "c = 2,5·10^−10 mol/l",
+      "F": "c = 4·10^−5 mol/l",
+      "G": "pH = 5,398",
+      "H": "c = 4,398·10^−3 mol/l"
+    },
+    "correct": [
+      "B",
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": 298,
+    "question": "Aké je pH, pOH, c(OH−) a c(H3O+) roztoku KOH, ktorého 1 liter zneutralizuje 500 ml roztoku HCl s koncentráciou 3 mmol/l? (log 5 = 0,699; log 3 = 0,477; log 1,5 = 0,176; log 6 = 0,778)",
+    "options": {
+      "A": "pH = 11,176",
+      "B": "pOH = 1,222",
+      "C": "pOH = 2,824",
+      "D": "pH = 12,778",
+      "E": "c(H3O+) = 1,5·10^−12 mol/l",
+      "F": "c(H3O+) = 6,67·10^−12 mol/l",
+      "G": "c(OH−) = 1,5·10^−3 mol/l",
+      "H": "c(OH−) = 6·10^−3 mol/l"
+    },
+    "correct": [
+      "A",
+      "C",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": 299,
+    "question": "Vypočítajte pH, resp. pOH roztoku, ktorý v 600 ml obsahuje 0,33 g HCl. Aká je koncentrácia roztoku HCl? M_r(HCl) = 36,5; (log 1,5 = 0,176)",
+    "options": {
+      "A": "pH = 12,176",
+      "B": "pOH = 1,824",
+      "C": "pH = 1,824",
+      "D": "[HCl] = 1,5·10^−2 mol/l",
+      "E": "pOH = 10,92",
+      "F": "pH = 12,176",
+      "G": "[HCl] = 1,25·10^−2 mol/l",
+      "H": "pOH = 2,08"
+    },
+    "correct": [
+      "C",
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": 300,
+    "question": "pH roztoku H2SO4 je 1,097. Vypočítajte koncentráciu roztoku kyseliny sírovej (log 8 = 0,903; log 4 = 0,602; antilogaritmus −1,097 = 0,07998)",
+    "options": {
+      "A": "80 mmol/l",
+      "B": "0,08 mol/l",
+      "C": "8·10^−3 mol/l",
+      "D": "0,04 mol/l"
+    },
+    "correct": [
+      "D",
+      "F"
     ]
   }
 ]

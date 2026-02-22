@@ -1,16 +1,3 @@
-UNIVERZITA KOMENSKÉHO V BRATISLAVE
-LEKÁRSKA FAKULTA
-PODKLADY
-NA PRIJÍMACIE SKÚŠKY Z BIOLÓGIE
-Bratislava 2024
-2
-Vydavateľ:
-© Univerzita Komenského v Bratislave
-Autori otázok:
-doc. RNDr.Ľuboš Danišovič, PhD.; prof. RNDr. Vanda Repiská, PhD., MPH.; doc. MUDr. Daniel Böhmer, PhD.; doc. Ing. Helena Gbelcová, Ph.D.; Mgr. Daniela Klimová, PhD.; RNDr. Petra Priščáková, PhD.; MUDr. Štefan Harsányi, PhD.
-Všetky práva sú vyhradené. Táto publikácia ani žiadna jej časť nemôže byť reprodukovaná, upravená, pozmenená, prenesená ani použitá v akejkoľvek inej forme bez predchádzajúceho písomného súhlasu dekana Lekárskej fakulty Univerzity Komenského v Bratislave, najmä nemôže byť využitá akýmkoľvek spôsobom treťou osobou na komerčné účely. Spôsob a účel použitia tejto publikácie určuje dekan.
-ISBN 978-80-223-5922-1
-3
 1. Biológia:
 a) využíva na získavanie poznatkov pozorovanie a pokus
 b) skúma aj neživú prírodu
@@ -194,7 +181,6 @@ e) škrob
 f) glykogén
 g) fruktóza
 h) galaktóza
-7
 21. Ktoré polysacharidy majú zásobnú funkciu?
 a) glykogén
 b) celulóza
@@ -240,7 +226,6 @@ e) dvoch vrstiev molekúl bielkovín a dvoch vrstiev molekúl polysacharidov
 f) jednej vrstvy molekúl fosfolipidov a dvoch vrstiev molekúl bielkovín
 g) fosfolipidovej dvojvrstvy, do ktorej sú ponorené molekuly bielkovín
 h) celulózovej siete vyplnenej bielkovinami a polysacharidmi
-8
 26. Fosfolipidy v biomembráne sú usporiadané do:
 a) bimolekulárnej vrstvy, v ktorej sú včlenené molekuly bielkovín
 b) dvoch vrstiev
@@ -277,7 +262,6 @@ e) štruktúra, ktorá oddeľuje jadro od cytoplazmy
 f) semikonzervatívna
 g) štruktúra, ktorá oddeľuje bunku od okolia
 h) súčasťou bunkovej steny
-9
 30. O chemickom zložení bunkovej steny eukaryotickej bunky platí, že:
 a) je rovnaké ako zloženie cytoplazmatickej membrány
 b) je odlišné od zloženia cytoplazmatickej membrány
@@ -314,7 +298,6 @@ e) neobsahuje glykoproteíny
 f) selektívne reguluje príjem a výdaj látok v bunkách rastlín, živočíchov a húb
 g) sa vyskytuje iba na povrchu prokaryotických buniek
 h) u živočíchov môže byť chránená kremičitou alebo vápenatou schránkou
-10
 34. Na povrchu buniek sa môžu nachádzať:
 a) kapsida
 b) aglutinogény
@@ -351,7 +334,6 @@ e) endoplazmatické retikulum, Golgiho aparát, plastidy, vakuoly a mitochondrie
 f) vakuoly, lyzozómy, chloroplasty, mitochondrie, endoplazmatické retikulum
 g) Golgiho aparát, endoplazmatické retikulum, centrioly, mitochondrie a vakuoly
 h) Golgiho aparát, endoplazmatické retikulum, mitochondrie, plastidy, cytoskelet a vakuoly
-11
 38. K bunkovým štruktúram, ktoré nie sú zložené z membrány patria:
 a) endoplazmatické retikulum
 b) Golgiho aparát
@@ -397,7 +379,6 @@ e) má zásadnú úlohu pri rozmnožovaní bunky
 f) neobsahuje chromatín
 g) obsahuje chromozómy
 h) eukaryotických buniek má na povrchu jadrový obal
-12
 43. Jadro prokaryotických buniek:
 a) tvoria dva homologické chromozómy
 b) tvorí jeden chromozóm
@@ -443,7 +424,6 @@ e) obal jadra
 f) DNA a bielkoviny
 g) základ mitotického aparátu
 h) základ chromoplastov
-13
 48. Jadierko:
 a) je stálou organelou eukaryotických buniek
 b) sa na začiatku delenia buniek degraduje
@@ -489,7 +469,6 @@ e) závisí od druhu bunky, štádia jej vývinu a metabolickej aktivity
 f) nezávisí od metabolickej aktivity bunky
 g) je výrazne ovplyvnený obsahom kyslíka
 h) závisí od druhu bunky, pričom veľa mitochondrií majú svalové bunky
-14
 53. Endoplazmatické retikulum:
 a) patrí k membránovým organelám
 b) nemá význam pre transportné procesy v bunke
@@ -526,7 +505,6 @@ e) ribozómoch v cytoplazme
 f) ribozómoch v lyzozómoch
 g) ribozómoch pripojených na endoplazmatické retikulum
 h) ribozómoch pripojených na centroméry
-15
 57. Ribozómy prokaryotických buniek:
 a) sú bunkové organely zložené z biomembrány
 b) nachádzajú sa v cytoplazme
@@ -572,7 +550,6 @@ e) podieľajú sa na odbúravaní opotrebovaných organel
 f) zúčastňujú sa na kontrolovanej smrti buniek
 g) podieľajú sa na syntéze látok
 h) sú drobné mechúriky tvorené biomembránou
-16
 62. Čo vykonáva funkciu lyzozómov v živočíšnych bunkách?
 a) ergastoplazma
 b) plastidy
@@ -618,7 +595,6 @@ e) umožňuje oxidatívnu fosforyláciu
 f) tvorí základ biologickej membrány
 g) tvorí dynamickú kostru bunky
 h) umožňuje aktívnu lokomóciu niektorých buniek
-17
 67. Mitotický aparát je tvorený z:
 a) vlákienok centroméry
 b) centrioly
@@ -664,7 +640,6 @@ e) mitochondriách
 f) lyzodezmoch
 g) endoplazmatickom retikule
 h) v bunkovom jadierku
-18
 72. Na základe štruktúry patria medzi základné typy buniek:
 a) vírusy
 b) prokaryotické bunky
@@ -710,7 +685,6 @@ e) v cytoplazme nemá ribozómy
 f) majú chloroplasty
 g) je typická prokaryotická bunka
 h) má na svojom povrchu bunkovú stenu, ktorá je spojená s cytoplazmatickou membránou
-19
 77. Živočíšna bunka:
 a) je typická eukaryotická bunka
 b) obsahuje všetky základné membránové štruktúry
@@ -747,7 +721,6 @@ e) proces, pri ktorom sa pôvodne rôzne bunky rozlišujú štruktúrou a funkci
 f) jav, kedy dcérska bunka nie je svojimi vlastnosťami totožná s materskou bunkou a genóm majú rovnaký
 g) jav, kedy dcérska bunka nie je svojimi vlastnosťami totožná s materskou bunkou a genóm nemajú rovnaký
 h) dôsledok pôsobenia vonkajšieho činiteľa na realizáciu genetického základu bunky
-20
 81. Podľa funkcie rozdeľujeme tkanivá na:
 a) epitely
 b) očné
@@ -1901,8 +1874,7 @@ e) vždy len trojicou kodónov v triplete
 f) viacerými typmi tripletov
 g) všetky len jedným typom tripletu
 h) vždy len dvomi tripletmi v poradí
-206. Aký bol úsek štruktúrneho génu, keď poradie báz v mRNA je
-CGA UAU CGU GCU?
+206. Aký bol úsek štruktúrneho génu, keď poradie báz v mRNA je CGA UAU CGU GCU?
 a) UCG UGC UAU UCG
 b) CGA TAT CG
 c) AGC ACG AUA UCG
@@ -1911,7 +1883,6 @@ e) CGA TAT CGT GCT
 f) GCT ATA GCA CGA
 g) CGT UTU CGU CCU
 h) GCT TAT GCT CGT
-49
 207. O syntéze RNA platí, že:
 a) je katalyzovaná
 b) nie je katalyzovaná
@@ -2424,7 +2395,6 @@ a) 31,5%
 b) 21,5%
 c) 41%
 d) 37,8%
-62
 e) 14,1%
 f) 6,6%
 g) 85%
@@ -2598,7 +2568,6 @@ b) dedí sa gonozómovo dominantne
 c) je enzymopatia
 d) je recesívne viazaná na somatický chromozóm Y
 e) je recesívne viazaná, vloha je na somatickom chromozóme
-66
 f) intermediárne, vloha je na somatickom chromozóme
 g) kodominantne, spolu s iným typom enzymopatie
 h) gonozómovo recesívne
@@ -2803,7 +2772,6 @@ d) homozygotne 0 s pravdepodobnosťou 25%
 e) heterozygotne B s pravdepodobnosťou 75%
 f) B s pravdepodobnosťou 50%
 g) B s pravdepodobnosťou 75%
-71
 h) 0 s pravdepodobnosťou 50%
 304. Matka má krvnú skupinu 0, otec AB. Akú krvnú skupinu môžu mať ich deti?
 a) 0 s pravdepodobnosťou 100%
@@ -3169,7 +3137,9 @@ h) majú rovnaké gény, ale nemusia mať rovnaké alely
 a) viac typov aktívnych alel
 b) pozitívnych a negatívnych alel
 c) neutrálnych a aktívnych alel
-d) dvojice aktívnych alel e) génov „malého účinku" f) génov „veľkého účinku"
+d) dvojice aktívnych alel 
+e) génov „malého účinku" 
+f) génov „veľkého účinku"
 g) génov pozitívnych
 h) génov len neutrálneho účinku
 344. Otec a syn sú daltonici, matka rozlišuje farby normálne. Vieme určiť, že:
@@ -3285,7 +3255,8 @@ g) 22 autozómov a jeden pár gonozómov
 h) 45 chromozómov
 356. Kvalitatívne znaky sú napríklad:
 a) farba korunných lupienkov ruže
-b) intenzita metabolizmu c) sú podmienené jedným génom „veľkého” účinku
+b) intenzita metabolizmu 
+c) sú podmienené jedným génom „veľkého” účinku
 d) krvná skupina systému Rh
 e) celkový fenotyp
 f) tvar línie vlasov
@@ -3383,9 +3354,7 @@ e) polovičný
 f) jedna štvrtina
 g) tri štvrtiny
 h) rovnaký ako u homozygotov dominantných
-86
-367. Dcéra rozoznáva normálne červenú a zelenú farbu, avšak jej matka je farboslepá. Dcéra sa vydala a jej manžel nemá problémy pri rozlišovaní farieb.
-O pravdepodobnosti, že ich dcéra bude farboslepá, platí, že:
+367. Dcéra rozoznáva normálne červenú a zelenú farbu, avšak jej matka je farboslepá. Dcéra sa vydala a jej manžel nemá problémy pri rozlišovaní farieb. O pravdepodobnosti, že ich dcéra bude farboslepá, platí, že:
 a) je rovnaká ako u synov
 b) ich dcéra nikdy nebude farboslepá
 c) je rovnaká ako, že nebude farboslepá
@@ -3427,7 +3396,6 @@ b) v každom z nich sú lokusy - miesta, kde sa nachádzajú gény
 c) ich počet v jednej chromozómovej sade sa označuje symbolom n
 d) lokusy na chromozóme sú uložené lineárne za sebou
 e) ich veľkosť je charakteristická
-87
 f) ich normálny počet je konštantný
 g) lokusy na chromozóme sú uložené cirkulárne
 h) jadrá všetkých telových buniek jedinca (za normálnych okolností) nemajú rovnakú chromozómovú výbavu
@@ -3510,7 +3478,6 @@ b) chýba v erytrocytoch človeka
 c) sa prenáša nezmenená z rodičov na potomkov
 d) je rovnaká u všetkých pohlavných buniek jedinca
 e) je chromozómová mapa
-89
 f) je pár pohlavných chromozómov
 g) je tvorená aj autozómami
 h) je tvorená aj gonozómami
@@ -3907,7 +3874,6 @@ a) znaky
 b) fenotypy
 c) vlastnosti
 d) gény
-100
 e) varianty génov
 f) vlohy
 g) alely
@@ -4091,9 +4057,7 @@ h) strata Y chromozómu pri delení buniek je letálna
 a) s reciprokým krížení dostaneme iné genotypové a fenotypové pomery
 b) môže sa objaviť dedičnosť krížom
 c) môže sa objaviť uniformita hybridov, pri čom nezáleží či otec alebo matka nesú recesívnu alelu
-d) je to kríženie dvoch rozdielnych genotypov, pri ktorom sa rodičovskí partneri
-105
-zamieňajú vo funkcii otca a matky
+d) je to kríženie dvoch rozdielnych genotypov, pri ktorom sa rodičovskí partneri zamieňajú vo funkcii otca a matky
 e) môže sa objaviť dedičnosť krížom, teda samčekovia zdedia vlastnosti po otcovi a samičky po matke
 f) môže sa objaviť uniformita krížencov, teda všetko potomstvo je fenotypovo rovnaké
 g) aby sa prejavila dedičnosť krížom, musí mať pohlavie typu XX dve recesívne alely a pohlavie XY dominantnú alelu
@@ -4205,7 +4169,6 @@ b) štiepenie DNA a prípravu genetických konštruktov
 c) amplifikáciu fragmentov DNA v bakteriálnych plazmidoch
 d) prípravu hybridnej DNA
 e) hybridizáciu vybraných jedincov
-108
 f) izoláciu génov a ich vsunutie do buniek nepríbuzných organizmov
 g) prípravu hybridných proteínov
 h) využitie reštrikčných endonukleáz na ligáciu fragmentov DNA a plazmidov
@@ -4342,10 +4305,11 @@ h) 0,145
 a) 0,995
 b) 0,00995
 c) 99,5%
-d) 0,995% e) 0,00095
-e) 0,990025
-f) 99,0025%
-g) 0,990025%
+d) 0,995% 
+e) 0,00095
+f) 0,990025
+g) 99,0025%
+h) 0,990025%
 471. Fenylketonúria má rovnaký typ dedičnosti ako galaktozémia. V populácii sa vyskytuje jedno postihnuté dieťa na 10 000 novorodencov. Aká je frekvencia alely podmieňujúcej toto ochorenie?
 a) 9,9%
 b) 0,099
@@ -4554,7 +4518,6 @@ a) 0,33
 b) 33%
 c) 0,1089
 d) 10,89
-117
 e) 0,1089%
 f) 10,89%
 g) 41,72%
@@ -4674,7 +4637,6 @@ a) 0,00064
 b) 64,50
 c) 0,64%
 d) 20,40
-120
 e) 0,36%
 f) 0,0064
 g) 6,4%
@@ -4794,7 +4756,6 @@ a) odpočítaním frekvencie recesívnej alely od frekvencie dominantnej alely
 b) odpočítaním frekvencie recesívnej alely od 1
 c) pripočítaním frekvencie dominantnej alely k frekvencii recesívnej alely
 d) odpočítaním frekvencie dominantnej alely od 1
-123
 e) vynásobením frekvencie dominantnej a recesívnej alely dvomi
 f) druhou mocninou od frekvencie dominantnej alely
 g) odmocnením frekvencie dominantných homozygotov
@@ -5010,7 +4971,6 @@ e) spôsobuje dyzentériu
 f) jej neškodná forma sa živí črevnými baktériami
 g) je rozšírená najmä v trópoch a subtrópoch
 h) spôsobuje maláriu
-128
 543. Baktérie možno nájsť:
 a) vo vzduchu
 b) v pôde
@@ -5433,7 +5393,7 @@ d) Mycobacterium
 e) Treponema
 f) Neisseria
 g) Shigella
-a) h) Escherichia
+h) Escherichia
 589. Oblička človeka:
 a) je párový orgán
 b) nemá význam pre udržiavanie homeostázy
@@ -6021,7 +5981,6 @@ b) reflex
 c) bunky alebo zakončenia nervových vlákien, schopné premeny energie pôsobiacej na ne z vnútorného prostredia na signál (zmenu elektrického potenciálu na bunkovej membráne)
 d) neurity
 e) bunky alebo zakončenia nervových vlákien, schopné premeny energie pôsobiacej na ne z vonkajšieho prostredia na signál (zmenu elektrického potenciálu na bunkovej membráne)
-152
 f) bunky alebo zakončenia nervových vlákien, schopné premeny energie pôsobiacej na ne z vonkajšieho prostredia na signál (zmenu elektrochemického potenciálu na bunkovej membráne)
 g) špecializované zmyslové bunky alebo zakončenia odstredivých nervových vlákien
 h) špecializované zmyslové bunky alebo zakončenia dostredivých nervových vlákien
@@ -6065,7 +6024,6 @@ h) mediátorov
 a) pod bliznou
 b) na vonkajšej membráne rohovky
 c) na zadnej stene šošovky
-153
 d) v sietnici
 e) na zadnej ploche sklovca
 f) na zadnej ploche očnej gule
@@ -6317,7 +6275,8 @@ c) začína rôzne, podľa osobných dispozícií a životosprávy
 d) prejavuje sa ochabovaním jednotlivých funkčných sústav
 e) sprevádzajú ho zmeny v obehovej sústave
 f) sprevádzajú ho zmeny v centrálnej nervovej sústave
-g) sprevádza ho vzostup psychickej a fyzickej výkonnosti h) prebieha optimálne ako „aktívna staroba"
+g) sprevádza ho vzostup psychickej a fyzickej výkonnosti 
+h) prebieha optimálne ako „aktívna staroba"
 685. Starnutie je charakterizované:
 a) narušením koordinácie enzýmových systémov
 b) zvýšením krehkosti a priepustnosti bunkovej membrány
@@ -6517,7 +6476,6 @@ b) maternica je v diastole
 c) sťahy maternice vytláčajú plod von
 d) hrdlo a bránka maternice sa rozširujú
 e) odteká tkanivový mok
-163
 f) odteká plodová voda
 g) hrdlo a bránka maternice sa zužujú
 h) placenta sa porodí ako prvá
@@ -6683,7 +6641,6 @@ b) trvá 8 - 10 rokov
 c) rozdeľujeme ho na pubertu a vlastné dospievanie
 d) charakterizuje ho prudký rast a vývin organizmu
 e) hypotalamo-hypofýzová sústava dáva podnet na rozvoj pohlavných žliaz a vylučovanie pohlavných hormónov v nich
-167
 f) začínajú sa vytvárať zrelé pohlavné bunky
 g) zastavuje sa rozvoj primárnych a sekundárnych pohlavných znakov
 h) končí sa 12. rokom veku
@@ -6727,7 +6684,6 @@ h) počas embryonálneho obdobia dosiahne zárodok veľkosť asi 3 dm
 a) pokrýva povrch tela
 b) tvorí pevnú a pohyblivú oporu tela
 c) má termoregulačnú funkciu
-168
 d) tvorí závesný aparát pre pohybové orgány
 e) nechráni telo pred stratou vody
 f) tvorí základ rôznych pokožkových útvarov
@@ -6773,7 +6729,6 @@ h) je mezodermálneho pôvodu
 a) mazové žľazy
 b) potné žľazy
 c) receptory
-169
 d) hmatové telieska
 e) proprioreceptory
 f) chemoreceptory
@@ -6819,7 +6774,6 @@ h) obsahuje kostné bunky (osteocyty)
 a) plášťové lamely kompaktnej kosti
 b) rúrkovité lamely kompaktnej kosti
 c) kostné bunky
-170
 d) okosticu
 e) cievy a nervy okostice
 f) mazové žľazy
@@ -6865,7 +6819,6 @@ h) chrupka
 a) v kostnej dreni krátkych kostí
 b) v slezine
 c) vo svaloch
-171
 d) v okostici dlhých kostí
 e) v kostnej dreni plochých kostí
 f) v obličkách
@@ -6911,7 +6864,6 @@ h) drobné kosti nohy
 a) kĺbové teliesko
 b) kĺbová hlavica
 c) kĺbové svaly
-172
 d) kĺbový maz
 e) kĺbové väzy
 f) kĺbová jamka
@@ -6957,7 +6909,6 @@ h) kostnou dreňou
 a) vyživuje kosť
 b) rozhoduje o tvare dotykových plôch
 c) vyrovnáva zakrivenia plôch kostí v kĺbe
-173
 d) vyživuje chrupku
 e) inervuje kosť
 f) rozhoduje o pohyblivosti kĺbu
@@ -7003,7 +6954,6 @@ h) sa stretávajú ihlica, ramenná a vretenná kosť
 a) panva, lebka, jabĺčko
 b) hrudná kosť, stavec, strmienok
 c) jabĺčko, článok prsta, píšťala
-174
 d) kľúčna kosť, ramenná kosť, stehnová kosť
 e) kostrč, krížová kosť, panvová kosť
 f) kosť zápästia, jabĺčko, lebka
@@ -7049,7 +6999,6 @@ h) dvanásť
 a) je to kĺbové spojenie
 b) nie je to kĺbové spojenie
 c) je to zvláštny typ spojenia stavcov
-175
 d) zub čapovca umožňuje otáčavé pohyby hlavy
 e) zub čapovca je kĺbovo spojený s nosičom
 f) zub čapovca je kĺbovo spojený s oblúkom nosiča
@@ -7095,7 +7044,6 @@ h) desať
 a) atlas nemá telo
 b) atlas má predný oblúk
 c) atlas nemá zadný oblúk
-176
 d) atlas má zadný oblúk
 e) atlas má dva zadné oblúky
 f) atlas sa spája s lebkou
@@ -7141,7 +7089,6 @@ h) sa skladá z rukoväte, tela a mečovitého výbežku
 a) desať
 b) jedenásť
 c) dvanásť
-177
 d) štrnásť
 e) trinásť
 f) sedem
@@ -7186,7 +7133,6 @@ h) pomalé (čierne)
 779. Čo je svalový tonus?
 a) je to sila pôsobiaca na sťah priečne pruhovaného svalstva
 b) udržiavanie trvalého mierneho sťahu hladkého svalstva
-178
 c) udržiavanie trvalého mierneho sťahu priečne pruhovaného svalstva
 d) maximálna kontrakcia priečne pruhovaného svalstva
 e) pokojové napätie svalu
@@ -7232,7 +7178,6 @@ h) hladké svaly, ktoré sú ovládané vôľou
 784. Srdcová svalovina:
 a) má schopnosť kontrakcie
 b) sa zmršťuje arytmicky
-179
 c) sa zmršťuje automaticky
 d) sa zmršťuje rytmicky
 e) sa zmršťuje a neochabuje
@@ -7278,7 +7223,6 @@ h) drobné svaly stredného ucha
 789. K svalom tváre patrí:
 a) vretenný sval
 b) napínač širokej pokrývky
-180
 c) veľký jarmový sval
 d) spánkový sval
 e) smiechový sval
@@ -7324,7 +7268,6 @@ h) veľký prsný sval
 794. O svaloch brucha u človeka platí, že:
 a) patrí k nim priamy sval brucha
 b) zaraďujeme k nim svaly na zadnej stene trupu
-181
 c) sú väčšinou rozsiahle a ploché
 d) patrí k nim lichobežníkový sval
 e) patrí k nim vonkajší šikmý sval brucha
@@ -7370,7 +7313,6 @@ h) sú bedrové svaly
 799. Ktoré významné zvierače ovládané vôľou patria medzi svaly panvy?
 a) len vnútorný zvierač močovej rúry
 b) len vonkajší análny zvierač
-182
 c) vonkajší a vnútorný zvierač močovej rúry
 d) vonkajší zvierač močovej rúry
 e) vonkajší análny zvierač
@@ -7415,7 +7357,6 @@ g) patrí k nim sval, ktorý spôsobuje natiahnutie v kĺbe kolena
 h) patrí k nim trojhlavý sval lýtka
 804. K svalom dolnej končatiny patrí:
 a) napínač úzkej pokrývky
-183
 b) ohýbač kolena
 c) predný píšťalový sval
 d) poloblanitý sval
@@ -8424,7 +8365,6 @@ b) naplnenie srdca krvou
 c) naplnenie predsiení krvou
 d) vysoká frekvencia činnosti srdca
 e) súčasť srdcového cyklu
-207
 f) naplnenie komôr krvou
 g) fáza činnosti srdca
 h) stav nečinnosti srdca
@@ -8470,7 +8410,6 @@ b) elektroencefalogram
 c) grafický záznam mechanickej práce srdca
 d) elektrokardiogram
 e) znázorňuje činnosť chlopní
-208
 f) záznam, ktorý má u stavovcov dosť podobný tvar
 g) znázorňuje prúdenie krvi v dutinovom systéme srdca
 h) záznam statickej práce srdca
@@ -8516,7 +8455,6 @@ b) systolický
 c) onkotický
 d) diastolický
 e) hydrostatický
-209
 f) hydrodynamický
 g) maximálny
 h) Archimedov
@@ -8556,7 +8494,6 @@ e) je súčasťou veľkého krvného obehu
 f) je súčasťou malého krvného obehu
 g) odvádza okysličenú krv z pľúc
 h) ústi do ľavej komory srdca
-210
 928. Čo odvádza okysličenú krv z pľúc?
 a) horná dutá žila
 b) pľúcne žily
@@ -8981,7 +8918,6 @@ e) Ramapithecus
 f) Primates
 g) Antropoidea
 h) Hominidae
-221
 974. Ako sa nazýva najstarší zástupca (rod) čeľade hominidi z Ázie a Afriky, ktorého existencia sa datuje do doby pred l4 až l2 miliónmi rokov?
 a) rod Ramapithecus
 b) rod Australopithecus
@@ -9027,7 +8963,6 @@ e) jav, ktorý vedie k vzniku závislosti od drogy
 f) napr. kofeinizmus, nikotinizmus a alkoholizmus
 g) napr. kofeinizmus, nikotinizmus a alibizmus
 h) napr. kofeinizmus, oportunizmus a alibizmus
-222
 979. Hlavné zásoby fosforu potrebné pre biotickú časť obehu sa nachádzajú v:
 a) horninách
 b) usadeninách
@@ -9073,7 +9008,6 @@ e) parazitický
 f) dehydratačný
 g) obligátno-symbiotický
 h) mykoritický
-223
 984. Ktoré základné vlastnosti charakterizujú populáciu?
 a) hustota
 b) rast
@@ -9110,7 +9044,6 @@ e) čeľaď
 f) podčeľad
 g) podtrieda
 h) rad
-224
 988. Čo tvorí populáciu?
 a) jedince rôznych biologických druhov, ktoré osídľujú isté prírodné územie
 b) jedince rovnakého biologického druhu, ktoré osídľujú v danom čase isté územie
@@ -9147,7 +9080,6 @@ e) žiadne, sú si navzájom zdrojom potravy
 f) prarazity sú anaeróbne
 g) parazity sú väčšie ako predátory
 h) predátory sú potravou parazitov
-225
 992. Ako znižujeme nadmerné množstvo odpadov?
 a) spaľovaním
 b) likvidáciou odpadov
@@ -9193,7 +9125,6 @@ e) základnou jednotkou evolúcie je druh
 f) všetky druhy rastlín a živočíchov majú spoločných predkov
 g) boj o život ovplyvňuje evolúciu
 h) prírodný výber neovplyvňuje evolúciu
-226
 997. Homo erectus erectus:
 a) mal výšku 155 - 170 cm
 b) kapacita lebky bola 850 - 1300 cm3
@@ -9230,7 +9161,6 @@ e) sekundárna produkcia
 f) hrubý národný produkt
 g) štátny rozpočet
 h) daň z pridanej hodnoty
-227
 Kľúč k otázkam z biológie
 1
 SNSNSNSS
@@ -9484,7 +9414,6 @@ NSNSNNNN
 SNNSNNNN
 126
 SSNSNSNS
-228
 127
 SSSSSNNN
 128
@@ -9749,7 +9678,6 @@ SNSNNSNN
 NNNSNNSS
 258
 SSNSSSNN
-229
 259
 SNSNNNSN
 260
@@ -10014,7 +9942,6 @@ NNNSNNSN
 SNNNSNNN
 390
 NNNSSNSS
-230
 391
 NSSSSNSS
 392
@@ -10279,7 +10206,6 @@ NSSNNNNN
 NNNNNNSN
 522
 NSSNNSNN
-231
 523
 NNSNSSSN
 524
@@ -10544,7 +10470,6 @@ SNSNSNNS
 NNSNSNNN
 654
 NNNNNNNN
-232
 655
 NNSNSNNN
 656
@@ -10809,7 +10734,6 @@ SNSSNSNS
 SNSNNSSS
 786
 SNSNSSNS
-233
 787
 NNNSSSNS
 788
@@ -11074,7 +10998,6 @@ SNSNNSSN
 NNNNSSNN
 918
 SNNSNSNN
-234
 919
 NSSNSSNS
 920
@@ -11239,8 +11162,3 @@ NNNNSNNN
 SSSSNNNN
 1000
 SNSSSNNN
-235
-Podklady na prijímacie skúšky z biológie
-Vydala Univerzita Komenského v Bratislave
-Rozsah 234 strán, náklad 1000, vytlačené v septembri 2025
-ISBN 978-80-223-5922-1

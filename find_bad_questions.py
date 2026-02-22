@@ -1,63 +1,53 @@
 import re
 
-INPUT_FILE = "biologyV3.txt"
-EXPECTED = list("ABCDEFGH")
+INPUT_FILE = "biotest.txt"
 
-def find_bad_questions(text):
-    lines = text.splitlines()
-    i = 0
-    bad = []
+OPTION_H_RE = re.compile(r"^h\)", re.IGNORECASE)
+PAGE_RE = re.compile(r"^\d+$")
+QUESTION_RE = re.compile(r"^\d+\.")
 
-    while i < len(lines):
-        m = re.match(r"^(\d+)\.", lines[i].strip())
-        if not m:
-            i += 1
-            continue
+def find_page_numbers(lines):
 
-        qnum = int(m.group(1))
-        i += 1
+    pages = []
+    errors = []
 
-        option_lines = []
+    for i in range(len(lines) - 2):
 
-        while i < len(lines) and not re.match(r"^\d+\.", lines[i]):
-            line = lines[i]
-            # если строка содержит хотя бы один вариант
-            if re.search(r"\b[a-h]\)", line, re.IGNORECASE):
-                option_lines.append(line)
-            i += 1
+        line1 = lines[i].strip()
+        line2 = lines[i+1].strip()
+        line3 = lines[i+2].strip()
 
-        # 1️⃣ проверка: ровно 8 строк с вариантами
-        if len(option_lines) != 8:
-            bad.append((qnum, "НЕ 8 строк вариантов", option_lines))
-            continue
+        if OPTION_H_RE.match(line1):
 
-        # 2️⃣ проверка: в каждой строке ТОЛЬКО один вариант
-        for line in option_lines:
-            found = re.findall(r"\b([a-h])\)", line, re.IGNORECASE)
-            if len(found) != 1:
-                bad.append((qnum, "СКЛЕЕНЫ ВАРИАНТЫ", option_lines))
-                break
+            if PAGE_RE.match(line2):
 
-        # 3️⃣ проверка порядка
-        letters = [
-            re.search(r"\b([a-h])\)", l, re.IGNORECASE).group(1).upper()
-            for l in option_lines
-            if re.search(r"\b([a-h])\)", l, re.IGNORECASE)
-        ]
+                if QUESTION_RE.match(line3):
 
-        if letters != EXPECTED:
-            bad.append((qnum, "НЕВЕРНЫЙ ПОРЯДОК", option_lines))
+                    pages.append((i+1, int(line2)))
 
-    return bad
+                else:
+                    errors.append((i+1, "ПОСЛЕ НОМЕРА СТРАНИЦЫ НЕТ ВОПРОСА"))
+
+            else:
+                errors.append((i+1, "ПОСЛЕ h) НЕТ НОМЕРА СТРАНИЦЫ"))
+
+    return pages, errors
 
 
 if __name__ == "__main__":
+
     with open(INPUT_FILE, encoding="utf-8") as f:
-        text = f.read()
+        lines = f.readlines()
 
-    bad = find_bad_questions(text)
+    pages, errors = find_page_numbers(lines)
 
-    print(f"\nНайдено битых вопросов: {len(bad)}\n")
+    print("Найдено номеров страниц:", len(pages))
+    print("Ожидалось:", 234)
 
-    for qnum, reason, lines in bad:
-        print(f"❌ Вопрос {qnum}: {reason}")
+    if len(pages) != 234:
+        print("❌ НЕСОВПАДЕНИЕ КОЛИЧЕСТВА")
+
+    print("\nОшибки структуры:", len(errors))
+
+    for e in errors[:20]:
+        print(e)
