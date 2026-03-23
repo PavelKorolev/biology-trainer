@@ -12,7 +12,6 @@
             line-height: 1.5;
         }
 
-        /* ---------- вкладки ---------- */
         .tabs {
             display: flex;
             gap: 15px;
@@ -33,7 +32,6 @@
             color: #1e3a8a;
         }
 
-        /* ---------- заголовки ---------- */
         h2 {
             margin-bottom: 5px;
         }
@@ -43,7 +41,6 @@
             margin-bottom: 10px;
         }
 
-        /* ---------- прогресс ---------- */
         .progress-box {
             background: #f4f7ff;
             padding: 12px;
@@ -63,7 +60,6 @@
             margin-bottom: 4px;
         }
 
-        /* ---------- вопрос ---------- */
         .question {
             font-size: 17px;
             margin-bottom: 15px;
@@ -106,7 +102,6 @@
 
 <body>
 
-<!-- ---------- вкладки предметов ---------- -->
 <div class="tabs">
     <a href="/start" class="tab {% if subject == 'biology' %}active{% endif %}">
         🧬 Биология
@@ -138,16 +133,16 @@
 
 <progress value="{{ current }}" max="{{ total }}"></progress>
 
-<!-- ---------- статистика за сегодня ---------- -->
+<!-- ✅ исправлено -->
 {% if progress["days"] and today in progress["days"] %}
 <div class="progress-box">
     <strong>📊 Сегодня:</strong>
-    {{ progress["days"][today].answered }} вопросов,
-    {{ progress["days"][today].correct }} правильно
+    {{ progress["days"][today]["answered"] }} вопросов,
+    {{ progress["days"][today]["correct"] }} правильно
 </div>
 {% endif %}
 
-<!-- ---------- календарь ---------- -->
+<!-- ✅ исправлено -->
 {% if progress["days"] %}
 <div class="calendar">
     <strong>📅 Прогресс по дням:</strong>
@@ -155,8 +150,8 @@
         {% for d, stat in progress["days"].items() %}
             <li>
                 {{ d }} —
-                {{ stat.answered }} вопросов,
-                {{ stat.correct }} правильно
+                {{ stat["answered"] }} вопросов,
+                {{ stat["correct"] }} правильно
             </li>
         {% endfor %}
     </ul>
@@ -165,7 +160,6 @@
 
 <hr>
 
-<!-- ---------- вопрос ---------- -->
 <div class="question">
     <strong>{{ question.question }}</strong>
 </div>
@@ -192,13 +186,12 @@
     {% endif %}
 </form>
 
-<!-- ---------- результат ---------- -->
 {% if result is not none %}
     <hr>
 
     {% if result %}
         <p class="correct">✅ Правильно</p>
-    {% else %}
+        {% else %}
         <p class="wrong">❌ Есть ошибка</p>
 
         {% if question.correct | length == 0 %}
