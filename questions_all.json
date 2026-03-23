@@ -4981,7 +4981,11 @@
       "A": "31,5%",
       "B": "21,5%",
       "C": "41%",
-      "D": "37,8%"
+      "D": "37,8%",
+      "E": "14,1%",
+      "F": "6,6%",
+      "G": "85%",
+      "H": "15%"
     },
     "correct": [
       "C"
@@ -5331,7 +5335,10 @@
       "B": "dedí sa gonozómovo dominantne",
       "C": "je enzymopatia",
       "D": "je recesívne viazaná na somatický chromozóm Y",
-      "E": "je recesívne viazaná, vloha je na somatickom chromozóme"
+      "E": "je recesívne viazaná, vloha je na somatickom chromozóme",
+      "F": "intermediárne, vloha je na somatickom chromozóme",
+      "G": "kodominantne, spolu s iným typom enzymopatie",
+      "H": "gonozómovo recesívne"
     },
     "correct": [
       "A",
@@ -5747,7 +5754,8 @@
       "D": "homozygotne 0 s pravdepodobnosťou 25%",
       "E": "heterozygotne B s pravdepodobnosťou 75%",
       "F": "B s pravdepodobnosťou 50%",
-      "G": "B s pravdepodobnosťou 75%"
+      "G": "B s pravdepodobnosťou 75%",
+      "H": "0 s pravdepodobnosťou 50%"
     },
     "correct": [
       "B",
@@ -6507,7 +6515,9 @@
       "A": "viac typov aktívnych alel",
       "B": "pozitívnych a negatívnych alel",
       "C": "neutrálnych a aktívnych alel",
-      "D": "dvojice aktívnych alel e) génov „malého účinku\" f) génov „veľkého účinku\"",
+      "D": "dvojice aktívnych alel",
+      "E": "génov „malého účinku\"",
+      "F": "génov „veľkého účinku\"",
       "G": "génov pozitívnych",
       "H": "génov len neutrálneho účinku"
     },
@@ -6748,7 +6758,8 @@
     "question": "Kvalitatívne znaky sú napríklad:",
     "options": {
       "A": "farba korunných lupienkov ruže",
-      "B": "intenzita metabolizmu c) sú podmienené jedným génom „veľkého” účinku",
+      "B": "intenzita metabolizmu",
+      "C": "sú podmienené jedným génom „veľkého” účinku",
       "D": "krvná skupina systému Rh",
       "E": "celkový fenotyp",
       "F": "tvar línie vlasov",
@@ -7036,7 +7047,10 @@
       "B": "v každom z nich sú lokusy - miesta, kde sa nachádzajú gény",
       "C": "ich počet v jednej chromozómovej sade sa označuje symbolom n",
       "D": "lokusy na chromozóme sú uložené lineárne za sebou",
-      "E": "ich veľkosť je charakteristická"
+      "E": "ich veľkosť je charakteristická",
+      "F": "ich normálny počet je konštantný",
+      "G": "lokusy na chromozóme sú uložené cirkulárne",
+      "H": "jadrá všetkých telových buniek jedinca (za normálnych okolností) nemajú rovnakú chromozómovú výbavu"
     },
     "correct": [
       "A",
@@ -7205,7 +7219,10 @@
       "B": "chýba v erytrocytoch človeka",
       "C": "sa prenáša nezmenená z rodičov na potomkov",
       "D": "je rovnaká u všetkých pohlavných buniek jedinca",
-      "E": "je chromozómová mapa"
+      "E": "je chromozómová mapa",
+      "F": "je pár pohlavných chromozómov",
+      "G": "je tvorená aj autozómami",
+      "H": "je tvorená aj gonozómami"
     },
     "correct": [
       "A",
@@ -8022,7 +8039,11 @@
       "A": "znaky",
       "B": "fenotypy",
       "C": "vlastnosti",
-      "D": "gény"
+      "D": "gény",
+      "E": "varianty génov",
+      "F": "vlohy",
+      "G": "alely",
+      "H": "variability"
     },
     "correct": [
       "D",
@@ -8413,7 +8434,11 @@
       "A": "s reciprokým krížení dostaneme iné genotypové a fenotypové pomery",
       "B": "môže sa objaviť dedičnosť krížom",
       "C": "môže sa objaviť uniformita hybridov, pri čom nezáleží či otec alebo matka nesú recesívnu alelu",
-      "D": "je to kríženie dvoch rozdielnych genotypov, pri ktorom sa rodičovskí partneri"
+      "D": "je to kríženie dvoch rozdielnych genotypov, pri ktorom sa rodičovskí partneri zamieňajú vo funkcii otca a matky",
+      "E": "môže sa objaviť dedičnosť krížom, teda samčekovia zdedia vlastnosti po otcovi a samičky po matke",
+      "F": "môže sa objaviť uniformita krížencov, teda všetko potomstvo je fenotypovo rovnaké",
+      "G": "aby sa prejavila dedičnosť krížom, musí mať pohlavie typu XX dve recesívne alely a pohlavie XY dominantnú alelu",
+      "H": "muž nikdy neodovzdá dcéram genetickú informáciu na pohlavných chromozómoch"
     },
     "correct": [
       "A",
@@ -8652,7 +8677,10 @@
       "B": "štiepenie DNA a prípravu genetických konštruktov",
       "C": "amplifikáciu fragmentov DNA v bakteriálnych plazmidoch",
       "D": "prípravu hybridnej DNA",
-      "E": "hybridizáciu vybraných jedincov"
+      "E": "hybridizáciu vybraných jedincov",
+      "F": "izoláciu génov a ich vsunutie do buniek nepríbuzných organizmov",
+      "G": "prípravu hybridných proteínov",
+      "H": "využitie reštrikčných endonukleáz na ligáciu fragmentov DNA a plazmidov"
     },
     "correct": [
       "A",
@@ -8952,10 +8980,11 @@
       "A": "0,995",
       "B": "0,00995",
       "C": "99,5%",
-      "D": "0,995% e) 0,00095",
-      "E": "0,990025",
-      "F": "99,0025%",
-      "G": "0,990025%"
+      "D": "0,995%",
+      "E": "0,00095",
+      "F": "0,990025",
+      "G": "99,0025%",
+      "H": "0,990025%"
     },
     "correct": [
       "B",
@@ -9366,7 +9395,11 @@
       "A": "0,33",
       "B": "33%",
       "C": "0,1089",
-      "D": "10,89"
+      "D": "10,89",
+      "E": "0,1089%",
+      "F": "10,89%",
+      "G": "41,72%",
+      "H": "0,4172"
     },
     "correct": [
       "C",
@@ -9597,7 +9630,11 @@
       "A": "0,00064",
       "B": "64,50",
       "C": "0,64%",
-      "D": "20,40"
+      "D": "20,40",
+      "E": "0,36%",
+      "F": "0,0064",
+      "G": "6,4%",
+      "H": "0,064"
     },
     "correct": [
       "C",
@@ -9818,7 +9855,11 @@
       "A": "odpočítaním frekvencie recesívnej alely od frekvencie dominantnej alely",
       "B": "odpočítaním frekvencie recesívnej alely od 1",
       "C": "pripočítaním frekvencie dominantnej alely k frekvencii recesívnej alely",
-      "D": "odpočítaním frekvencie dominantnej alely od 1"
+      "D": "odpočítaním frekvencie dominantnej alely od 1",
+      "E": "vynásobením frekvencie dominantnej a recesívnej alely dvomi",
+      "F": "druhou mocninou od frekvencie dominantnej alely",
+      "G": "odmocnením frekvencie dominantných homozygotov",
+      "H": "odmocnením frekvencie recesívnych homozygotov"
     },
     "correct": [
       "D"
@@ -11127,13 +11168,14 @@
     "id": 588,
     "question": "Pôvodcami ťažkých bakteriálnych hnačkových ochorení sú zástupcovia rodov:",
     "options": {
-      "A": "h) Escherichia",
+      "A": "Salmonella",
       "B": "Klebsiella",
       "C": "Streptococcus",
       "D": "Mycobacterium",
       "E": "Treponema",
       "F": "Neisseria",
-      "G": "Shigella"
+      "G": "Shigella",
+      "H": "Escherichia"
     },
     "correct": [
       "A",
@@ -12387,7 +12429,10 @@
       "B": "reflex",
       "C": "bunky alebo zakončenia nervových vlákien, schopné premeny energie pôsobiacej na ne z vnútorného prostredia na signál (zmenu elektrického potenciálu na bunkovej membráne)",
       "D": "neurity",
-      "E": "bunky alebo zakončenia nervových vlákien, schopné premeny energie pôsobiacej na ne z vonkajšieho prostredia na signál (zmenu elektrického potenciálu na bunkovej membráne)"
+      "E": "bunky alebo zakončenia nervových vlákien, schopné premeny energie pôsobiacej na ne z vonkajšieho prostredia na signál (zmenu elektrického potenciálu na bunkovej membráne)",
+      "F": "bunky alebo zakončenia nervových vlákien, schopné premeny energie pôsobiacej na ne z vonkajšieho prostredia na signál (zmenu elektrochemického potenciálu na bunkovej membráne)",
+      "G": "špecializované zmyslové bunky alebo zakončenia odstredivých nervových vlákien",
+      "H": "špecializované zmyslové bunky alebo zakončenia dostredivých nervových vlákien"
     },
     "correct": [
       "A",
@@ -12473,7 +12518,12 @@
     "options": {
       "A": "pod bliznou",
       "B": "na vonkajšej membráne rohovky",
-      "C": "na zadnej stene šošovky"
+      "C": "na zadnej stene šošovky",
+      "D": "v sietnici",
+      "E": "na zadnej ploche sklovca",
+      "F": "na zadnej ploche očnej gule",
+      "G": "v koži ako receptory na vnímanie tlaku",
+      "H": "v koži ako receptory na vnímanie chladu"
     },
     "correct": [
       "D",
@@ -12985,7 +13035,8 @@
       "D": "prejavuje sa ochabovaním jednotlivých funkčných sústav",
       "E": "sprevádzajú ho zmeny v obehovej sústave",
       "F": "sprevádzajú ho zmeny v centrálnej nervovej sústave",
-      "G": "sprevádza ho vzostup psychickej a fyzickej výkonnosti h) prebieha optimálne ako „aktívna staroba\""
+      "G": "sprevádza ho vzostup psychickej a fyzickej výkonnosti",
+      "H": "prebieha optimálne ako „aktívna staroba\""
     },
     "correct": [
       "C",
@@ -13424,7 +13475,10 @@
       "B": "maternica je v diastole",
       "C": "sťahy maternice vytláčajú plod von",
       "D": "hrdlo a bránka maternice sa rozširujú",
-      "E": "odteká tkanivový mok"
+      "E": "odteká tkanivový mok",
+      "F": "odteká plodová voda",
+      "G": "hrdlo a bránka maternice sa zužujú",
+      "H": "placenta sa porodí ako prvá"
     },
     "correct": [
       "A",
@@ -13789,7 +13843,10 @@
       "B": "trvá 8 - 10 rokov",
       "C": "rozdeľujeme ho na pubertu a vlastné dospievanie",
       "D": "charakterizuje ho prudký rast a vývin organizmu",
-      "E": "hypotalamo-hypofýzová sústava dáva podnet na rozvoj pohlavných žliaz a vylučovanie pohlavných hormónov v nich"
+      "E": "hypotalamo-hypofýzová sústava dáva podnet na rozvoj pohlavných žliaz a vylučovanie pohlavných hormónov v nich",
+      "F": "začínajú sa vytvárať zrelé pohlavné bunky",
+      "G": "zastavuje sa rozvoj primárnych a sekundárnych pohlavných znakov",
+      "H": "končí sa 12. rokom veku"
     },
     "correct": [
       "A",
@@ -13892,7 +13949,12 @@
     "options": {
       "A": "pokrýva povrch tela",
       "B": "tvorí pevnú a pohyblivú oporu tela",
-      "C": "má termoregulačnú funkciu"
+      "C": "má termoregulačnú funkciu",
+      "D": "tvorí závesný aparát pre pohybové orgány",
+      "E": "nechráni telo pred stratou vody",
+      "F": "tvorí základ rôznych pokožkových útvarov",
+      "G": "nemá zásadný význam pre látkovú výmenu",
+      "H": "zabraňuje vnikaniu choroboplodných zárodkov"
     },
     "correct": [
       "A",
@@ -13988,7 +14050,12 @@
     "options": {
       "A": "mazové žľazy",
       "B": "potné žľazy",
-      "C": "receptory"
+      "C": "receptory",
+      "D": "hmatové telieska",
+      "E": "proprioreceptory",
+      "F": "chemoreceptory",
+      "G": "krvné cievy",
+      "H": "bičíky"
     },
     "correct": [
       "A",
@@ -14085,7 +14152,12 @@
     "options": {
       "A": "plášťové lamely kompaktnej kosti",
       "B": "rúrkovité lamely kompaktnej kosti",
-      "C": "kostné bunky"
+      "C": "kostné bunky",
+      "D": "okosticu",
+      "E": "cievy a nervy okostice",
+      "F": "mazové žľazy",
+      "G": "trámce hubovitého kostného tkaniva",
+      "H": "väzivový obal"
     },
     "correct": [
       "A",
@@ -14181,7 +14253,12 @@
     "options": {
       "A": "v kostnej dreni krátkych kostí",
       "B": "v slezine",
-      "C": "vo svaloch"
+      "C": "vo svaloch",
+      "D": "v okostici dlhých kostí",
+      "E": "v kostnej dreni plochých kostí",
+      "F": "v obličkách",
+      "G": "v pečeni",
+      "H": "v miazgových uzlinách"
     },
     "correct": [
       "A",
@@ -14272,7 +14349,12 @@
     "options": {
       "A": "kĺbové teliesko",
       "B": "kĺbová hlavica",
-      "C": "kĺbové svaly"
+      "C": "kĺbové svaly",
+      "D": "kĺbový maz",
+      "E": "kĺbové väzy",
+      "F": "kĺbová jamka",
+      "G": "kĺbové puzdro",
+      "H": "kĺbová chrupka"
     },
     "correct": [
       "B",
@@ -14365,7 +14447,12 @@
     "options": {
       "A": "vyživuje kosť",
       "B": "rozhoduje o tvare dotykových plôch",
-      "C": "vyrovnáva zakrivenia plôch kostí v kĺbe"
+      "C": "vyrovnáva zakrivenia plôch kostí v kĺbe",
+      "D": "vyživuje chrupku",
+      "E": "inervuje kosť",
+      "F": "rozhoduje o pohyblivosti kĺbu",
+      "G": "je dôležitou súčasťou kĺbu",
+      "H": "zmierňuje trenie"
     },
     "correct": [
       "D",
@@ -14453,7 +14540,12 @@
     "options": {
       "A": "panva, lebka, jabĺčko",
       "B": "hrudná kosť, stavec, strmienok",
-      "C": "jabĺčko, článok prsta, píšťala"
+      "C": "jabĺčko, článok prsta, píšťala",
+      "D": "kľúčna kosť, ramenná kosť, stehnová kosť",
+      "E": "kostrč, krížová kosť, panvová kosť",
+      "F": "kosť zápästia, jabĺčko, lebka",
+      "G": "lebka, jabĺčko, kosť zápästia",
+      "H": "stehnová kosť, ramenná kosť, kľúčna kosť"
     },
     "correct": [
       "A",
@@ -14549,7 +14641,12 @@
     "options": {
       "A": "je to kĺbové spojenie",
       "B": "nie je to kĺbové spojenie",
-      "C": "je to zvláštny typ spojenia stavcov"
+      "C": "je to zvláštny typ spojenia stavcov",
+      "D": "zub čapovca umožňuje otáčavé pohyby hlavy",
+      "E": "zub čapovca je kĺbovo spojený s nosičom",
+      "F": "zub čapovca je kĺbovo spojený s oblúkom nosiča",
+      "G": "zub čapovca je kĺbovo spojený so zadným oblúkom nosiča",
+      "H": "zub čapovca je kĺbovo spojený s predným oblúkom nosiča"
     },
     "correct": [
       "A",
@@ -14639,7 +14736,12 @@
     "options": {
       "A": "atlas nemá telo",
       "B": "atlas má predný oblúk",
-      "C": "atlas nemá zadný oblúk"
+      "C": "atlas nemá zadný oblúk",
+      "D": "atlas má zadný oblúk",
+      "E": "atlas má dva zadné oblúky",
+      "F": "atlas sa spája s lebkou",
+      "G": "čapovec má hore výbežok – „zub“",
+      "H": "v otvore nosiča je priečny väz"
     },
     "correct": [
       "A",
@@ -14738,7 +14840,12 @@
     "options": {
       "A": "desať",
       "B": "jedenásť",
-      "C": "dvanásť"
+      "C": "dvanásť",
+      "D": "štrnásť",
+      "E": "trinásť",
+      "F": "sedem",
+      "G": "osem",
+      "H": "deväť"
     },
     "correct": [
       "C"
@@ -14822,7 +14929,13 @@
     "question": "Čo je svalový tonus?",
     "options": {
       "A": "je to sila pôsobiaca na sťah priečne pruhovaného svalstva",
-      "B": "udržiavanie trvalého mierneho sťahu hladkého svalstva"
+      "B": "udržiavanie trvalého mierneho sťahu hladkého svalstva",
+      "C": "udržiavanie trvalého mierneho sťahu priečne pruhovaného svalstva",
+      "D": "maximálna kontrakcia priečne pruhovaného svalstva",
+      "E": "pokojové napätie svalu",
+      "F": "infekčné ochorenie",
+      "G": "dedičná vývinová chyba",
+      "H": "degeneratívne ochorenie svalu"
     },
     "correct": [
       "B",
@@ -14914,7 +15027,13 @@
     "question": "Srdcová svalovina:",
     "options": {
       "A": "má schopnosť kontrakcie",
-      "B": "sa zmršťuje arytmicky"
+      "B": "sa zmršťuje arytmicky",
+      "C": "sa zmršťuje automaticky",
+      "D": "sa zmršťuje rytmicky",
+      "E": "sa zmršťuje a neochabuje",
+      "F": "pracuje vo fázach - systola a diastola",
+      "G": "vykonáva statickú prácu",
+      "H": "obsahuje priehradky, ktoré rozdeľujú jednotlivé vlákna"
     },
     "correct": [
       "A",
@@ -15010,7 +15129,13 @@
     "question": "K svalom tváre patrí:",
     "options": {
       "A": "vretenný sval",
-      "B": "napínač širokej pokrývky"
+      "B": "napínač širokej pokrývky",
+      "C": "veľký jarmový sval",
+      "D": "spánkový sval",
+      "E": "smiechový sval",
+      "F": "pílový predný sval",
+      "G": "predný píšťalový sval",
+      "H": "malý jarmový sval"
     },
     "correct": [
       "C",
@@ -15101,7 +15226,13 @@
     "question": "O svaloch brucha u človeka platí, že:",
     "options": {
       "A": "patrí k nim priamy sval brucha",
-      "B": "zaraďujeme k nim svaly na zadnej stene trupu"
+      "B": "zaraďujeme k nim svaly na zadnej stene trupu",
+      "C": "sú väčšinou rozsiahle a ploché",
+      "D": "patrí k nim lichobežníkový sval",
+      "E": "patrí k nim vonkajší šikmý sval brucha",
+      "F": "tvoria nepružnú brušnú stenu",
+      "G": "ich silným sťahom vznikne tzv. brušný lis",
+      "H": "patrí k nim poloblanitý sval"
     },
     "correct": [
       "A",
@@ -15192,7 +15323,13 @@
     "question": "Ktoré významné zvierače ovládané vôľou patria medzi svaly panvy?",
     "options": {
       "A": "len vnútorný zvierač močovej rúry",
-      "B": "len vonkajší análny zvierač"
+      "B": "len vonkajší análny zvierač",
+      "C": "vonkajší a vnútorný zvierač močovej rúry",
+      "D": "vonkajší zvierač močovej rúry",
+      "E": "vonkajší análny zvierač",
+      "F": "pílový predný sval",
+      "G": "napínač širokej pokrývky",
+      "H": "slabinový kanál"
     },
     "correct": [
       "D",
@@ -15277,7 +15414,14 @@
     "id": 804,
     "question": "K svalom dolnej končatiny patrí:",
     "options": {
-      "A": "napínač úzkej pokrývky"
+      "A": "napínač úzkej pokrývky",
+      "B": "ohýbač kolena",
+      "C": "predný píšťalový sval",
+      "D": "poloblanitý sval",
+      "E": "deltovitý sval",
+      "F": "dvojhlavý sval stehna",
+      "G": "dlhý sval stehna",
+      "H": "pološľachovitý sval stehna"
     },
     "correct": [
       "B",
@@ -17399,7 +17543,10 @@
       "B": "naplnenie srdca krvou",
       "C": "naplnenie predsiení krvou",
       "D": "vysoká frekvencia činnosti srdca",
-      "E": "súčasť srdcového cyklu"
+      "E": "súčasť srdcového cyklu",
+      "F": "naplnenie komôr krvou",
+      "G": "fáza činnosti srdca",
+      "H": "stav nečinnosti srdca"
     },
     "correct": [
       "A",
@@ -17490,7 +17637,10 @@
       "B": "elektroencefalogram",
       "C": "grafický záznam mechanickej práce srdca",
       "D": "elektrokardiogram",
-      "E": "znázorňuje činnosť chlopní"
+      "E": "znázorňuje činnosť chlopní",
+      "F": "záznam, ktorý má u stavovcov dosť podobný tvar",
+      "G": "znázorňuje prúdenie krvi v dutinovom systéme srdca",
+      "H": "záznam statickej práce srdca"
     },
     "correct": [
       "A",
@@ -17580,7 +17730,10 @@
       "B": "systolický",
       "C": "onkotický",
       "D": "diastolický",
-      "E": "hydrostatický"
+      "E": "hydrostatický",
+      "F": "hydrodynamický",
+      "G": "maximálny",
+      "H": "Archimedov"
     },
     "correct": [
       "D"

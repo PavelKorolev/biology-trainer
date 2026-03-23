@@ -11,6 +11,18 @@ MAX_Q = 1000
 
 # ============================================
 
+# [ФИКС 1] Таблица замены кириллических омоглифов на латиницу
+# Визуально одинаковые буквы, но разные Unicode-символы (OCR-артефакт)
+HOMOGLYPHS = str.maketrans(
+    "аеорсухАЕОРСУХ",
+    "aeopcyxAEOPCYX"
+)
+
+
+def normalize(line: str) -> str:
+    """Заменяет кириллические омоглифы на латиницу."""
+    return line.translate(HOMOGLYPHS)
+
 
 def parse_questions(text: str):
     questions = {}
@@ -36,7 +48,7 @@ def parse_questions(text: str):
         i += 1
 
         # собираем текст вопроса (может быть несколько строк)
-        while i < len(lines) and not re.match(r"^[a-hA-H]\)", lines[i].strip()):
+        while i < len(lines) and not re.match(r"^[a-hA-H]\)", normalize(lines[i].strip())):
             if lines[i].strip():
                 question_parts.append(lines[i].strip())
             i += 1
@@ -48,12 +60,24 @@ def parse_questions(text: str):
         while i < len(lines):
             opt_line = lines[i]
 
-            # OCR-косяки
+            # [ФИКС 2] пропускаем пустые строки внутри блока вариантов
+            if not opt_line.strip():
+                i += 1
+                continue
+
+            # если наткнулись на следующий вопрос — выходим
+            if re.match(r"^\d+\.", opt_line.strip()):
+                break
+
+            # OCR-косяки (оставлено как было)
             opt_line = opt_line.replace("ť)", "g)")
             opt_line = opt_line.replace("Ť)", "G)")
             opt_line = opt_line.replace("\u00A0", " ").strip()
 
-            m_opt = re.match(r"^([a-hA-H])\)\s*(.+)", opt_line)
+            # [ФИКС 1 применение] нормализуем омоглифы перед парсингом буквы варианта
+            opt_line_normalized = normalize(opt_line)
+
+            m_opt = re.match(r"^([a-hA-H])\)\s*(.+)", opt_line_normalized)
             if not m_opt:
                 break
 

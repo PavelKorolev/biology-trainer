@@ -7,9 +7,26 @@ INPUT_FILE = "chemistryV2.txt"
 OUTPUT_FILE = "questions_allChemistry.json"
 
 MIN_Q = 1
-MAX_Q = 300
+MAX_Q = 636
 
 # ============================================
+
+# [ФИКС] Замена кириллических омоглифов на латиницу
+HOMOGLYPHS = str.maketrans("аеорсухАЕОРСУХ", "aeopcyxAEOPCYX")
+
+
+def normalize(line: str) -> str:
+    return line.translate(HOMOGLYPHS)
+
+
+def fix_ocr(line: str) -> str:
+    """Все OCR-замены в одном месте."""
+    line = line.replace("ť)", "g)")
+    line = line.replace("Ť)", "G)")
+    line = line.replace("í)", "f)")   # PDF артефакт: í → f
+    line = line.replace("Í)", "F)")   # PDF артефакт: Í → F
+    line = line.replace("\u00A0", " ")
+    return line
 
 
 def parse_questions(text: str):
@@ -40,7 +57,7 @@ def parse_questions(text: str):
         i += 1
 
         # собираем текст вопроса
-        while i < len(lines) and not re.match(r"^[a-hA-H]\)", lines[i].strip()):
+        while i < len(lines) and not re.match(r"^[a-hA-H]\)", normalize(fix_ocr(lines[i].strip()))):
             if lines[i].strip():
                 question_parts.append(lines[i].strip())
             i += 1
@@ -49,18 +66,37 @@ def parse_questions(text: str):
 
         # варианты ответа
         options = {}
+        last_key = None
         while i < len(lines):
             opt_line = lines[i]
 
-            opt_line = opt_line.replace("ť)", "g)")
-            opt_line = opt_line.replace("Ť)", "G)")
-            opt_line = opt_line.replace("\u00A0", " ").strip()
+            # пропускаем пустые строки
+            if not opt_line.strip():
+                i += 1
+                continue
 
-            m_opt = re.match(r"^([a-hA-H])\)\s*(.+)", opt_line)
-            if not m_opt:
+            # пропускаем номера страниц (одиночное число на строке)
+            if re.match(r"^\d{1,3}$", opt_line.strip()):
+                i += 1
+                continue
+
+            # следующий вопрос — выходим
+            if re.match(r"^\d+\.", opt_line.strip()):
                 break
 
-            options[m_opt.group(1).upper()] = m_opt.group(2).strip()
+            opt_line_fixed = fix_ocr(opt_line).strip()
+
+            m_opt = re.match(r"^([a-hA-H])\)\s*(.+)", normalize(opt_line_fixed))
+            if m_opt:
+                # новый вариант
+                last_key = m_opt.group(1).upper()
+                options[last_key] = m_opt.group(2).strip()
+            elif last_key:
+                # продолжение предыдущего варианта (многострочный текст)
+                options[last_key] += " " + opt_line_fixed
+            else:
+                break
+
             i += 1
 
         questions[num] = {
@@ -71,7 +107,6 @@ def parse_questions(text: str):
         }
 
     return questions
-
 
 
 def parse_answers(text: str):
