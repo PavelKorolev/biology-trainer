@@ -7,14 +7,26 @@ from pathlib import Path
 import json
 import random
 import os
+import secrets
+import logging
+
+logger = logging.getLogger(__name__)
 
 # ================= APP =================
 
 app = FastAPI()
 
+_secret = os.getenv("SECRET_KEY")
+if not _secret:
+    _secret = secrets.token_hex(32)
+    logger.warning(
+        "SECRET_KEY не задан — используется случайный ключ. "
+        "Сессии сбросятся при перезапуске контейнера."
+    )
+
 app.add_middleware(
     SessionMiddleware,
-    secret_key=os.getenv("SECRET_KEY", "trainer-secret")
+    secret_key=_secret
 )
 
 templates = Jinja2Templates(directory="templates")
@@ -148,11 +160,12 @@ def index(request: Request):
     progress = load_progress()
     subject_progress = get_subject_progress(progress, subject)
     qstats = subject_progress.setdefault("questions", {})
-    stat = qstats.setdefault(str(qid), {"shown": 0, "wrong": 0})
-    stat["shown"] += 1
-    save_progress(progress)
 
     if "options_order" not in session or session["options_order"]["qid"] != qid:
+        # вопрос показан впервые (не рефреш) — считаем показ и перемешиваем варианты
+        stat = qstats.setdefault(str(qid), {"shown": 0, "wrong": 0})
+        stat["shown"] += 1
+        save_progress(progress)
         items = list(question["options"].items())
         random.shuffle(items)
         session["options_order"] = {"qid": qid, "items": items}

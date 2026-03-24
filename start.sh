@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 set -e
 
 IMAGE=trainer
@@ -17,8 +17,16 @@ echo "== Stop/remove old container =="
 docker stop $CONTAINER 2>/dev/null || true
 docker rm $CONTAINER 2>/dev/null || true
 
-echo "== Build image (no cache) =="
-docker build --no-cache -t $IMAGE .
+# передай --fresh чтобы собрать без кэша: ./start.sh --fresh
+BUILD_FLAGS=""
+if [[ "$1" == "--fresh" ]]; then
+    BUILD_FLAGS="--no-cache"
+    echo "== Build image (no cache) =="
+else
+    echo "== Build image =="
+fi
+
+docker build $BUILD_FLAGS -t $IMAGE .
 
 echo "== Run container =="
 docker run -d -p ${PORT}:8000 --name $CONTAINER \

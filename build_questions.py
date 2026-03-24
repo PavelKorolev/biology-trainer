@@ -24,6 +24,14 @@ def normalize(line: str) -> str:
     return line.translate(HOMOGLYPHS)
 
 
+def fix_ocr(line: str) -> str:
+    """Все OCR-замены в одном месте."""
+    line = line.replace("ť)", "g)")
+    line = line.replace("Ť)", "G)")
+    line = line.replace("\u00A0", " ")
+    return line
+
+
 def parse_questions(text: str):
     questions = {}
 
@@ -69,12 +77,7 @@ def parse_questions(text: str):
             if re.match(r"^\d+\.", opt_line.strip()):
                 break
 
-            # OCR-косяки (оставлено как было)
-            opt_line = opt_line.replace("ť)", "g)")
-            opt_line = opt_line.replace("Ť)", "G)")
-            opt_line = opt_line.replace("\u00A0", " ").strip()
-
-            # [ФИКС 1 применение] нормализуем омоглифы перед парсингом буквы варианта
+            opt_line = fix_ocr(opt_line).strip()
             opt_line_normalized = normalize(opt_line)
 
             m_opt = re.match(r"^([a-hA-H])\)\s*(.+)", opt_line_normalized)

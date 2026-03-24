@@ -23,7 +23,7 @@ docker build -t trainer .
 echo ▶ Запускаю контейнер...
 docker run -d ^
  -p 8000:8000 ^
- -v "%cd%\progress.json:/app/progress.json" ^
+ -v "%~dp0progress.json:/app/progress.json" ^
  --name trainer ^
  trainer
 

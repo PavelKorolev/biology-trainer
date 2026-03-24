@@ -2,6 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Тренажёр</title>
 
     <style>
@@ -147,7 +148,7 @@
 <div class="calendar">
     <strong>📅 Прогресс по дням:</strong>
     <ul>
-        {% for d, stat in progress["days"].items() %}
+        {% for d, stat in progress["days"].items() | sort %}
             <li>
                 {{ d }} —
                 {{ stat["answered"] }} вопросов,
