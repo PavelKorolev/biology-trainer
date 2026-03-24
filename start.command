@@ -16,6 +16,9 @@ if ! docker info > /dev/null 2>&1; then
     exit 1
 fi
 
+echo "== Обновляю проект =="
+git pull 2>/dev/null || echo "⚠️  git pull не удался — продолжаю с текущей версией"
+
 echo "== Создаю progress.json если нет =="
 test -f progress.json || echo "{}" > progress.json
 
