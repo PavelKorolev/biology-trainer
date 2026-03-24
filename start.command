@@ -1,8 +1,13 @@
 #!/bin/bash
 set -e
 
-# переходим в папку проекта (работает даже если запускать через Alias с рабочего стола)
-cd "$(dirname "$0")"
+# переходим в папку проекта (работает через симлинк с рабочего стола)
+if [ -L "$0" ]; then
+    SCRIPT_DIR="$(dirname "$(readlink "$0")")"
+else
+    SCRIPT_DIR="$(dirname "$0")"
+fi
+cd "$SCRIPT_DIR"
 
 IMAGE=trainer
 CONTAINER=trainer
