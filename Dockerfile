@@ -7,9 +7,6 @@ RUN apt-get update \
     && apt-get install -y --no-install-recommends curl \
     && rm -rf /var/lib/apt/lists/*
 
-# непривилегированный пользователь
-RUN adduser --disabled-password --gecos "" appuser
-
 # зависимости
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
@@ -21,8 +18,6 @@ COPY templates ./templates
 # ВАЖНО: оба файла вопросов
 COPY questions_all.json .
 COPY questions_allChemistry.json .
-
-USER appuser
 
 EXPOSE 8000
 
